@@ -1,0 +1,219 @@
+[06-Mar-2014 14:58:33 America/Chicago] 1394139513
+[06-Mar-2014 15:04:39 America/Chicago] 1394139879
+[06-Mar-2014 15:04:58 America/Chicago] 1394139898
+[06-Mar-2014 15:05:02 America/Chicago] 1394139902
+[06-Mar-2014 15:05:08 America/Chicago] 1394139908
+[06-Mar-2014 15:06:21 America/Chicago] 1394139981
+[06-Mar-2014 15:07:19 America/Chicago] valid: valid_attempts
+[06-Mar-2014 15:07:19 America/Chicago] 1394140039
+[06-Mar-2014 15:07:26 America/Chicago] valid: valid_attempts
+[06-Mar-2014 15:07:26 America/Chicago] 1394140046
+[06-Mar-2014 15:08:15 America/Chicago] valid: 1394136495
+[06-Mar-2014 15:08:15 America/Chicago] 1394140095
+[06-Mar-2014 15:09:55 America/Chicago] valid: 1394136595
+[06-Mar-2014 15:10:42 America/Chicago] valid: 1394136642
+[06-Mar-2014 15:10:42 America/Chicago] brute!
+[06-Mar-2014 15:12:52 America/Chicago] valid: 1394136772
+[06-Mar-2014 15:12:52 America/Chicago] brute!
+[06-Mar-2014 15:13:05 America/Chicago] valid: 1394136785
+[06-Mar-2014 15:13:05 America/Chicago] brute!
+[06-Mar-2014 15:14:08 America/Chicago] valid: 1394136848
+[06-Mar-2014 15:14:08 America/Chicago] no brute
+[06-Mar-2014 15:18:25 America/Chicago] valid: 1394137105
+[06-Mar-2014 15:18:25 America/Chicago] brute!
+[06-Mar-2014 15:18:55 America/Chicago] valid: 1394137135
+[06-Mar-2014 15:18:55 America/Chicago] brute!
+[06-Mar-2014 15:19:12 America/Chicago] valid: 1394137152
+[06-Mar-2014 15:19:12 America/Chicago] brute!
+[06-Mar-2014 15:22:13 America/Chicago] valid: 1394137333
+[06-Mar-2014 15:22:13 America/Chicago] brute!
+[06-Mar-2014 15:22:19 America/Chicago] valid: 1394137339
+[06-Mar-2014 15:22:19 America/Chicago] brute!
+[06-Mar-2014 15:22:35 America/Chicago] valid: 1394137355
+[06-Mar-2014 15:22:35 America/Chicago] brute!
+[06-Mar-2014 15:22:41 America/Chicago] valid: 1394137361
+[06-Mar-2014 15:22:41 America/Chicago] brute!
+[06-Mar-2014 15:23:18 America/Chicago] valid: 1394137398
+[06-Mar-2014 15:23:18 America/Chicago] brute!
+[06-Mar-2014 15:23:24 America/Chicago] valid: 1394137404
+[06-Mar-2014 15:23:24 America/Chicago] brute!
+[06-Mar-2014 15:24:48 America/Chicago] valid: 1394137488
+[06-Mar-2014 15:24:48 America/Chicago] brute!
+[06-Mar-2014 15:24:56 America/Chicago] valid: 1394137496
+[06-Mar-2014 15:24:56 America/Chicago] no brute
+[06-Mar-2014 15:24:56 America/Chicago] 1394141096
+[06-Mar-2014 15:26:50 America/Chicago] valid: 1394137610
+[06-Mar-2014 15:26:50 America/Chicago] brute!
+[06-Mar-2014 15:27:08 America/Chicago] valid: 1394137628
+[06-Mar-2014 15:27:08 America/Chicago] brute!
+[06-Mar-2014 15:27:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/twhooker/public_html/beta/includes/functions.php:66) in /home2/twhooker/public_html/beta/includes/process_login.php on line 16
+[06-Mar-2014 15:27:36 America/Chicago] valid: 1394137656
+[06-Mar-2014 15:27:36 America/Chicago] brute!
+[06-Mar-2014 15:27:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/twhooker/public_html/beta/includes/functions.php:66) in /home2/twhooker/public_html/beta/includes/process_login.php on line 16
+[06-Mar-2014 15:29:51 America/Chicago] valid: 1394137791
+[06-Mar-2014 15:29:51 America/Chicago] brute!
+[12-Mar-2014 08:25:16 America/Chicago] valid: 1394627116
+[12-Mar-2014 08:25:16 America/Chicago] no brute
+[12-Mar-2014 08:25:16 America/Chicago] 1394630716
+[13-Mar-2014 12:37:32 America/Chicago] fail
+[13-Mar-2014 12:37:41 America/Chicago] fail
+[13-Mar-2014 12:37:51 America/Chicago] fail
+[13-Mar-2014 14:36:48 America/Chicago] fail
+[13-Mar-2014 14:37:31 America/Chicago] fail
+[15-Mar-2014 00:35:27 America/Chicago] fail
+[15-Mar-2014 00:35:33 America/Chicago] fail
+[15-Mar-2014 00:39:13 America/Chicago] fail
+[15-Mar-2014 00:40:26 America/Chicago] fail
+[15-Mar-2014 14:15:31 America/Chicago] fail
+[16-Mar-2014 14:30:26 America/Chicago] fail
+[16-Mar-2014 14:30:38 America/Chicago] fail
+[16-Mar-2014 14:30:51 America/Chicago] fail
+[16-Mar-2014 16:56:24 America/Chicago] fail
+[16-Mar-2014 21:33:29 America/Chicago] fail
+[16-Mar-2014 22:29:54 America/Chicago] fail
+[16-Mar-2014 22:31:00 America/Chicago] fail
+[16-Mar-2014 22:31:37 America/Chicago] fail
+[16-Mar-2014 22:31:44 America/Chicago] fail
+[17-Mar-2014 13:27:53 America/Chicago] fail
+[17-Mar-2014 13:28:06 America/Chicago] fail
+[17-Mar-2014 13:28:10 America/Chicago] fail
+[17-Mar-2014 14:56:12 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home2/twhooker/public_html/beta/includes/process_login.php on line 16
+[17-Mar-2014 14:57:00 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home2/twhooker/public_html/beta/includes/process_login.php on line 16
+[17-Mar-2014 14:57:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home2/twhooker/public_html/beta/includes/process_login.php on line 16
+[17-Mar-2014 14:57:28 America/Chicago] fail
+[17-Mar-2014 14:57:52 America/Chicago] fail
+[17-Mar-2014 14:59:52 America/Chicago] fail
+[17-Mar-2014 15:00:39 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/twhooker/public_html/beta/includes/process_login.php on line 18
+[17-Mar-2014 15:01:16 America/Chicago] fail
+[17-Mar-2014 15:06:00 America/Chicago] fail
+[17-Mar-2014 16:11:22 America/Chicago] fail
+[17-Mar-2014 16:15:27 America/Chicago] fail
+[17-Mar-2014 16:19:55 America/Chicago] fail
+[17-Mar-2014 16:52:37 America/Chicago] fail
+[17-Mar-2014 16:59:41 America/Chicago] fail
+[17-Mar-2014 17:42:40 America/Chicago] fail
+[17-Mar-2014 19:24:19 America/Chicago] fail
+[17-Mar-2014 19:48:36 America/Chicago] fail
+[17-Mar-2014 19:48:45 America/Chicago] fail
+[17-Mar-2014 19:54:53 America/Chicago] fail
+[17-Mar-2014 19:57:29 America/Chicago] valid: 1395100649
+[17-Mar-2014 19:57:29 America/Chicago] no brute
+[17-Mar-2014 19:59:44 America/Chicago] valid: 1395100784
+[17-Mar-2014 19:59:44 America/Chicago] no brute
+[17-Mar-2014 19:59:44 America/Chicago] 1395104384
+[17-Mar-2014 19:59:55 America/Chicago] valid: 1395100795
+[17-Mar-2014 19:59:55 America/Chicago] no brute
+[17-Mar-2014 20:00:04 America/Chicago] valid: 1395100804
+[17-Mar-2014 20:00:04 America/Chicago] no brute
+[17-Mar-2014 20:00:04 America/Chicago] 1395104404
+[17-Mar-2014 20:00:44 America/Chicago] valid: 1395100844
+[17-Mar-2014 20:00:44 America/Chicago] no brute
+[17-Mar-2014 20:00:44 America/Chicago] 1395104444
+[17-Mar-2014 20:01:07 America/Chicago] valid: 1395100867
+[17-Mar-2014 20:01:07 America/Chicago] no brute
+[17-Mar-2014 20:01:07 America/Chicago] 1395104467
+[17-Mar-2014 20:01:34 America/Chicago] valid: 1395100894
+[17-Mar-2014 20:01:34 America/Chicago] no brute
+[17-Mar-2014 20:01:34 America/Chicago] 1395104494
+[17-Mar-2014 20:03:10 America/Chicago] valid: 1395100990
+[17-Mar-2014 20:03:10 America/Chicago] no brute
+[17-Mar-2014 20:03:10 America/Chicago] 1395104590
+[17-Mar-2014 20:03:15 America/Chicago] valid: 1395100995
+[17-Mar-2014 20:03:15 America/Chicago] no brute
+[17-Mar-2014 20:03:15 America/Chicago] 1395104595
+[17-Mar-2014 20:03:19 America/Chicago] valid: 1395100999
+[17-Mar-2014 20:03:19 America/Chicago] no brute
+[17-Mar-2014 20:03:19 America/Chicago] 1395104599
+[17-Mar-2014 20:03:22 America/Chicago] valid: 1395101002
+[17-Mar-2014 20:03:22 America/Chicago] no brute
+[17-Mar-2014 20:03:22 America/Chicago] 1395104602
+[17-Mar-2014 20:03:25 America/Chicago] valid: 1395101005
+[17-Mar-2014 20:03:25 America/Chicago] no brute
+[17-Mar-2014 20:03:25 America/Chicago] 1395104605
+[17-Mar-2014 20:03:29 America/Chicago] valid: 1395101009
+[17-Mar-2014 20:03:29 America/Chicago] no brute
+[17-Mar-2014 20:03:29 America/Chicago] 1395104609
+[17-Mar-2014 20:03:50 America/Chicago] valid: 1395101030
+[17-Mar-2014 20:03:50 America/Chicago] no brute
+[17-Mar-2014 20:03:50 America/Chicago] 1395104630
+[17-Mar-2014 20:05:41 America/Chicago] valid: 1395101141
+[17-Mar-2014 20:05:41 America/Chicago] current: 1395104741
+[17-Mar-2014 20:05:41 America/Chicago] no brute
+[17-Mar-2014 20:05:41 America/Chicago] 1395104741
+[17-Mar-2014 21:16:54 America/Chicago] valid: 1395105414
+[17-Mar-2014 21:16:54 America/Chicago] current: 1395109014
+[17-Mar-2014 21:16:54 America/Chicago] no brute
+[17-Mar-2014 21:17:01 America/Chicago] valid: 1395105421
+[17-Mar-2014 21:17:01 America/Chicago] current: 1395109021
+[17-Mar-2014 21:17:01 America/Chicago] no brute
+[17-Mar-2014 21:17:01 America/Chicago] 1395109021
+[17-Mar-2014 21:17:06 America/Chicago] valid: 1395105426
+[17-Mar-2014 21:17:06 America/Chicago] current: 1395109026
+[17-Mar-2014 21:17:06 America/Chicago] no brute
+[17-Mar-2014 21:17:06 America/Chicago] 1395109026
+[17-Mar-2014 21:17:35 America/Chicago] valid: 1395105455
+[17-Mar-2014 21:17:35 America/Chicago] current: 1395109055
+[17-Mar-2014 21:17:35 America/Chicago] no brute
+[17-Mar-2014 21:17:35 America/Chicago] 1395109055
+[17-Mar-2014 21:17:40 America/Chicago] valid: 1395105460
+[17-Mar-2014 21:17:40 America/Chicago] current: 1395109060
+[17-Mar-2014 21:17:40 America/Chicago] no brute
+[17-Mar-2014 21:17:40 America/Chicago] 1395109060
+[17-Mar-2014 21:31:10 America/Chicago] valid: 1395106270
+[17-Mar-2014 21:31:10 America/Chicago] current: 1395109870
+[17-Mar-2014 21:31:10 America/Chicago] no brute
+[17-Mar-2014 21:31:10 America/Chicago] 1395109870
+[17-Mar-2014 21:31:15 America/Chicago] valid: 1395106275
+[17-Mar-2014 21:31:15 America/Chicago] current: 1395109875
+[17-Mar-2014 21:31:15 America/Chicago] no brute
+[17-Mar-2014 21:31:15 America/Chicago] 1395109875
+[17-Mar-2014 21:31:18 America/Chicago] valid: 1395106278
+[17-Mar-2014 21:31:18 America/Chicago] current: 1395109878
+[17-Mar-2014 21:31:18 America/Chicago] no brute
+[17-Mar-2014 21:31:18 America/Chicago] 1395109878
+[17-Mar-2014 21:31:22 America/Chicago] valid: 1395106282
+[17-Mar-2014 21:31:22 America/Chicago] current: 1395109882
+[17-Mar-2014 21:31:22 America/Chicago] no brute
+[17-Mar-2014 21:31:22 America/Chicago] 1395109882
+[17-Mar-2014 21:32:00 America/Chicago] valid: 1395106320
+[17-Mar-2014 21:32:00 America/Chicago] current: 1395109920
+[17-Mar-2014 21:32:00 America/Chicago] brute!
+[18-Mar-2014 11:55:33 America/Chicago] valid: 1395158133
+[18-Mar-2014 11:55:33 America/Chicago] current: 1395161733
+[18-Mar-2014 11:55:33 America/Chicago] no brute
+[18-Mar-2014 11:55:33 America/Chicago] 1395161733
+[18-Mar-2014 11:56:19 America/Chicago] valid: 1395158179
+[18-Mar-2014 11:56:19 America/Chicago] current: 1395161779
+[18-Mar-2014 11:56:19 America/Chicago] no brute
+[18-Mar-2014 11:56:19 America/Chicago] 1395161779
+[18-Mar-2014 11:57:14 America/Chicago] valid: 1395158234
+[18-Mar-2014 11:57:14 America/Chicago] current: 1395161834
+[18-Mar-2014 11:57:14 America/Chicago] no brute
+[18-Mar-2014 12:34:00 America/Chicago] valid: 1395160440
+[18-Mar-2014 12:34:00 America/Chicago] current: 1395164040
+[18-Mar-2014 12:34:00 America/Chicago] no brute
+[18-Mar-2014 12:34:00 America/Chicago] 1395164040
+[18-Mar-2014 12:34:08 America/Chicago] valid: 1395160448
+[18-Mar-2014 12:34:08 America/Chicago] current: 1395164048
+[18-Mar-2014 12:34:08 America/Chicago] no brute
+[18-Mar-2014 12:34:08 America/Chicago] 1395164048
+[18-Mar-2014 12:34:28 America/Chicago] valid: 1395160468
+[18-Mar-2014 12:34:28 America/Chicago] current: 1395164068
+[18-Mar-2014 12:34:28 America/Chicago] brute!
+[18-Mar-2014 12:34:35 America/Chicago] valid: 1395160475
+[18-Mar-2014 12:34:35 America/Chicago] current: 1395164075
+[18-Mar-2014 12:34:35 America/Chicago] brute!
+[18-Mar-2014 12:36:10 America/Chicago] valid: 1395160570
+[18-Mar-2014 12:36:10 America/Chicago] current: 1395164170
+[18-Mar-2014 12:36:10 America/Chicago] brute!
+[18-Mar-2014 12:36:19 America/Chicago] valid: 1395160579
+[18-Mar-2014 12:36:19 America/Chicago] current: 1395164179
+[18-Mar-2014 12:36:19 America/Chicago] brute!
+[18-Mar-2014 12:37:12 America/Chicago] valid: 1395160632
+[18-Mar-2014 12:37:12 America/Chicago] current: 1395164232
+[18-Mar-2014 12:37:12 America/Chicago] brute!
+[18-Mar-2014 12:39:01 America/Chicago] valid: 1395160741
+[18-Mar-2014 12:39:01 America/Chicago] current: 1395164341
+[18-Mar-2014 12:39:01 America/Chicago] brute!
+[18-Mar-2014 12:39:01 America/Chicago] brute in login function
+[18-Mar-2014 15:20:08 America/Chicago] User does not exist

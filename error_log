@@ -1,0 +1,89 @@
+
+[06-Mar-2014 14:28:04 America/Chicago] fname: test
+[06-Mar-2014 14:28:17 America/Chicago] calling login_check
+[06-Mar-2014 14:28:17 America/Chicago] session email: test@test.com
+[06-Mar-2014 14:28:30 America/Chicago] fname: z\n
+[06-Mar-2014 14:28:30 America/Chicago] mname: \n
+[06-Mar-2014 14:28:30 America/Chicago] lname: v\n
+[06-Mar-2014 14:28:30 America/Chicago] dob: 1234\n
+[06-Mar-2014 14:28:30 America/Chicago] maritalStatus: Single\n
+[06-Mar-2014 14:28:30 America/Chicago] password: c12834f1031f6497214f27d4432f26517ad494156cb88d512bdb1dc4b57db2d692a3dfa269a19b0a0a2a0fd7d6a2a885e33c839c93c206da30a187392847ed27\n
+[06-Mar-2014 14:28:30 America/Chicago] educationLevel: HighSchoolDiploma\n
+[06-Mar-2014 14:28:30 America/Chicago] sex: \n
+[06-Mar-2014 14:28:30 America/Chicago] phone: \n
+[06-Mar-2014 14:28:30 America/Chicago] address: \n
+[06-Mar-2014 14:28:30 America/Chicago] occupation: \n
+[06-Mar-2014 14:33:04 America/Chicago] calling login_check
+[06-Mar-2014 14:33:04 America/Chicago] session email: zachvanoast@gmail.com
+[06-Mar-2014 14:34:15 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/twhooker/public_html/beta/protected_page.php on line 27
+[06-Mar-2014 14:34:16 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/twhooker/public_html/beta/protected_page.php on line 27
+[06-Mar-2014 14:36:03 America/Chicago] calling login_check
+[06-Mar-2014 14:36:03 America/Chicago] session email: test@test.com
+[06-Mar-2014 14:36:03 America/Chicago] fail 2
+[06-Mar-2014 14:56:40 America/Chicago] calling login_check
+[06-Mar-2014 14:56:40 America/Chicago] session email: zachvanoast@gmail.com
+[06-Mar-2014 14:56:58 America/Chicago] calling login_check
+[06-Mar-2014 14:56:58 America/Chicago] session email: 
+[06-Mar-2014 14:56:58 America/Chicago] fail 4
+[06-Mar-2014 15:14:09 America/Chicago] calling login_check
+[06-Mar-2014 15:14:09 America/Chicago] session email: zach2@zach.com
+[13-Mar-2014 14:32:41 America/Chicago] <p class="error">Database error</p>
+[13-Mar-2014 14:37:18 America/Chicago] <p class="error">Database error</p>
+[13-Mar-2014 16:27:46 America/Chicago] PHP Fatal error:  Call to undefined function esc_url() in /home2/twhooker/public_html/beta/signup2.php on line 20
+[13-Mar-2014 16:27:58 America/Chicago] PHP Fatal error:  Call to undefined function esc_url() in /home2/twhooker/public_html/beta/signup2.php on line 20
+[13-Mar-2014 16:30:24 America/Chicago] PHP Fatal error:  Call to undefined function esc_url() in /home2/twhooker/public_html/beta/signup2.php on line 20
+[13-Mar-2014 17:38:52 America/Chicago] <p class="error">Database error</p>
+[13-Mar-2014 17:39:15 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 11:40:29 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:41:33 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:41:53 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:42:10 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:42:15 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:42:40 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:46:12 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:48:06 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:52:32 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:52:58 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:53:23 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:56:36 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:56:51 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:57:45 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 11:58:54 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 12:02:09 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 12:02:32 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 12:03:23 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 12:04:24 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 12:04:54 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 12:05:25 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 12:08:30 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Database error</p>
+[17-Mar-2014 12:15:05 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 14:55:41 America/Chicago] PHP Parse error:  syntax error, unexpected T_RETURN in /home2/twhooker/public_html/beta/includes/functions.php on line 67
+[17-Mar-2014 15:12:40 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 15:14:03 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 15:15:00 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 15:15:16 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 15:15:37 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 16:11:10 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 18:20:54 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 18:30:04 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 18:30:24 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 18:47:17 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 18:59:29 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Invalid password configuration.</p> <p class="error">Database error</p>
+[17-Mar-2014 19:18:13 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 19:19:19 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 19:22:24 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 19:43:31 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 19:45:10 America/Chicago] <p class="error">Database error</p>
+[17-Mar-2014 19:57:29 America/Chicago] calling login_check
+[17-Mar-2014 19:57:29 America/Chicago] session email: test@test.com
+[17-Mar-2014 19:59:55 America/Chicago] calling login_check
+[17-Mar-2014 19:59:55 America/Chicago] session email: zachvanoast@gmail.com
+[17-Mar-2014 21:16:54 America/Chicago] calling login_check
+[17-Mar-2014 21:16:54 America/Chicago] session email: zachvanoast@gmail.com
+[18-Mar-2014 00:48:53 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Invalid password configuration.</p> 
+[18-Mar-2014 00:49:33 America/Chicago] <p class="error">The email address you entered is not valid</p><p class="error">Invalid password configuration.</p> 
+[18-Mar-2014 11:04:41 America/Chicago] calling login_check
+[18-Mar-2014 11:04:41 America/Chicago] session email: 
+[18-Mar-2014 11:04:41 America/Chicago] fail 4
+[18-Mar-2014 11:57:14 America/Chicago] calling login_check
+[18-Mar-2014 11:57:14 America/Chicago] session email: test1@test1.com
