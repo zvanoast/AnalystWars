@@ -1,9 +1,29 @@
 <?php
-$error = filter_input(INPUT_GET, 'err', $filter = FILTER_SANITIZE_STRING);
- 
-if (! $error) {
-    $error = 'Oops! An unknown error happened.';
+//$error = filter_input(INPUT_GET, 'err', $filter = FILTER_SANITIZE_STRING);
+
+//array containing possible errors
+$errors = array(
+	1 => 'Your account has been locked due to a high number of failed login attempts.',
+	2 => 'Invalid email/password combination.',
+	);
+
+//set the error displayed to the corresponding error
+if (isset($_GET['err'])) {
+	$error_id = (int)$_GET['err'];
 }
+else {
+	$error_id = 0;
+}
+error_log($error_id);
+if (($error_id != 0) && (array_key_exists($error_id, $errors))) {
+    $error_disp = $errors[$error_id];
+}
+else {
+    $error_disp = 'An unknown error happened.';
+}
+error_log($error_disp);
+
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -40,8 +60,8 @@ if (! $error) {
    	<div class="row">
 	      	<div class="large-18 columns">
       		<div class="panel">	
-        	<center><h2>Invalid Username or Password</h2>
-        	<p class="error"><?php echo $error; ?></p>  
+        	<center><h2>An Error Has Occurred:</h2> 
+        	<p class="error"><?php echo $error_disp; ?></p>  
     	
     	</div>
     	</div>

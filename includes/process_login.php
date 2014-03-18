@@ -12,8 +12,11 @@ if (isset($_POST['email'], $_POST['password'])) {
         // Login success 
         header('Location: ../protected_page.php');
     } else {
-        // Login failed 
-        header('Location: ../error.php');
+        // Login failed
+        if (checkbrute($email, $mysqli) == true)
+        	header('Location: ../error.php?err=1');
+        else 
+        	header('Location: ../error.php?err=2');
     }
 } else {
     // The correct POST variables were not sent to this page. 

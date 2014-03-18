@@ -63,9 +63,8 @@ function login($email, $password, $mysqli) {
             if (checkbrute($email, $mysqli) == true) {
                 // Account is locked 
                 // Future update: send an email to user saying their account is locked
-                error_log('brute in login function');
-                header('Location: ../error.php?err=You have been locked out of your account due to a suspicious number of failed login attempts');
-                //return false;
+                error_log('brute detected in login function');
+                return false;
             }
             else {  
                 // Check if the password in the database matches
