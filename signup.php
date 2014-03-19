@@ -19,7 +19,7 @@
           <ul class="title-area">
              
               <li class="name">
-                  <h1><a href="index.html">Analyst Wars</a></h1>
+                  <h1><a href="index.html">ANALYST WARS</a></h1>
               </li>
               <li class="toggle-topbar menu-icon">
               <a href="#">menu</a>
@@ -68,7 +68,7 @@
                                
                                     <label>Password</label>
                                     <input type="password" name="password" placeholder="Passw0rd" required>
-                                    <small class="error">Passwords must be at least 6 characters with 1 capital letter & 1 number</small> <!--error can be modified for password requirements-->
+                                    <small class="error">Passwords must be at least 8 characters with 1 capital letter &amp; 1 number</small> <!--error can be modified for password requirements-->
                         </div>
                         <div class="row">
                                
