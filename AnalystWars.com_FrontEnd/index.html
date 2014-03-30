@@ -55,10 +55,10 @@
 					<div class="l-subheader-h i-cf">
 						<div class="w-socials">
 							<div class="w-socials-h">
-								<div class="w-socials-list">
+								<div class="w-socials-list"> <!--anchor tags will be replaced by AnalystWars social accounts-->
 
 									<div class="w-socials-item facebook">
-										<a class="w-socials-item-link" target="_blank" href="javascript:void(0);"> 
+										<a href="https://www.facebook.com" class="w-socials-item-link" target="_blank" > 
 											<i class="fa fa-facebook"></i>
 										</a>
 										<div class="w-socials-item-popup">
@@ -68,7 +68,7 @@
 										</div>
 									</div>
 									<div class="w-socials-item twitter">
-										<a class="w-socials-item-link" target="Twitter.com" href="javascript:void(0);">
+										<a href="https://twitter.com" class="w-socials-item-link" target="_blank">
 											<i class="fa fa-twitter"></i>
 										</a>
 										<div class="w-socials-item-popup">
@@ -78,7 +78,7 @@
 										</div>
 									</div>
 									<div class="w-socials-item gplus">
-										<a class="w-socials-item-link" target="_blank" href="javascript:void(0);"> 
+										<a href="https://plus.google.com/up/search" class="w-socials-item-link" target="_blank"> 
 											<i class="fa fa-google-plus"></i>
 										</a>
 										<div class="w-socials-item-popup">
@@ -89,7 +89,7 @@
 									</div>
 
 									<div class="w-socials-item linkedin">
-										<a class="w-socials-item-link" target="_blank" href="javascript:void(0);">
+										<a href="https://www.linkedin.com" class="w-socials-item-link" target="_blank">
 											<i class="fa fa-linkedin"></i>
 										</a>
 										<div class="w-socials-item-popup">
@@ -99,7 +99,7 @@
 										</div>
 									</div>
 									<div class="w-socials-item youtube">
-										<a class="w-socials-item-link" target="_blank" href="javascript:void(0);">
+										<a href="https://www.youtube.com" class="w-socials-item-link" target="_blank">
 											<i class="fa fa-youtube-play"></i>
 										</a>
 										<div class="w-socials-item-popup">
@@ -134,16 +134,16 @@
 						
 						<div class="w-search submit_inside">
 							<div class="w-search-h">
-								<a class="w-search-show" href="javascript:void(0)"><i class="fa fa-search"></i></a>
-								<form class="w-search-form show_hidden" action="#">
+								<a class="w-search-show" href=""><i class="fa fa-search"></i></a>
+								<form class="w-search-form show_hidden" action="get_stock_data.php" method="post">
 									<div class="w-search-input">
-										<input type="text" value="" placeholder="Enter Stock Symbol"/>
+										<input type="text" name="symbol" placeholder="Enter Stock Symbol"/>
 									</div>
 									<div class="w-search-submit">
-										<input type="submit" value="Search" />
+										<input type="submit" name="submit" value="submit" />
 										<i class="fa fa-search"></i>
 									</div>
-									<a class="w-search-close" href="javascript:void(0)" title="Close search"> &#10005; </a>
+									<a class="w-search-close" href="" title="Close search"> &#10005; </a>
 								</form>
 							</div>
 						</div>
@@ -209,6 +209,26 @@
 		<!-- main body -->
 		<div class="l-main">
 			<div class="l-main-h">
+			
+				<div class="l-submain color_primary">
+					<div class="l-submain-h g-html">
+
+						<div class="g-cols">
+							<div class="full-width">
+								<div class="w-actionbox controls_aside color_primary">
+									<div class="w-actionbox-h">
+										<div class="w-actionbox-text">
+											<h3>Join our clan and become a true Analyst Warrior</h3>
+										</div>
+										<div class="w-actionbox-controls at_right">
+											<a class="w-actionbox-button g-btn type_outline size_big" href="signup.php" target="_blank"><span>Register Now</span></a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 				
 				<div class="l-submain">
 					<div class="l-submain-h g-html">
@@ -219,12 +239,14 @@
 					</div>
 				</div>
 				
-				<div class="l-submain">
+				
+				
+				<div class="l-submain color_primary" id="parallax_section" style="background-image: url(img/slides/slide9.jpg);">
 					<div class="l-submain-h g-html">
 
 						<div class="g-cols">
 							<div class="one-third">
-								<div class="w-iconbox icon_top">
+								<div class="w-iconbox icon_top animate_afl">
 									<div class="w-iconbox-h">
 										<div class="w-iconbox-icon">
 											<i class="fa fa-camera-retro"></i>
@@ -256,7 +278,7 @@
 								</div>
 							</div>
 							<div class="one-third">
-								<div class="w-iconbox icon_top">
+								<div class="w-iconbox icon_top animate_afr">
 									<div class="w-iconbox-h">
 										<div class="w-iconbox-icon">
 											<i class="fa fa-star-o"></i>
@@ -275,6 +297,7 @@
 
 					</div>
 				</div>
+				<script>jQuery(window).load(function(){ jQuery('#parallax_section').parallax('50%', '-1.2'); });</script>
 				
 
 				<div class="l-submain color_alternate">
@@ -303,7 +326,7 @@
 									
 									<div class="one-half animate_afr">
 										<div class="w-testimonial">
-											<div class="w-testimonial-h">
+										<div class="w-testimonial-h">
 											<blockquote>
 											<q class="w-testimonial-text">Analyst Wars could be cool if you were able to group all the analysts offering coverage on a stock and compare their findings</q>
 											<div class="w-testimonial-person">
@@ -313,10 +336,10 @@
 											</div>
 											</blockquote>
 										</div>
+										</div>
 									</div>
 								</div>
-							</div>
-										
+									
 						</div>
 					</div>
 				
@@ -362,11 +385,7 @@
 						<h2 style="text-align: center;">Stock Rating System</h2>
 						<p style="text-align: center;">Buy, Hold or Sell</p>
 						
-						<div class="g-hr type_invisible">
-							<span class="g-hr-h">
-								<i class="fa fa-star"></i>
-							</span>
-						</div>
+						
 						
 						<div class="g-cols">
 							<div class="one-fourth">
@@ -401,7 +420,8 @@
 										<div class="w-iconbox-text">
 											<h3 class="w-iconbox-text-title">Rating</h3>
 											<div class="w-iconbox-text-description">
-												<p>Create your rating and enter Monthly or Quarterly Stock Price</p>	       									</div>
+												<p>Create your rating and enter Monthly or Quarterly Stock Price</p>
+											</div>
 											<a class="w-iconbox-text-link" href="#"><span>Learn more</span></a>
 										</div>
 									</div>
@@ -451,55 +471,11 @@
 				</div>
 				<script>jQuery(window).load(function(){ jQuery('#parallax_section').parallax('50%', '-1.2'); });</script>
 				
-				
-						
-						<div class="g-hr">
-							<span class="g-hr-h">
-								<i class="fa fa-chevron-down"></i>
-							</span>
-						</div>
-						
-						<h3 style="text-align: center;">Our Associates</h3> <!-- needs work -->
-						
-						<div class="w-clients type_carousel columns_5">
-							<div class="w-clients-h">
-								<div class="w-clients-list">
-									<div class="w-clients-list-h">
-										
-										
-									</div>
-								</div>
-								<a class="w-clients-nav to_prev disabled" href="javascript:void(0)" title="Show previous"></a>
-								<a class="w-clients-nav to_next" href="javascript:void(0)" title="Show next"></a>
-							</div>
-						</div>
-						
-					</div>
-				</div>
-				
-				<div class="l-submain color_primary">
-					<div class="l-submain-h g-html">
 
-						<div class="g-cols">
-							<div class="full-width">
-								<div class="w-actionbox controls_aside color_primary">
-									<div class="w-actionbox-h">
-										<div class="w-actionbox-text">
-											<h3>Join our clan and become a true Analyst Warrior</h3>
-										</div>
-										<div class="w-actionbox-controls at_right">
-											<a class="w-actionbox-button g-btn type_outline size_big" href="signup.php" target="_blank"><span>Register Now</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
 				
 			</div>
 		</div>
-		<!-- /MAIN -->
+		<!-- main body -->
 
 	</div>
 </div>
@@ -576,7 +552,7 @@
 								<div class="w-socials-list">
 
 									<div class="w-socials-item facebook">
-										<a class="w-socials-item-link" target="_blank" href="">
+										<a class="w-socials-item-link" target="_blank" href="https://www.facebook.com">
 											<i class="fa fa-facebook"></i>
 										</a>
 										<div class="w-socials-item-popup">
@@ -586,7 +562,7 @@
 										</div>
 									</div>
 									<div class="w-socials-item twitter">
-										<a class="w-socials-item-link" target="_blank" href="">
+										<a class="w-socials-item-link" target="_blank" href="https://www.twitter.com">
 											<i class="fa fa-twitter"></i>
 										</a>
 										<div class="w-socials-item-popup">
@@ -596,7 +572,7 @@
 										</div>
 									</div>
 									<div class="w-socials-item gplus">
-										<a class="w-socials-item-link" target="_blank" href="">
+										<a class="w-socials-item-link" target="_blank" href="https://plus.google.com/up/search">
 											<i class="fa fa-google-plus"></i>
 										</a>
 										<div class="w-socials-item-popup">
@@ -607,12 +583,22 @@
 									</div>
 
 									<div class="w-socials-item linkedin">
-										<a class="w-socials-item-link" target="_blank" href="">
+										<a class="w-socials-item-link" target="_blank" href="https://www.linkedin.com">
 											<i class="fa fa-linkedin"></i>
 										</a>
 										<div class="w-socials-item-popup">
 											<div class="w-socials-item-popup-h">
 												<span class="w-socials-item-popup-text">LinkedIn</span>
+											</div>
+										</div>
+									</div>
+									<div class="w-socials-item youtube">
+										<a href="https://www.youtube.com" class="w-socials-item-link" target="_blank">
+											<i class="fa fa-youtube-play"></i>
+										</a>
+										<div class="w-socials-item-popup">
+											<div class="w-socials-item-popup-h">
+												<span class="w-socials-item-popup-text">YouTube</span>
 											</div>
 										</div>
 									</div>
@@ -634,7 +620,7 @@
 
 				<div class="w-copyright">© 2013 All rights reserved. <a href=''>Tactical Capital Investors</a></div>
 
-				<!-- NAV -->
+				<!-- navigation -->
 				<nav class="w-nav">
 					<div class="w-nav-h">
 						<div class="w-nav-list layout_hor width_auto float_right level_1">
