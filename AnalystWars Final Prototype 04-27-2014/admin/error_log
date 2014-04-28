@@ -1,0 +1,943 @@
+[24-Apr-2014 15:17:51 America/Chicago] symbol searched: HAR
+[24-Apr-2014 15:17:51 America/Chicago] start date: 
+[24-Apr-2014 15:17:51 America/Chicago] end date: 
+[24-Apr-2014 15:17:51 America/Chicago] else if reached
+[24-Apr-2014 15:17:52 America/Chicago] calling login_check
+[24-Apr-2014 15:17:52 America/Chicago] session email: cdn@yahoo.com
+[24-Apr-2014 15:17:52 America/Chicago] logged in
+[24-Apr-2014 15:17:52 America/Chicago] cdn@yahoo.com
+[24-Apr-2014 15:17:52 America/Chicago] symbol is: 
+[24-Apr-2014 15:17:52 America/Chicago] date is: 
+[24-Apr-2014 15:17:52 America/Chicago] 105.4400
+[24-Apr-2014 15:17:52 America/Chicago] 2014-03-31
+[24-Apr-2014 15:17:52 America/Chicago] 104.2700
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-07
+[24-Apr-2014 15:17:52 America/Chicago] 105.4500
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-09
+[24-Apr-2014 15:17:52 America/Chicago] 107.2600
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-10
+[24-Apr-2014 15:17:52 America/Chicago] 103.2200
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-11
+[24-Apr-2014 15:17:52 America/Chicago] 102.0900
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-14
+[24-Apr-2014 15:17:52 America/Chicago] 101.0700
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-15
+[24-Apr-2014 15:17:52 America/Chicago] 106.3800
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-17
+[24-Apr-2014 15:17:52 America/Chicago] 105.6100
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-21
+[24-Apr-2014 15:17:52 America/Chicago] 107.3600
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-22
+[24-Apr-2014 15:17:52 America/Chicago] 109.8000
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-23
+[24-Apr-2014 15:17:52 America/Chicago] 111.1800
+[24-Apr-2014 15:17:52 America/Chicago] 2014-04-24
+[24-Apr-2014 15:19:09 America/Chicago] calling login_check
+[24-Apr-2014 15:19:09 America/Chicago] session email: test@live.com
+[24-Apr-2014 15:19:09 America/Chicago] logged in
+[24-Apr-2014 15:19:16 America/Chicago] calling login_check
+[24-Apr-2014 15:19:16 America/Chicago] session email: test@live.com
+[24-Apr-2014 15:19:16 America/Chicago] logged in
+[24-Apr-2014 15:22:22 America/Chicago] symbol searched: HAR
+[24-Apr-2014 15:22:22 America/Chicago] start date: 
+[24-Apr-2014 15:22:22 America/Chicago] end date: 
+[24-Apr-2014 15:22:22 America/Chicago] else if reached
+[24-Apr-2014 15:22:23 America/Chicago] calling login_check
+[24-Apr-2014 15:22:23 America/Chicago] session email: cdn@yahoo.com
+[24-Apr-2014 15:22:23 America/Chicago] logged in
+[24-Apr-2014 15:22:23 America/Chicago] cdn@yahoo.com
+[24-Apr-2014 15:22:23 America/Chicago] symbol is: 
+[24-Apr-2014 15:22:23 America/Chicago] date is: 
+[24-Apr-2014 15:22:23 America/Chicago] 105.4400
+[24-Apr-2014 15:22:23 America/Chicago] 2014-03-31
+[24-Apr-2014 15:22:23 America/Chicago] 104.2700
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-07
+[24-Apr-2014 15:22:23 America/Chicago] 105.4500
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-09
+[24-Apr-2014 15:22:23 America/Chicago] 107.2600
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-10
+[24-Apr-2014 15:22:23 America/Chicago] 103.2200
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-11
+[24-Apr-2014 15:22:23 America/Chicago] 102.0900
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-14
+[24-Apr-2014 15:22:23 America/Chicago] 101.0700
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-15
+[24-Apr-2014 15:22:23 America/Chicago] 106.3800
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-17
+[24-Apr-2014 15:22:23 America/Chicago] 105.6100
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-21
+[24-Apr-2014 15:22:23 America/Chicago] 107.3600
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-22
+[24-Apr-2014 15:22:23 America/Chicago] 109.8000
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-23
+[24-Apr-2014 15:22:23 America/Chicago] 111.1800
+[24-Apr-2014 15:22:23 America/Chicago] 2014-04-24
+[24-Apr-2014 16:49:27 America/Chicago] calling login_check
+[24-Apr-2014 16:49:27 America/Chicago] session email: 
+[24-Apr-2014 16:49:27 America/Chicago] fail 4
+[24-Apr-2014 16:49:27 America/Chicago] not logged in
+[24-Apr-2014 16:51:59 America/Chicago] calling login_check
+[24-Apr-2014 16:51:59 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:51:59 America/Chicago] logged in
+[24-Apr-2014 16:52:26 America/Chicago] calling login_check
+[24-Apr-2014 16:52:26 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:52:26 America/Chicago] logged in
+[24-Apr-2014 16:52:26 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 16:52:37 America/Chicago] calling login_check
+[24-Apr-2014 16:52:37 America/Chicago] session email: 
+[24-Apr-2014 16:52:37 America/Chicago] fail 4
+[24-Apr-2014 16:52:37 America/Chicago] not logged in
+[24-Apr-2014 16:52:53 America/Chicago] calling login_check
+[24-Apr-2014 16:52:53 America/Chicago] session email: 
+[24-Apr-2014 16:52:53 America/Chicago] fail 4
+[24-Apr-2014 16:52:53 America/Chicago] not logged in
+[24-Apr-2014 16:52:53 America/Chicago] 
+[24-Apr-2014 16:52:53 America/Chicago] symbol is: 
+[24-Apr-2014 16:52:53 America/Chicago] date is: 
+[24-Apr-2014 16:53:00 America/Chicago] symbol searched: F
+[24-Apr-2014 16:53:00 America/Chicago] start date: 
+[24-Apr-2014 16:53:00 America/Chicago] end date: 
+[24-Apr-2014 16:53:00 America/Chicago] else if reached
+[24-Apr-2014 16:53:01 America/Chicago] calling login_check
+[24-Apr-2014 16:53:01 America/Chicago] session email: 
+[24-Apr-2014 16:53:01 America/Chicago] fail 4
+[24-Apr-2014 16:53:01 America/Chicago] not logged in
+[24-Apr-2014 16:53:01 America/Chicago] 
+[24-Apr-2014 16:53:01 America/Chicago] symbol is: 
+[24-Apr-2014 16:53:01 America/Chicago] date is: 
+[24-Apr-2014 16:53:01 America/Chicago] 15.4500
+[24-Apr-2014 16:53:01 America/Chicago] 2014-03-31
+[24-Apr-2014 16:53:01 America/Chicago] 15.6000
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-01
+[24-Apr-2014 16:53:01 America/Chicago] 16.3900
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-04
+[24-Apr-2014 16:53:01 America/Chicago] 16.1300
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-07
+[24-Apr-2014 16:53:01 America/Chicago] 16.1000
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-09
+[24-Apr-2014 16:53:01 America/Chicago] 15.8400
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-10
+[24-Apr-2014 16:53:01 America/Chicago] 15.6300
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-11
+[24-Apr-2014 16:53:01 America/Chicago] 15.6300
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-14
+[24-Apr-2014 16:53:01 America/Chicago] 15.7000
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-15
+[24-Apr-2014 16:53:01 America/Chicago] 16.0700
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-17
+[24-Apr-2014 16:53:01 America/Chicago] 16.0000
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-21
+[24-Apr-2014 16:53:01 America/Chicago] 15.9800
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-22
+[24-Apr-2014 16:53:01 America/Chicago] 16.1000
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-23
+[24-Apr-2014 16:53:01 America/Chicago] 16.2300
+[24-Apr-2014 16:53:01 America/Chicago] 2014-04-24
+[24-Apr-2014 16:53:07 America/Chicago] calling login_check
+[24-Apr-2014 16:53:07 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:53:07 America/Chicago] logged in
+[24-Apr-2014 16:53:07 America/Chicago] calling login_check
+[24-Apr-2014 16:53:07 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:53:07 America/Chicago] logged in
+[24-Apr-2014 16:53:07 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 16:53:37 America/Chicago] calling login_check
+[24-Apr-2014 16:53:37 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:53:37 America/Chicago] logged in
+[24-Apr-2014 16:53:37 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 16:53:37 America/Chicago] symbol is: 
+[24-Apr-2014 16:53:37 America/Chicago] date is: 
+[24-Apr-2014 16:53:48 America/Chicago] symbol searched: f
+[24-Apr-2014 16:53:48 America/Chicago] start date: 
+[24-Apr-2014 16:53:48 America/Chicago] end date: 
+[24-Apr-2014 16:53:48 America/Chicago] else if reached
+[24-Apr-2014 16:53:49 America/Chicago] calling login_check
+[24-Apr-2014 16:53:49 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:53:49 America/Chicago] logged in
+[24-Apr-2014 16:53:49 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 16:53:49 America/Chicago] symbol is: 
+[24-Apr-2014 16:53:49 America/Chicago] date is: 
+[24-Apr-2014 16:53:49 America/Chicago] 15.4500
+[24-Apr-2014 16:53:49 America/Chicago] 2014-03-31
+[24-Apr-2014 16:53:49 America/Chicago] 15.6000
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-01
+[24-Apr-2014 16:53:49 America/Chicago] 16.3900
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-04
+[24-Apr-2014 16:53:49 America/Chicago] 16.1300
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-07
+[24-Apr-2014 16:53:49 America/Chicago] 16.1000
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-09
+[24-Apr-2014 16:53:49 America/Chicago] 15.8400
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-10
+[24-Apr-2014 16:53:49 America/Chicago] 15.6300
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-11
+[24-Apr-2014 16:53:49 America/Chicago] 15.6300
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-14
+[24-Apr-2014 16:53:49 America/Chicago] 15.7000
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-15
+[24-Apr-2014 16:53:49 America/Chicago] 16.0700
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-17
+[24-Apr-2014 16:53:49 America/Chicago] 16.0000
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-21
+[24-Apr-2014 16:53:49 America/Chicago] 15.9800
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-22
+[24-Apr-2014 16:53:49 America/Chicago] 16.1000
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-23
+[24-Apr-2014 16:53:49 America/Chicago] 16.2300
+[24-Apr-2014 16:53:49 America/Chicago] 2014-04-24
+[24-Apr-2014 16:53:59 America/Chicago] calling login_check
+[24-Apr-2014 16:53:59 America/Chicago] session email: 
+[24-Apr-2014 16:53:59 America/Chicago] fail 4
+[24-Apr-2014 16:53:59 America/Chicago] not logged in
+[24-Apr-2014 16:54:10 America/Chicago] calling login_check
+[24-Apr-2014 16:54:10 America/Chicago] session email: 
+[24-Apr-2014 16:54:10 America/Chicago] fail 4
+[24-Apr-2014 16:54:10 America/Chicago] not logged in
+[24-Apr-2014 16:54:10 America/Chicago] 
+[24-Apr-2014 16:54:29 America/Chicago] calling login_check
+[24-Apr-2014 16:54:29 America/Chicago] session email: 
+[24-Apr-2014 16:54:29 America/Chicago] fail 4
+[24-Apr-2014 16:54:29 America/Chicago] not logged in
+[24-Apr-2014 16:55:11 America/Chicago] calling login_check
+[24-Apr-2014 16:55:11 America/Chicago] session email: 
+[24-Apr-2014 16:55:11 America/Chicago] fail 4
+[24-Apr-2014 16:55:11 America/Chicago] not logged in
+[24-Apr-2014 16:56:09 America/Chicago] calling login_check
+[24-Apr-2014 16:56:09 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:56:09 America/Chicago] logged in
+[24-Apr-2014 16:56:29 America/Chicago] calling login_check
+[24-Apr-2014 16:56:29 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:56:29 America/Chicago] logged in
+[24-Apr-2014 16:56:29 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 16:56:29 America/Chicago] symbol is: 
+[24-Apr-2014 16:56:29 America/Chicago] date is: 
+[24-Apr-2014 16:56:29 America/Chicago] 15.4500
+[24-Apr-2014 16:56:29 America/Chicago] 2014-03-31
+[24-Apr-2014 16:56:29 America/Chicago] 15.6000
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-01
+[24-Apr-2014 16:56:29 America/Chicago] 16.3900
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-04
+[24-Apr-2014 16:56:29 America/Chicago] 16.1300
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-07
+[24-Apr-2014 16:56:29 America/Chicago] 16.1000
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-09
+[24-Apr-2014 16:56:29 America/Chicago] 15.8400
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-10
+[24-Apr-2014 16:56:29 America/Chicago] 15.6300
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-11
+[24-Apr-2014 16:56:29 America/Chicago] 15.6300
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-14
+[24-Apr-2014 16:56:29 America/Chicago] 15.7000
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-15
+[24-Apr-2014 16:56:29 America/Chicago] 16.0700
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-17
+[24-Apr-2014 16:56:29 America/Chicago] 16.0000
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-21
+[24-Apr-2014 16:56:29 America/Chicago] 15.9800
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-22
+[24-Apr-2014 16:56:29 America/Chicago] 16.1000
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-23
+[24-Apr-2014 16:56:29 America/Chicago] 16.2300
+[24-Apr-2014 16:56:29 America/Chicago] 2014-04-24
+[24-Apr-2014 16:56:41 America/Chicago] symbol searched: pmtc
+[24-Apr-2014 16:56:41 America/Chicago] start date: 
+[24-Apr-2014 16:56:41 America/Chicago] end date: 
+[24-Apr-2014 16:56:41 America/Chicago] else if reached
+[24-Apr-2014 16:56:42 America/Chicago] calling login_check
+[24-Apr-2014 16:56:42 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:56:42 America/Chicago] logged in
+[24-Apr-2014 16:56:42 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 16:56:42 America/Chicago] symbol is: 
+[24-Apr-2014 16:56:42 America/Chicago] date is: 
+[24-Apr-2014 16:56:51 America/Chicago] symbol searched: www
+[24-Apr-2014 16:56:51 America/Chicago] start date: 
+[24-Apr-2014 16:56:51 America/Chicago] end date: 
+[24-Apr-2014 16:56:51 America/Chicago] else if reached
+[24-Apr-2014 16:56:52 America/Chicago] calling login_check
+[24-Apr-2014 16:56:52 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:56:52 America/Chicago] logged in
+[24-Apr-2014 16:56:52 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 16:56:52 America/Chicago] symbol is: 
+[24-Apr-2014 16:56:52 America/Chicago] date is: 
+[24-Apr-2014 16:56:52 America/Chicago] 27.4300
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-07
+[24-Apr-2014 16:56:52 America/Chicago] 27.5600
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-09
+[24-Apr-2014 16:56:52 America/Chicago] 27.7700
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-10
+[24-Apr-2014 16:56:52 America/Chicago] 26.7200
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-11
+[24-Apr-2014 16:56:52 America/Chicago] 26.0700
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-14
+[24-Apr-2014 16:56:52 America/Chicago] 26.9500
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-15
+[24-Apr-2014 16:56:52 America/Chicago] 26.9300
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-17
+[24-Apr-2014 16:56:52 America/Chicago] 26.9100
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-21
+[24-Apr-2014 16:56:52 America/Chicago] 26.7200
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-22
+[24-Apr-2014 16:56:52 America/Chicago] 27.2100
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-23
+[24-Apr-2014 16:56:52 America/Chicago] 27.1900
+[24-Apr-2014 16:56:52 America/Chicago] 2014-04-24
+[24-Apr-2014 16:57:49 America/Chicago] calling login_check
+[24-Apr-2014 16:57:49 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:57:49 America/Chicago] logged in
+[24-Apr-2014 16:57:49 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 16:57:49 America/Chicago] symbol is: 
+[24-Apr-2014 16:57:49 America/Chicago] date is: 
+[24-Apr-2014 16:57:49 America/Chicago] 27.4300
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-07
+[24-Apr-2014 16:57:49 America/Chicago] 27.5600
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-09
+[24-Apr-2014 16:57:49 America/Chicago] 27.7700
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-10
+[24-Apr-2014 16:57:49 America/Chicago] 26.7200
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-11
+[24-Apr-2014 16:57:49 America/Chicago] 26.0700
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-14
+[24-Apr-2014 16:57:49 America/Chicago] 26.9500
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-15
+[24-Apr-2014 16:57:49 America/Chicago] 26.9300
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-17
+[24-Apr-2014 16:57:49 America/Chicago] 26.9100
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-21
+[24-Apr-2014 16:57:49 America/Chicago] 26.7200
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-22
+[24-Apr-2014 16:57:49 America/Chicago] 27.2100
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-23
+[24-Apr-2014 16:57:49 America/Chicago] 27.1900
+[24-Apr-2014 16:57:49 America/Chicago] 2014-04-24
+[24-Apr-2014 16:57:52 America/Chicago] calling login_check
+[24-Apr-2014 16:57:52 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 16:57:52 America/Chicago] logged in
+[24-Apr-2014 16:57:57 America/Chicago] calling login_check
+[24-Apr-2014 16:57:57 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:57:57 America/Chicago] logged in
+[24-Apr-2014 16:57:59 America/Chicago] calling login_check
+[24-Apr-2014 16:57:59 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 16:57:59 America/Chicago] logged in
+[24-Apr-2014 16:57:59 America/Chicago] gotimhooker@gmail.com
+[24-Apr-2014 16:58:24 America/Chicago] calling login_check
+[24-Apr-2014 16:58:24 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 16:58:24 America/Chicago] logged in
+[24-Apr-2014 16:58:24 America/Chicago] PHP Warning:  move_uploaded_file(userFiles/gotimhooker@gmail.com/screenshoot1.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home2/twhooker/public_html/analystwars.com/admin/upload_profile_picture.php on line 48
+[24-Apr-2014 16:58:24 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpe0Cy7h' to 'userFiles/gotimhooker@gmail.com/screenshoot1.png' in /home2/twhooker/public_html/analystwars.com/admin/upload_profile_picture.php on line 48
+[24-Apr-2014 16:58:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/twhooker/public_html/analystwars.com/admin/upload_profile_picture.php:48) in /home2/twhooker/public_html/analystwars.com/admin/upload_profile_picture.php on line 58
+[24-Apr-2014 16:58:27 America/Chicago] calling login_check
+[24-Apr-2014 16:58:27 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 16:58:27 America/Chicago] logged in
+[24-Apr-2014 16:58:27 America/Chicago] gotimhooker@gmail.com
+[24-Apr-2014 16:58:57 America/Chicago] calling login_check
+[24-Apr-2014 16:58:57 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 16:58:57 America/Chicago] logged in
+[24-Apr-2014 16:58:57 America/Chicago] calling login_check
+[24-Apr-2014 16:58:57 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 16:58:57 America/Chicago] logged in
+[24-Apr-2014 16:58:57 America/Chicago] gotimhooker@gmail.com
+[24-Apr-2014 16:59:36 America/Chicago] calling login_check
+[24-Apr-2014 16:59:36 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:59:36 America/Chicago] logged in
+[24-Apr-2014 16:59:36 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 16:59:42 America/Chicago] calling login_check
+[24-Apr-2014 16:59:42 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 16:59:42 America/Chicago] logged in
+[24-Apr-2014 16:59:42 America/Chicago] PHP Warning:  move_uploaded_file(userFiles/gotimhooker@gmail.com/screenshoot1.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home2/twhooker/public_html/analystwars.com/admin/upload_profile_picture.php on line 48
+[24-Apr-2014 16:59:42 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpiWLXws' to 'userFiles/gotimhooker@gmail.com/screenshoot1.png' in /home2/twhooker/public_html/analystwars.com/admin/upload_profile_picture.php on line 48
+[24-Apr-2014 16:59:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/twhooker/public_html/analystwars.com/admin/upload_profile_picture.php:48) in /home2/twhooker/public_html/analystwars.com/admin/upload_profile_picture.php on line 58
+[24-Apr-2014 16:59:48 America/Chicago] calling login_check
+[24-Apr-2014 16:59:48 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 16:59:48 America/Chicago] logged in
+[24-Apr-2014 16:59:48 America/Chicago] gotimhooker@gmail.com
+[24-Apr-2014 16:59:50 America/Chicago] calling login_check
+[24-Apr-2014 16:59:50 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:59:50 America/Chicago] logged in
+[24-Apr-2014 16:59:50 America/Chicago] calling login_check
+[24-Apr-2014 16:59:50 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 16:59:50 America/Chicago] logged in
+[24-Apr-2014 16:59:50 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 17:00:09 America/Chicago] calling login_check
+[24-Apr-2014 17:00:09 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 17:00:09 America/Chicago] logged in
+[24-Apr-2014 17:00:09 America/Chicago] gotimhooker@gmail.com
+[24-Apr-2014 17:00:09 America/Chicago] symbol is: 
+[24-Apr-2014 17:00:09 America/Chicago] date is: 
+[24-Apr-2014 17:00:17 America/Chicago] symbol searched: F
+[24-Apr-2014 17:00:17 America/Chicago] start date: 
+[24-Apr-2014 17:00:17 America/Chicago] end date: 
+[24-Apr-2014 17:00:17 America/Chicago] else if reached
+[24-Apr-2014 17:00:18 America/Chicago] calling login_check
+[24-Apr-2014 17:00:18 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 17:00:18 America/Chicago] logged in
+[24-Apr-2014 17:00:18 America/Chicago] gotimhooker@gmail.com
+[24-Apr-2014 17:00:18 America/Chicago] symbol is: 
+[24-Apr-2014 17:00:18 America/Chicago] date is: 
+[24-Apr-2014 17:00:18 America/Chicago] 15.4500
+[24-Apr-2014 17:00:18 America/Chicago] 2014-03-31
+[24-Apr-2014 17:00:18 America/Chicago] 15.6000
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-01
+[24-Apr-2014 17:00:18 America/Chicago] 16.3900
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-04
+[24-Apr-2014 17:00:18 America/Chicago] 16.1300
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-07
+[24-Apr-2014 17:00:18 America/Chicago] 16.1000
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-09
+[24-Apr-2014 17:00:18 America/Chicago] 15.8400
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-10
+[24-Apr-2014 17:00:18 America/Chicago] 15.6300
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-11
+[24-Apr-2014 17:00:18 America/Chicago] 15.6300
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-14
+[24-Apr-2014 17:00:18 America/Chicago] 15.7000
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-15
+[24-Apr-2014 17:00:18 America/Chicago] 16.0700
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-17
+[24-Apr-2014 17:00:18 America/Chicago] 16.0000
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-21
+[24-Apr-2014 17:00:18 America/Chicago] 15.9800
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-22
+[24-Apr-2014 17:00:18 America/Chicago] 16.1000
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-23
+[24-Apr-2014 17:00:18 America/Chicago] 16.2300
+[24-Apr-2014 17:00:18 America/Chicago] 2014-04-24
+[24-Apr-2014 17:00:37 America/Chicago] calling login_check
+[24-Apr-2014 17:00:37 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:00:37 America/Chicago] logged in
+[24-Apr-2014 17:00:37 America/Chicago] calling login_check
+[24-Apr-2014 17:00:37 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:00:37 America/Chicago] logged in
+[24-Apr-2014 17:00:37 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 17:00:49 America/Chicago] calling login_check
+[24-Apr-2014 17:00:49 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:00:49 America/Chicago] logged in
+[24-Apr-2014 17:00:55 America/Chicago] calling login_check
+[24-Apr-2014 17:00:55 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 17:00:55 America/Chicago] logged in
+[24-Apr-2014 17:00:55 America/Chicago] gotimhooker@gmail.com
+[24-Apr-2014 17:00:55 America/Chicago] symbol is: 
+[24-Apr-2014 17:00:55 America/Chicago] date is: 
+[24-Apr-2014 17:00:55 America/Chicago] 15.4500
+[24-Apr-2014 17:00:55 America/Chicago] 2014-03-31
+[24-Apr-2014 17:00:55 America/Chicago] 15.6000
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-01
+[24-Apr-2014 17:00:55 America/Chicago] 16.3900
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-04
+[24-Apr-2014 17:00:55 America/Chicago] 16.1300
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-07
+[24-Apr-2014 17:00:55 America/Chicago] 16.1000
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-09
+[24-Apr-2014 17:00:55 America/Chicago] 15.8400
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-10
+[24-Apr-2014 17:00:55 America/Chicago] 15.6300
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-11
+[24-Apr-2014 17:00:55 America/Chicago] 15.6300
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-14
+[24-Apr-2014 17:00:55 America/Chicago] 15.7000
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-15
+[24-Apr-2014 17:00:55 America/Chicago] 16.0700
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-17
+[24-Apr-2014 17:00:55 America/Chicago] 16.0000
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-21
+[24-Apr-2014 17:00:55 America/Chicago] 15.9800
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-22
+[24-Apr-2014 17:00:55 America/Chicago] 16.1000
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-23
+[24-Apr-2014 17:00:55 America/Chicago] 16.2300
+[24-Apr-2014 17:00:55 America/Chicago] 2014-04-24
+[24-Apr-2014 17:01:08 America/Chicago] calling login_check
+[24-Apr-2014 17:01:08 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:01:08 America/Chicago] logged in
+[24-Apr-2014 17:01:11 America/Chicago] symbol searched: AAPL
+[24-Apr-2014 17:01:11 America/Chicago] start date: 
+[24-Apr-2014 17:01:11 America/Chicago] end date: 
+[24-Apr-2014 17:01:11 America/Chicago] else if reached
+[24-Apr-2014 17:01:11 America/Chicago] calling login_check
+[24-Apr-2014 17:01:11 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:01:11 America/Chicago] logged in
+[24-Apr-2014 17:01:11 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 17:01:12 America/Chicago] symbol is: 
+[24-Apr-2014 17:01:12 America/Chicago] date is: 
+[24-Apr-2014 17:01:12 America/Chicago] 27.4300
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-07
+[24-Apr-2014 17:01:12 America/Chicago] 27.5600
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-09
+[24-Apr-2014 17:01:12 America/Chicago] 27.7700
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-10
+[24-Apr-2014 17:01:12 America/Chicago] 26.7200
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-11
+[24-Apr-2014 17:01:12 America/Chicago] 26.0700
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-14
+[24-Apr-2014 17:01:12 America/Chicago] 26.9500
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-15
+[24-Apr-2014 17:01:12 America/Chicago] 26.9300
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-17
+[24-Apr-2014 17:01:12 America/Chicago] 26.9100
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-21
+[24-Apr-2014 17:01:12 America/Chicago] 26.7200
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-22
+[24-Apr-2014 17:01:12 America/Chicago] 27.2100
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-23
+[24-Apr-2014 17:01:12 America/Chicago] 27.1900
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-24
+[24-Apr-2014 17:01:12 America/Chicago] calling login_check
+[24-Apr-2014 17:01:12 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 17:01:12 America/Chicago] logged in
+[24-Apr-2014 17:01:12 America/Chicago] gotimhooker@gmail.com
+[24-Apr-2014 17:01:12 America/Chicago] symbol is: 
+[24-Apr-2014 17:01:12 America/Chicago] date is: 
+[24-Apr-2014 17:01:12 America/Chicago] 536.8600
+[24-Apr-2014 17:01:12 America/Chicago] 2014-03-31
+[24-Apr-2014 17:01:12 America/Chicago] 536.7400
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-01
+[24-Apr-2014 17:01:12 America/Chicago] 542.5500
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-03
+[24-Apr-2014 17:01:12 America/Chicago] 538.7900
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-04
+[24-Apr-2014 17:01:12 America/Chicago] 531.8200
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-07
+[24-Apr-2014 17:01:12 America/Chicago] 523.4700
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-08
+[24-Apr-2014 17:01:12 America/Chicago] 523.4400
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-09
+[24-Apr-2014 17:01:12 America/Chicago] 530.3200
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-10
+[24-Apr-2014 17:01:12 America/Chicago] 523.4800
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-11
+[24-Apr-2014 17:01:12 America/Chicago] 519.6100
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-14
+[24-Apr-2014 17:01:12 America/Chicago] 521.6800
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-15
+[24-Apr-2014 17:01:12 America/Chicago] 519.0100
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-17
+[24-Apr-2014 17:01:12 America/Chicago] 524.9400
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-21
+[24-Apr-2014 17:01:12 America/Chicago] 531.1700
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-22
+[24-Apr-2014 17:01:12 America/Chicago] 531.6990
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-23
+[24-Apr-2014 17:01:12 America/Chicago] 524.7500
+[24-Apr-2014 17:01:12 America/Chicago] 2014-04-24
+[24-Apr-2014 17:01:16 America/Chicago] symbol searched: AMD
+[24-Apr-2014 17:01:16 America/Chicago] start date: 
+[24-Apr-2014 17:01:16 America/Chicago] end date: 
+[24-Apr-2014 17:01:16 America/Chicago] else if reached
+[24-Apr-2014 17:01:17 America/Chicago] calling login_check
+[24-Apr-2014 17:01:17 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:01:17 America/Chicago] logged in
+[24-Apr-2014 17:01:17 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 17:01:17 America/Chicago] symbol is: 
+[24-Apr-2014 17:01:17 America/Chicago] date is: 
+[24-Apr-2014 17:01:17 America/Chicago] 4.0100
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-07
+[24-Apr-2014 17:01:17 America/Chicago] 3.9900
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-09
+[24-Apr-2014 17:01:17 America/Chicago] 3.9800
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-10
+[24-Apr-2014 17:01:17 America/Chicago] 3.8500
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-11
+[24-Apr-2014 17:01:17 America/Chicago] 3.6500
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-14
+[24-Apr-2014 17:01:17 America/Chicago] 3.7100
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-15
+[24-Apr-2014 17:01:17 America/Chicago] 3.7600
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-17
+[24-Apr-2014 17:01:17 America/Chicago] 3.6900
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-21
+[24-Apr-2014 17:01:17 America/Chicago] 4.1200
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-22
+[24-Apr-2014 17:01:17 America/Chicago] 4.3000
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-23
+[24-Apr-2014 17:01:17 America/Chicago] 4.2500
+[24-Apr-2014 17:01:17 America/Chicago] 2014-04-24
+[24-Apr-2014 17:01:39 America/Chicago] calling login_check
+[24-Apr-2014 17:01:39 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 17:01:39 America/Chicago] logged in
+[24-Apr-2014 17:01:39 America/Chicago] gotimhooker@gmail.com
+[24-Apr-2014 17:01:39 America/Chicago] symbol is: 
+[24-Apr-2014 17:01:39 America/Chicago] date is: 
+[24-Apr-2014 17:01:39 America/Chicago] 536.8600
+[24-Apr-2014 17:01:39 America/Chicago] 2014-03-31
+[24-Apr-2014 17:01:39 America/Chicago] 536.7400
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-01
+[24-Apr-2014 17:01:39 America/Chicago] 542.5500
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-03
+[24-Apr-2014 17:01:39 America/Chicago] 538.7900
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-04
+[24-Apr-2014 17:01:39 America/Chicago] 531.8200
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-07
+[24-Apr-2014 17:01:39 America/Chicago] 523.4700
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-08
+[24-Apr-2014 17:01:39 America/Chicago] 523.4400
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-09
+[24-Apr-2014 17:01:39 America/Chicago] 530.3200
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-10
+[24-Apr-2014 17:01:39 America/Chicago] 523.4800
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-11
+[24-Apr-2014 17:01:39 America/Chicago] 519.6100
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-14
+[24-Apr-2014 17:01:39 America/Chicago] 521.6800
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-15
+[24-Apr-2014 17:01:39 America/Chicago] 519.0100
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-17
+[24-Apr-2014 17:01:39 America/Chicago] 524.9400
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-21
+[24-Apr-2014 17:01:39 America/Chicago] 531.1700
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-22
+[24-Apr-2014 17:01:39 America/Chicago] 531.6990
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-23
+[24-Apr-2014 17:01:39 America/Chicago] 524.7500
+[24-Apr-2014 17:01:39 America/Chicago] 2014-04-24
+[24-Apr-2014 17:01:43 America/Chicago] calling login_check
+[24-Apr-2014 17:01:43 America/Chicago] session email: TestAccount@yahoo.com
+[24-Apr-2014 17:01:43 America/Chicago] logged in
+[24-Apr-2014 17:01:50 America/Chicago] calling login_check
+[24-Apr-2014 17:01:50 America/Chicago] session email: TestAccount@yahoo.com
+[24-Apr-2014 17:01:50 America/Chicago] logged in
+[24-Apr-2014 17:01:50 America/Chicago] TestAccount@yahoo.com
+[24-Apr-2014 17:02:04 America/Chicago] calling login_check
+[24-Apr-2014 17:02:04 America/Chicago] session email: TestAccount@yahoo.com
+[24-Apr-2014 17:02:04 America/Chicago] logged in
+[24-Apr-2014 17:02:05 America/Chicago] calling login_check
+[24-Apr-2014 17:02:05 America/Chicago] session email: TestAccount@yahoo.com
+[24-Apr-2014 17:02:05 America/Chicago] logged in
+[24-Apr-2014 17:02:05 America/Chicago] TestAccount@yahoo.com
+[24-Apr-2014 17:02:29 America/Chicago] calling login_check
+[24-Apr-2014 17:02:29 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:02:29 America/Chicago] logged in
+[24-Apr-2014 17:02:29 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 17:02:32 America/Chicago] calling login_check
+[24-Apr-2014 17:02:32 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:02:32 America/Chicago] logged in
+[24-Apr-2014 17:03:04 America/Chicago] calling login_check
+[24-Apr-2014 17:03:04 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 17:03:04 America/Chicago] logged in
+[24-Apr-2014 17:04:00 America/Chicago] calling login_check
+[24-Apr-2014 17:04:00 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 17:04:00 America/Chicago] logged in
+[24-Apr-2014 17:04:02 America/Chicago] calling login_check
+[24-Apr-2014 17:04:02 America/Chicago] session email: gotimhooker@gmail.com
+[24-Apr-2014 17:04:02 America/Chicago] logged in
+[24-Apr-2014 17:04:13 America/Chicago] calling login_check
+[24-Apr-2014 17:04:13 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:04:13 America/Chicago] logged in
+[24-Apr-2014 17:04:13 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 17:04:17 America/Chicago] calling login_check
+[24-Apr-2014 17:04:17 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:04:17 America/Chicago] logged in
+[24-Apr-2014 17:04:17 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 17:04:17 America/Chicago] symbol is: 
+[24-Apr-2014 17:04:17 America/Chicago] date is: 
+[24-Apr-2014 17:04:17 America/Chicago] 4.0100
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-07
+[24-Apr-2014 17:04:17 America/Chicago] 3.9900
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-09
+[24-Apr-2014 17:04:17 America/Chicago] 3.9800
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-10
+[24-Apr-2014 17:04:17 America/Chicago] 3.8500
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-11
+[24-Apr-2014 17:04:17 America/Chicago] 3.6500
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-14
+[24-Apr-2014 17:04:17 America/Chicago] 3.7100
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-15
+[24-Apr-2014 17:04:17 America/Chicago] 3.7600
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-17
+[24-Apr-2014 17:04:17 America/Chicago] 3.6900
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-21
+[24-Apr-2014 17:04:17 America/Chicago] 4.1200
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-22
+[24-Apr-2014 17:04:17 America/Chicago] 4.3000
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-23
+[24-Apr-2014 17:04:17 America/Chicago] 4.2500
+[24-Apr-2014 17:04:17 America/Chicago] 2014-04-24
+[24-Apr-2014 17:04:24 America/Chicago] calling login_check
+[24-Apr-2014 17:04:24 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:04:24 America/Chicago] logged in
+[24-Apr-2014 17:04:24 America/Chicago] jimvanoast@sbcglobal.net
+[24-Apr-2014 17:04:24 America/Chicago] symbol is: 
+[24-Apr-2014 17:04:24 America/Chicago] date is: 
+[24-Apr-2014 17:04:24 America/Chicago] 4.0100
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-07
+[24-Apr-2014 17:04:24 America/Chicago] 3.9900
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-09
+[24-Apr-2014 17:04:24 America/Chicago] 3.9800
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-10
+[24-Apr-2014 17:04:24 America/Chicago] 3.8500
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-11
+[24-Apr-2014 17:04:24 America/Chicago] 3.6500
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-14
+[24-Apr-2014 17:04:24 America/Chicago] 3.7100
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-15
+[24-Apr-2014 17:04:24 America/Chicago] 3.7600
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-17
+[24-Apr-2014 17:04:24 America/Chicago] 3.6900
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-21
+[24-Apr-2014 17:04:24 America/Chicago] 4.1200
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-22
+[24-Apr-2014 17:04:24 America/Chicago] 4.3000
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-23
+[24-Apr-2014 17:04:24 America/Chicago] 4.2500
+[24-Apr-2014 17:04:24 America/Chicago] 2014-04-24
+[24-Apr-2014 17:04:53 America/Chicago] calling login_check
+[24-Apr-2014 17:04:53 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:04:53 America/Chicago] logged in
+[24-Apr-2014 17:04:59 America/Chicago] calling login_check
+[24-Apr-2014 17:04:59 America/Chicago] session email: jimvanoast@sbcglobal.net
+[24-Apr-2014 17:04:59 America/Chicago] logged in
+[24-Apr-2014 17:19:20 America/Chicago] calling login_check
+[24-Apr-2014 17:19:20 America/Chicago] session email: aubreyagee@gmail.com
+[24-Apr-2014 17:19:20 America/Chicago] logged in
+[24-Apr-2014 17:19:45 America/Chicago] calling login_check
+[24-Apr-2014 17:19:45 America/Chicago] session email: aubreyagee@gmail.com
+[24-Apr-2014 17:19:45 America/Chicago] logged in
+[24-Apr-2014 17:20:16 America/Chicago] calling login_check
+[24-Apr-2014 17:20:16 America/Chicago] session email: aubreyagee@gmail.com
+[24-Apr-2014 17:20:16 America/Chicago] logged in
+[24-Apr-2014 17:20:16 America/Chicago] aubreyagee@gmail.com
+[24-Apr-2014 17:20:16 America/Chicago] symbol is: 
+[24-Apr-2014 17:20:16 America/Chicago] date is: 
+[24-Apr-2014 17:20:18 America/Chicago] calling login_check
+[24-Apr-2014 17:20:18 America/Chicago] session email: aubreyagee@gmail.com
+[24-Apr-2014 17:20:18 America/Chicago] logged in
+[24-Apr-2014 17:20:18 America/Chicago] aubreyagee@gmail.com
+[24-Apr-2014 17:20:18 America/Chicago] symbol is: 
+[24-Apr-2014 17:20:18 America/Chicago] date is: 
+[24-Apr-2014 17:20:26 America/Chicago] symbol searched: f
+[24-Apr-2014 17:20:26 America/Chicago] start date: 
+[24-Apr-2014 17:20:26 America/Chicago] end date: 
+[24-Apr-2014 17:20:26 America/Chicago] else if reached
+[24-Apr-2014 17:20:28 America/Chicago] calling login_check
+[24-Apr-2014 17:20:28 America/Chicago] session email: aubreyagee@gmail.com
+[24-Apr-2014 17:20:28 America/Chicago] logged in
+[24-Apr-2014 17:20:28 America/Chicago] aubreyagee@gmail.com
+[24-Apr-2014 17:20:28 America/Chicago] symbol is: 
+[24-Apr-2014 17:20:28 America/Chicago] date is: 
+[24-Apr-2014 17:20:28 America/Chicago] 15.4500
+[24-Apr-2014 17:20:28 America/Chicago] 2014-03-31
+[24-Apr-2014 17:20:28 America/Chicago] 15.6000
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-01
+[24-Apr-2014 17:20:28 America/Chicago] 16.3900
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-04
+[24-Apr-2014 17:20:28 America/Chicago] 16.1300
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-07
+[24-Apr-2014 17:20:28 America/Chicago] 16.1000
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-09
+[24-Apr-2014 17:20:28 America/Chicago] 15.8400
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-10
+[24-Apr-2014 17:20:28 America/Chicago] 15.6300
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-11
+[24-Apr-2014 17:20:28 America/Chicago] 15.6300
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-14
+[24-Apr-2014 17:20:28 America/Chicago] 15.7000
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-15
+[24-Apr-2014 17:20:28 America/Chicago] 16.0700
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-17
+[24-Apr-2014 17:20:28 America/Chicago] 16.0000
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-21
+[24-Apr-2014 17:20:28 America/Chicago] 15.9800
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-22
+[24-Apr-2014 17:20:28 America/Chicago] 16.1000
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-23
+[24-Apr-2014 17:20:28 America/Chicago] 16.2300
+[24-Apr-2014 17:20:28 America/Chicago] 2014-04-24
+[24-Apr-2014 17:20:29 America/Chicago] symbol searched: 
+[24-Apr-2014 17:20:29 America/Chicago] start date: 
+[24-Apr-2014 17:20:29 America/Chicago] end date: 
+[24-Apr-2014 17:20:29 America/Chicago] else if reached
+[24-Apr-2014 17:20:30 America/Chicago] calling login_check
+[24-Apr-2014 17:20:30 America/Chicago] session email: aubreyagee@gmail.com
+[24-Apr-2014 17:20:30 America/Chicago] logged in
+[24-Apr-2014 17:20:30 America/Chicago] aubreyagee@gmail.com
+[24-Apr-2014 17:20:30 America/Chicago] symbol is: 
+[24-Apr-2014 17:20:30 America/Chicago] date is: 
+[24-Apr-2014 17:20:30 America/Chicago] 15.4500
+[24-Apr-2014 17:20:30 America/Chicago] 2014-03-31
+[24-Apr-2014 17:20:30 America/Chicago] 15.6000
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-01
+[24-Apr-2014 17:20:30 America/Chicago] 16.3900
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-04
+[24-Apr-2014 17:20:30 America/Chicago] 16.1300
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-07
+[24-Apr-2014 17:20:30 America/Chicago] 16.1000
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-09
+[24-Apr-2014 17:20:30 America/Chicago] 15.8400
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-10
+[24-Apr-2014 17:20:30 America/Chicago] 15.6300
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-11
+[24-Apr-2014 17:20:30 America/Chicago] 15.6300
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-14
+[24-Apr-2014 17:20:30 America/Chicago] 15.7000
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-15
+[24-Apr-2014 17:20:30 America/Chicago] 16.0700
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-17
+[24-Apr-2014 17:20:30 America/Chicago] 16.0000
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-21
+[24-Apr-2014 17:20:30 America/Chicago] 15.9800
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-22
+[24-Apr-2014 17:20:30 America/Chicago] 16.1000
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-23
+[24-Apr-2014 17:20:30 America/Chicago] 16.2300
+[24-Apr-2014 17:20:30 America/Chicago] 2014-04-24
+[24-Apr-2014 17:27:00 America/Chicago] calling login_check
+[24-Apr-2014 17:27:00 America/Chicago] session email: 
+[24-Apr-2014 17:27:00 America/Chicago] fail 4
+[24-Apr-2014 17:27:00 America/Chicago] not logged in
+[24-Apr-2014 17:27:23 America/Chicago] calling login_check
+[24-Apr-2014 17:27:23 America/Chicago] session email: 
+[24-Apr-2014 17:27:23 America/Chicago] fail 4
+[24-Apr-2014 17:27:23 America/Chicago] not logged in
+[24-Apr-2014 17:27:23 America/Chicago] 
+[24-Apr-2014 17:27:50 America/Chicago] calling login_check
+[24-Apr-2014 17:27:50 America/Chicago] session email: 
+[24-Apr-2014 17:27:50 America/Chicago] fail 4
+[24-Apr-2014 17:27:50 America/Chicago] not logged in
+[24-Apr-2014 17:27:50 America/Chicago] 
+[24-Apr-2014 17:27:51 America/Chicago] symbol is: 
+[24-Apr-2014 17:27:51 America/Chicago] date is: 
+[24-Apr-2014 17:28:03 America/Chicago] symbol searched: Fb
+[24-Apr-2014 17:28:03 America/Chicago] start date: 
+[24-Apr-2014 17:28:03 America/Chicago] end date: 
+[24-Apr-2014 17:28:03 America/Chicago] else if reached
+[24-Apr-2014 17:28:03 America/Chicago] calling login_check
+[24-Apr-2014 17:28:03 America/Chicago] session email: 
+[24-Apr-2014 17:28:03 America/Chicago] fail 4
+[24-Apr-2014 17:28:03 America/Chicago] not logged in
+[24-Apr-2014 17:28:03 America/Chicago] 
+[24-Apr-2014 17:28:03 America/Chicago] symbol is: 
+[24-Apr-2014 17:28:03 America/Chicago] date is: 
+[24-Apr-2014 17:28:03 America/Chicago] 60.0100
+[24-Apr-2014 17:28:03 America/Chicago] 2014-03-31
+[24-Apr-2014 17:28:03 America/Chicago] 60.2400
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-01
+[24-Apr-2014 17:28:03 America/Chicago] 56.7490
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-07
+[24-Apr-2014 17:28:03 America/Chicago] 58.1901
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-09
+[24-Apr-2014 17:28:03 America/Chicago] 62.4100
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-10
+[24-Apr-2014 17:28:03 America/Chicago] 59.1600
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-11
+[24-Apr-2014 17:28:03 America/Chicago] 58.5300
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-14
+[24-Apr-2014 17:28:03 America/Chicago] 58.8900
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-15
+[24-Apr-2014 17:28:03 America/Chicago] 59.7200
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-17
+[24-Apr-2014 17:28:03 America/Chicago] 58.9400
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-21
+[24-Apr-2014 17:28:03 America/Chicago] 61.2400
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-22
+[24-Apr-2014 17:28:03 America/Chicago] 63.0301
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-23
+[24-Apr-2014 17:28:03 America/Chicago] 61.3600
+[24-Apr-2014 17:28:03 America/Chicago] 2014-04-24
+[24-Apr-2014 17:28:52 America/Chicago] calling login_check
+[24-Apr-2014 17:28:52 America/Chicago] session email: 
+[24-Apr-2014 17:28:52 America/Chicago] fail 4
+[24-Apr-2014 17:28:52 America/Chicago] not logged in
+[24-Apr-2014 17:28:52 America/Chicago] 
+[24-Apr-2014 17:28:52 America/Chicago] symbol is: 
+[24-Apr-2014 17:28:52 America/Chicago] date is: 
+[24-Apr-2014 17:28:52 America/Chicago] 15.4500
+[24-Apr-2014 17:28:52 America/Chicago] 2014-03-31
+[24-Apr-2014 17:28:52 America/Chicago] 15.6000
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-01
+[24-Apr-2014 17:28:52 America/Chicago] 16.3900
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-04
+[24-Apr-2014 17:28:52 America/Chicago] 16.1300
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-07
+[24-Apr-2014 17:28:52 America/Chicago] 16.1000
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-09
+[24-Apr-2014 17:28:52 America/Chicago] 15.8400
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-10
+[24-Apr-2014 17:28:52 America/Chicago] 15.6300
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-11
+[24-Apr-2014 17:28:52 America/Chicago] 15.6300
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-14
+[24-Apr-2014 17:28:52 America/Chicago] 15.7000
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-15
+[24-Apr-2014 17:28:52 America/Chicago] 16.0700
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-17
+[24-Apr-2014 17:28:52 America/Chicago] 16.0000
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-21
+[24-Apr-2014 17:28:52 America/Chicago] 15.9800
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-22
+[24-Apr-2014 17:28:52 America/Chicago] 16.1000
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-23
+[24-Apr-2014 17:28:52 America/Chicago] 16.2300
+[24-Apr-2014 17:28:52 America/Chicago] 2014-04-24
+[24-Apr-2014 17:29:28 America/Chicago] calling login_check
+[24-Apr-2014 17:29:28 America/Chicago] session email: 
+[24-Apr-2014 17:29:28 America/Chicago] fail 4
+[24-Apr-2014 17:29:28 America/Chicago] not logged in
+[24-Apr-2014 17:29:28 America/Chicago] 
+[24-Apr-2014 19:41:41 America/Chicago] calling login_check
+[24-Apr-2014 19:41:41 America/Chicago] session email: 
+[24-Apr-2014 19:41:41 America/Chicago] fail 4
+[24-Apr-2014 19:41:41 America/Chicago] not logged in
+[24-Apr-2014 19:41:41 America/Chicago] 
+[24-Apr-2014 20:30:48 America/Chicago] calling login_check
+[24-Apr-2014 20:30:48 America/Chicago] session email: 
+[24-Apr-2014 20:30:48 America/Chicago] fail 4
+[24-Apr-2014 20:30:48 America/Chicago] not logged in
+[24-Apr-2014 20:30:48 America/Chicago] 
+[24-Apr-2014 20:30:48 America/Chicago] symbol is: 
+[24-Apr-2014 20:30:48 America/Chicago] date is: 
+[25-Apr-2014 07:45:35 America/Chicago] calling login_check
+[25-Apr-2014 07:45:35 America/Chicago] session email: 
+[25-Apr-2014 07:45:35 America/Chicago] fail 4
+[25-Apr-2014 07:45:35 America/Chicago] not logged in
+[25-Apr-2014 13:49:02 America/Chicago] calling login_check
+[25-Apr-2014 13:49:02 America/Chicago] session email: 
+[25-Apr-2014 13:49:02 America/Chicago] fail 4
+[25-Apr-2014 13:49:02 America/Chicago] not logged in
+[26-Apr-2014 09:31:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[26-Apr-2014 09:31:52 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[26-Apr-2014 09:31:52 America/Chicago] calling login_check
+[26-Apr-2014 09:31:52 America/Chicago] session email: 
+[26-Apr-2014 09:31:52 America/Chicago] fail 4
+[26-Apr-2014 09:31:52 America/Chicago] not logged in
+[26-Apr-2014 09:31:52 America/Chicago] 
+[26-Apr-2014 09:31:52 America/Chicago] symbol is: 
+[26-Apr-2014 09:31:52 America/Chicago] date is: 
+[26-Apr-2014 11:24:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[26-Apr-2014 11:24:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[26-Apr-2014 11:25:03 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[26-Apr-2014 11:25:03 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[26-Apr-2014 11:26:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[26-Apr-2014 11:26:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[26-Apr-2014 21:56:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[26-Apr-2014 21:56:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[26-Apr-2014 21:56:35 America/Chicago] calling login_check
+[26-Apr-2014 21:56:35 America/Chicago] session email: 
+[26-Apr-2014 21:56:35 America/Chicago] fail 4
+[26-Apr-2014 21:56:35 America/Chicago] not logged in
+[27-Apr-2014 09:50:46 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[27-Apr-2014 09:50:46 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[27-Apr-2014 09:50:48 America/Chicago] calling login_check
+[27-Apr-2014 09:50:48 America/Chicago] session email: 
+[27-Apr-2014 09:50:48 America/Chicago] fail 4
+[27-Apr-2014 09:50:48 America/Chicago] not logged in

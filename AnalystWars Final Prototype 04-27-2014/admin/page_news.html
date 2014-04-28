@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<!-- BEGIN HEAD -->
+<head>
+<meta charset="utf-8"/>
+<title>AnalystWars | News</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="" name="description"/>
+<meta content="" name="author"/>
+<!-- BEGIN GLOBAL MANDATORY STYLES -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css"/>
+<link href="assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="assets/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css"/>
+<!-- END GLOBAL MANDATORY STYLES -->
+<!-- BEGIN THEME STYLES -->
+<link href="assets/css/style-metronic.css" rel="stylesheet" type="text/css"/>
+<link href="assets/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="assets/css/style-responsive.css" rel="stylesheet" type="text/css"/>
+<link href="assets/css/plugins.css" rel="stylesheet" type="text/css"/>
+<link href="assets/css/pages/news.css" rel="stylesheet" type="text/css"/>
+<link href="assets/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color"/>
+<link href="assets/css/custom.css" rel="stylesheet" type="text/css"/>
+<!-- END THEME STYLES -->
+
+</head>
+<!-- END HEAD -->
+<!-- BEGIN BODY -->
+<body class="page-header-fixed">
+<!-- BEGIN HEADER -->
+<div class="header navbar navbar-fixed-top">
+	<!-- BEGIN TOP NAVIGATION BAR -->
+	<div class="header-inner">
+		<!-- BEGIN LOGO -->
+		<a class="navbar-brand" href="index.html">
+			<img src="assets/img/logo.png" alt="logo" class="img-responsive"/>
+		</a>
+		<!-- END LOGO -->
+		<!-- BEGIN RESPONSIVE MENU TOGGLER -->
+		<a href="javascript:;" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<img src="assets/img/menu-toggler.png" alt=""/>
+		</a>
+		<!-- END RESPONSIVE MENU TOGGLER -->
+		<!-- BEGIN TOP NAVIGATION MENU -->
+		<ul class="nav navbar-nav pull-right">
+			<!-- BEGIN NOTIFICATION DROPDOWN -->
+			<li class="dropdown" id="header_notification_bar">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+					<i class="fa fa-warning"></i>
+					<span class="badge">
+						 1
+					</span>
+				</a>
+				<ul class="dropdown-menu extended notification">
+					<li>
+						<p>
+							 You have 1 new notifications
+						</p>
+					</li>
+					<li>
+						<ul class="dropdown-menu-list scroller" style="height: 250px;">
+							<li>
+								<a href="#">
+									<span class="label label-sm label-icon label-success">
+										<i class="fa fa-plus"></i>
+									</span>
+									 New user registered.
+									<span class="time">
+										 Just now
+									</span>
+								</a>
+							</li>
+							
+						</ul>
+					</li>
+					<li class="external">
+						<a href="#">
+							 See all notifications <i class="m-icon-swapright"></i>
+						</a>
+					</li>
+				</ul>
+			</li>
+			<!-- END NOTIFICATION DROPDOWN -->
+			<!-- BEGIN INBOX DROPDOWN -->
+			<li class="dropdown" id="header_inbox_bar">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+					<i class="fa fa-envelope"></i>
+					<span class="badge">
+						 2
+					</span>
+				</a>
+				<ul class="dropdown-menu extended inbox">
+					<li>
+						<p>
+							 You have 2 new messages
+						</p>
+					</li>
+					<li>
+						<ul class="dropdown-menu-list scroller" style="height: 250px;">
+							<li>
+								<a href="inbox.html?a=view">
+									<span class="photo">
+										<img src="./assets/img/avatar2.jpg" alt=""/>
+									</span>
+									<span class="subject">
+										<span class="from">
+											 Lisa Wong
+										</span>
+										<span class="time">
+											 Just Now
+										</span>
+									</span>
+									<span class="message">
+										 hi...
+									</span>
+								</a>
+							</li>
+							<li>
+								<a href="inbox.html?a=view">
+									<span class="photo">
+										<img src="./assets/img/avatar3.jpg" alt=""/>
+									</span>
+									<span class="subject">
+										<span class="from">
+											 Richard Hen
+										</span>
+										<span class="time">
+											 16 mins
+										</span>
+									</span>
+									<span class="message">
+										 test...
+									</span>
+								</a>
+							</li>
+						</ul>
+					</li>
+					<li class="external">
+						<a href="inbox.html">
+							 See all messages <i class="m-icon-swapright"></i>
+						</a>
+					</li>
+				</ul>
+			</li>
+			<!-- END INBOX DROPDOWN -->
+		
+			<!-- BEGIN USER LOGIN DROPDOWN -->
+			<li class="dropdown user">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+					<img alt="" src="assets/img/avatar1_small.jpg"/>
+					<span class="username">
+						 Timothy Hooker
+					</span>
+					<i class="fa fa-angle-down"></i>
+				</a>
+				<ul class="dropdown-menu">
+					<li>
+						<a href="extra_profile.html">
+							<i class="fa fa-user"></i> My Profile
+						</a>
+					</li>
+					<li>
+						<a href="inbox.html">
+							<i class="fa fa-envelope"></i> My Message
+							<span class="badge badge-danger">
+								 2
+							</span>
+						</a>
+					</li>
+					<li class="divider">
+					</li>
+					<li>
+						<a href="javascript:;" id="trigger_fullscreen">
+							<i class="fa fa-arrows"></i> Full Screen
+						</a>
+					</li>
+					<li>
+						<a href="login.html">
+							<i class="fa fa-key"></i> Log Out
+						</a>
+					</li>
+				</ul>
+			</li>
+			<!-- END USER LOGIN DROPDOWN -->
+		</ul>
+		<!-- END TOP NAVIGATION MENU -->
+	</div>
+	<!-- END TOP NAVIGATION BAR -->
+</div>
+<!-- END HEADER -->
+<div class="clearfix">
+</div>
+<!-- BEGIN CONTAINER -->
+<div class="page-container">
+	<!-- BEGIN SIDEBAR -->
+	<div class="page-sidebar-wrapper">
+		<div class="page-sidebar navbar-collapse collapse">
+			<!-- BEGIN SIDEBAR MENU -->
+			<ul class="page-sidebar-menu" data-auto-scroll="true" data-slide-speed="200">
+				<li class="sidebar-toggler-wrapper">
+					<!-- BEGIN SIDEBAR TOGGLER BUTTON -->
+					<div class="sidebar-toggler hidden-phone">
+					</div>
+					<!-- BEGIN SIDEBAR TOGGLER BUTTON -->
+				</li>
+				<li class="sidebar-search-wrapper">
+					<!-- BEGIN RESPONSIVE QUICK SEARCH FORM -->
+					<form class="sidebar-search" action="extra_search.html" method="POST">
+						<div class="form-container">
+							<div class="input-box">
+								<a href="javascript:;" class="remove">
+								</a>
+								<input type="text" placeholder="Search..."/>
+								<input type="button" class="submit" value=" "/>
+							</div>
+						</div>
+					</form>
+					<!-- END RESPONSIVE QUICK SEARCH FORM -->
+				</li>
+			  <li class="start active ">
+					<a href="index.html">
+						<i class="fa fa-home"></i>
+						<span class="title">
+							Home
+						</span>
+						<span class="selected">
+						</span>
+					</a>
+				</li>
+				
+				<li class="last">
+					<li>
+							<a href="page_blog.html">
+								<i class="fa fa-comments"></i>
+								<span class="title">
+								Blog
+								</span>
+							</a>
+					</li>
+				</li>
+				
+				<li class="last">
+					<li>
+							<a href="page_blog_item.html">
+								<i class="fa fa-font"></i>
+								<span class="title">
+								Blog Post
+								</span>
+							</a>
+					</li>
+				</li>
+				
+				<li class="last">
+					<li>
+							<a href="page_news.html">
+								<i class="fa fa-coffee"></i>
+								<span class="badge badge-success">
+									9
+								</span>
+								<span class="title">
+								News
+								</span>
+							</a>
+					</li>
+				</li>
+				
+				<li class="last">
+					<li>
+							<a href="page_news_item.html">
+								<i class="fa fa-bell"></i>
+								<span class="title">
+								News View
+								</span>
+							</a>
+					</li>
+				</li>
+				
+				<li class="last">
+					<li>  
+							<a href="extra_profile.html">
+							<i class="fa fa-user"></i>
+							<span class="title">
+								 User Profile
+							 </span>
+							</a>
+					</li>
+				</li>
+				
+				<li class="last">
+					<li>  
+							<a href="table_responsive.html">
+							<i class="fa fa-th"></i>
+							<span class="title">
+								 Stock
+						    </span>
+							</a>
+					</li>
+				</li>
+				
+				<li class="last ">
+					<a href="charts.html">
+						<i class="fa fa-bar-chart-o"></i>
+						<span class="title">
+							Stock Charts
+						</span>
+					</a>
+				</li>
+				
+				<li class="last">
+					<li>  
+							<a href="table_managed.html">
+							<i class="fa fa-group"></i>
+							<span class="title">
+								 Leaderboard
+							</span>
+							</a>
+					</li>
+				</li>
+				
+				
+				<li>
+					<a href="javascript:;">
+						<i class="fa fa-file-text"></i>
+						<span class="title">
+							Extra pages
+						</span>
+						<span class="arrow ">
+						</span>
+					</a>
+					<ul class="sub-menu">
+						<li>
+							<a href="404.html">
+								 404 page
+							</a>
+						</li>
+						
+						<li>
+							<a href="extra_pricing_table.html">
+								 Price table
+							</a>
+						</li>
+						
+						<li>
+							<a href="page_coming_soon.html">
+								 Coming soon 
+							</a>
+						</li>
+						
+						<li>
+							<a href="form_wizard.html">
+								 Register page
+							</a>
+						</li>
+						
+						</ul>
+				</li>
+			
+			
+				
+			
+			</ul>
+			<!-- END SIDEBAR MENU -->
+		</div>
+	</div>
+	<!-- END SIDEBAR -->
+	<!-- BEGIN CONTENT -->
+	<div class="page-content-wrapper">
+		<div class="page-content">
+			<!-- BEGIN SAMPLE PORTLET CONFIGURATION MODAL FORM-->
+			<div class="modal fade" id="portlet-config" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+							<h4 class="modal-title">Modal title</h4>
+						</div>
+						<div class="modal-body">
+							 Widget settings form goes here
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn blue">Save changes</button>
+							<button type="button" class="btn default" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+					<!-- /.modal-content -->
+				</div>
+				<!-- /.modal-dialog -->
+			</div>
+			<!-- /.modal -->
+			<!-- END SAMPLE PORTLET CONFIGURATION MODAL FORM-->
+			<!-- BEGIN STYLE CUSTOMIZER -->
+			<div class="theme-panel hidden-xs hidden-sm">
+				<div class="toggler">
+				</div>
+				<div class="toggler-close">
+				</div>
+				<div class="theme-options">
+					<div class="theme-option theme-colors clearfix">
+						<span>
+							 THEME COLOR
+						</span>
+						<ul>
+							<li class="color-black current color-default" data-style="default">
+							</li>
+							<li class="color-blue" data-style="blue">
+							</li>
+							<li class="color-brown" data-style="brown">
+							</li>
+							<li class="color-purple" data-style="purple">
+							</li>
+							<li class="color-grey" data-style="grey">
+							</li>
+							<li class="color-white color-light" data-style="light">
+							</li>
+						</ul>
+					</div>
+					<div class="theme-option">
+						<span>
+							 Layout
+						</span>
+						<select class="layout-option form-control input-small">
+							<option value="fluid" selected="selected">Fluid</option>
+							<option value="boxed">Boxed</option>
+						</select>
+					</div>
+					<div class="theme-option">
+						<span>
+							 Header
+						</span>
+						<select class="header-option form-control input-small">
+							<option value="fixed" selected="selected">Fixed</option>
+							<option value="default">Default</option>
+						</select>
+					</div>
+					<div class="theme-option">
+						<span>
+							 Sidebar
+						</span>
+						<select class="sidebar-option form-control input-small">
+							<option value="fixed">Fixed</option>
+							<option value="default" selected="selected">Default</option>
+						</select>
+					</div>
+					<div class="theme-option">
+						<span>
+							 Sidebar Position
+						</span>
+						<select class="sidebar-pos-option form-control input-small">
+							<option value="left" selected="selected">Left</option>
+							<option value="right">Right</option>
+						</select>
+					</div>
+					<div class="theme-option">
+						<span>
+							 Footer
+						</span>
+						<select class="footer-option form-control input-small">
+							<option value="fixed">Fixed</option>
+							<option value="default" selected="selected">Default</option>
+						</select>
+					</div>
+				</div>
+			</div>
+			<!-- END STYLE CUSTOMIZER -->
+			<!-- BEGIN PAGE HEADER-->
+			<div class="row">
+				<div class="col-md-12">
+					<!-- BEGIN PAGE TITLE & BREADCRUMB-->
+					<h3 class="page-title">
+					News <small> Magazine style</small>
+					</h3>
+					<ul class="page-breadcrumb breadcrumb">
+						<li class="btn-group">
+							<button type="button" class="btn blue dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="1000" data-close-others="true">
+							<span>
+								Actions
+							</span>
+							<i class="fa fa-angle-down"></i>
+							</button>
+							<ul class="dropdown-menu pull-right" role="menu">
+								<li>
+									<a href="#">
+										Action
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										Another action
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										Something else here
+									</a>
+								</li>
+								<li class="divider">
+								</li>
+								<li>
+									<a href="#">
+										Separated link
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<i class="fa fa-home"></i>
+							<a href="index.html">
+								Home
+							</a>
+							<i class="fa fa-angle-right"></i>
+						</li>
+						<li>
+							<a href="#">
+								News
+							</a>
+						</li>
+					</ul>
+					<!-- END PAGE TITLE & BREADCRUMB-->
+				</div>
+			</div>
+			<!-- END PAGE HEADER-->
+			<!-- BEGIN PAGE CONTENT-->
+			<div class="row">
+				<div class="col-md-12 news-page">
+					<h1>Recent News</h1>
+					<div class="row">
+						<div class="col-md-5">
+							<div id="myCarousel" class="carousel image-carousel slide">
+								<div class="carousel-inner">
+									<div class="active item">
+										<img src="assets/img/gallery/news2.jpg" class="img-responsive" alt="">
+										<div class="carousel-caption">
+											<h4>
+											<a href="page_news_item.html">
+												 Kickstarter backlash over Oculus overblown?
+											</a>
+											</h4>
+											<p>
+												 Facebook might not have a "dislike" button, but its $2 billion deal to buy Oculus VR is getting plenty of negative feedback.
+											</p>
+										</div>
+									</div>
+									<div class="item">
+										<img src="assets/img/gallery/news3.jpg" class="img-responsive" alt="">
+										<div class="carousel-caption">
+											<h4>
+											<a href="page_news_item.html">
+												 When retailers compete with...themselves: Walgreens edition
+											</a>
+											</h4>
+											<p>
+												 As the drug store chain plans to shutter 76 locations, some of which are very close to other Walgreens locations, it's worth asking, why were these stores opened in the first place?
+											</p>
+										</div>
+									</div>
+									<div class="item">
+										<img src="assets/img/gallery/news4.jpg" class="img-responsive" alt="">
+										<div class="carousel-caption">
+											<h4>
+											<a href="page_news_item.html">
+												 Nissan recalls 1 million vehicles due to airbag flaw
+											</a>
+											</h4>
+											<p>
+												 Nissan Motor is recalling more than 1 million vehicles in the United States and Canada to fix a software problem that could prevent the front passenger airbag from deploying in an accident.
+											</p>
+										</div>
+									</div>
+								</div>
+								<!-- Carousel nav -->
+								<a class="carousel-control left" href="#myCarousel" data-slide="prev">
+									<i class="m-icon-big-swapleft m-icon-white"></i>
+								</a>
+								<a class="carousel-control right" href="#myCarousel" data-slide="next">
+									<i class="m-icon-big-swapright m-icon-white"></i>
+								</a>
+								<ol class="carousel-indicators">
+									<li data-target="#myCarousel" data-slide-to="0" class="active">
+									</li>
+									<li data-target="#myCarousel" data-slide-to="1">
+									</li>
+									<li data-target="#myCarousel" data-slide-to="2">
+									</li>
+								</ol>
+							</div>
+							<div class="top-news margin-top-10">
+								<a href="#" class="btn blue">
+									<span>
+										 Featured News
+									</span>
+									<em>
+									<i class="fa fa-tags"></i>
+									USA, Business, Apple </em>
+									<i class="fa fa- icon-bullhorn top-news-icon"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Mt. Gox says working with police in missing bitcoin probe
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>Sophie Knight</strong>
+									<em>3 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/image1.jpg" alt="">TOKYO (Reuters) - In the first confirmation of a criminal investigation at Mt. Gox, the failed Tokyo-based bitcoin exchange said on Wednesday it was working with the police "with regard to the disappearance" of bitcoins worth some $490 million at current prices.
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Federal judge dismisses Ceglia case against Facebook
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>Reuters</strong>
+									<em>7 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/image4.jpg" alt="">A federal judge dismissed a lawsuit filed by New York businessman Paul Ceglia against Facebook Inc and its founder Mark Zuckerberg, adopting findings by a magistrate judge that a purported contract entitling him to an ownership stake in the company was fake, according to court documents.
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Crimea besieged by Ukraine control of power, water
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>LAURA MILLS</strong>
+									<em>3 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/image5.jpg" alt="">Officials in the peninsula accused Ukraine of halving electricity supplies in order to bully Crimea, which voted earlier this month in a referendum to secede and join Russia.
+
+"Cutting supplies is an attempt by Kiev to blackmail Russia through Crimea," Crimean Prime Minister Sergei Aksyonov wrote on his Twitter account.
+
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+						</div>
+						<!--end col-md-5-->
+						<div class="col-md-4">
+							<div class="top-news">
+								<a href="#" class="btn red">
+									<span>
+										 World News
+									</span>
+									<em>
+									<i class="fa fa-tags"></i>
+									UK, Canada, Asia </em>
+									<i class="fa fa-globe top-news-icon"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Wall Street drops on Russia worry as techs, materials drag
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>Angela Moon</strong>
+									<em>3 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/news1.jpg" alt="">NEW YORK (Reuters) - U.S. stocks fell on Wednesday, led by losses in the technology and materials sectors, as geopolitical concerns rose after the United States and the European Union agreed to work together on tougher sanctions on Russia.
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Satellite spots 122 objects in Malaysia jet search
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>TODD PITMAN and ROB GRIFFITH</strong>
+									<em>5 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/image5.jpg" alt="">A French satellite scanning the Indian Ocean for remnants of a missing jetliner found a possible plane debris field containing 122 objects, a top Malaysian official said Wednesday, calling it "the most credible lead that we have."
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+							<div class="top-news">
+								<a href="#" class="btn green">
+									<span>
+										 Finance
+									</span>
+									<em>
+									<i class="fa fa-tags"></i>
+									Money, Business, Google </em>
+									<i class="fa fa-briefcase top-news-icon"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Asia shares in fragile mood, Nikkei tests support
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>Wayne Cole</strong>
+									<em>2 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/image3.jpg" alt=""> Asian markets were in skittish mood on Thursday following a late dip on Wall Street, with Tokyo stocks slipping as investors counted down to a rise in sales tax that is expected to swat consumer spending and test the market's faith in Abenomics.
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Bank of America to pay $9.3 billion to settle mortgage bond claims
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>Margaret Chadbourn</strong>
+									<em>5 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/image5.jpg" alt="">Bank of America agreed to pay $9.3 billion to settle claims that it sold Fannie Mae and Freddie Mac faulty mortgage bonds, helping the bank to end one of the largest legal headaches it still faced from the financial crisis.
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+						</div>
+						<!--end col-md-4-->
+						<div class="col-md-3">
+							<div class="top-news">
+								<a href="#" class="btn purple">
+									<span>
+										 Science
+									</span>
+									<em>
+									<i class="fa fa-tags"></i>
+									Hi-Tech, Medicine, Space </em>
+									<i class="fa fa-beaker top-news-icon"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Your fear is written all over your face, in heat
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>ERIKA ENGELHAUPT</strong>
+									<em>3 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/image2.jpg" alt="">What gets us hot can be so revealing. For me, the slightest anxiety or excitement can trigger a warm spread across my face. I can feel the blood rushing up my neck and into the thousands of tiny capillaries across my cheeks. I’ve worn scarves or turtlenecks to job interviews, weather be damned, to keep my burning red neck from betraying my nerves.
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Icy rings found around tiny space rock
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>CHRISTOPHER CROCKETT</strong>
+									<em>3 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/image4.jpg" alt="">All of the giant planets in our solar system — Jupiter, Saturn, Uranus and Neptune — are adorned with rings. Now a much smaller planetoid can take its place on the list of ringed objects. It is the first time rings have been found around such a small object.
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+							<div class="top-news">
+								<a href="#" class="btn yellow">
+									<span>
+										 Sport
+									</span>
+									<em>
+									<i class="fa fa-tags"></i>
+									Football, Swimming, Tennis </em>
+									<i class="fa fa-trophy top-news-icon"></i>
+								</a>
+							</div>
+							<div class="news-blocks">
+								<h3>
+								<a href="page_news_item.html">
+									 Cycling president proposes moving Summer Olympic sports to Winter Games
+								</a>
+								</h3>
+								<div class="news-block-tags">
+									<strong>Martin Rogers</strong>
+									<em>3 hours ago</em>
+								</div>
+								<p>
+									<img class="news-block-img pull-right" src="assets/img/gallery/image2.jpg" alt="">A bizarre plan that could dramatically change the face of the Olympics by switching several sports from the Summer Games to the winter version has been suggested by cycling's most senior figure.
+								</p>
+								<a href="page_news_item.html" class="news-block-btn">
+									 Read more <i class="m-icon-swapright m-icon-black"></i>
+								</a>
+							</div>
+						</div>
+						<!--end col-md-3-->
+					</div>
+					<div class="space20">
+					</div>
+					
+					
+					<div class="space20">
+					</div>
+					<h3>News Feeds</h3>
+					<div class="row">
+						<div class="col-md-3">
+							<div class="top-news">
+								<a href="#" class="btn red">
+									<span>
+										 Stock News
+									</span>
+									<em>Posted on: April 16, 2013</em>
+									<em>
+									<i class="fa fa-tags"></i>
+									Money, Business, Google </em>
+									<i class="fa fa-briefcase top-news-icon"></i>
+								</a>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="top-news">
+								<a href="#" class="btn green">
+									<span>
+										 Top Week
+									</span>
+									<em>Posted on: April 15, 2013</em>
+									<em>
+									<i class="fa fa-tags"></i>
+									Internet, Music, People </em>
+									<i class="fa fa-music top-news-icon"></i>
+								</a>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="top-news">
+								<a href="#" class="btn blue">
+									<span>
+										 Gold Price Falls
+									</span>
+									<em>Posted on: April 14, 2013</em>
+									<em>
+									<i class="fa fa-tags"></i>
+									USA, Business, Apple </em>
+									<i class="fa fa-globe top-news-icon"></i>
+								</a>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="top-news">
+								<a href="#" class="btn yellow">
+									<span>
+										 Study Abroad
+									</span>
+									<em>Posted on: April 13, 2013</em>
+									<em>
+									<i class="fa fa-tags"></i>
+									Education, Students, Canada </em>
+									<i class="fa fa-book top-news-icon"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- END PAGE CONTENT-->
+		</div>
+	</div>
+	<!-- END CONTENT -->
+</div>
+<!-- END CONTAINER -->
+<!-- BEGIN FOOTER -->
+<div class="footer">
+	<div class="footer-inner">
+		 2014 &copy; AnalystWars.com
+	</div>
+	<div class="footer-tools">
+		<span class="go-top">
+			<i class="fa fa-angle-up"></i>
+		</span>
+	</div>
+</div>
+<!-- END FOOTER -->
+<!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
+<!-- BEGIN CORE PLUGINS -->
+<!--[if lt IE 9]>
+<script src="assets/plugins/respond.min.js"></script>
+<script src="assets/plugins/excanvas.min.js"></script> 
+<![endif]-->
+<script src="assets/plugins/jquery-1.10.2.min.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="assets/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+<script src="assets/plugins/jquery.cokie.min.js" type="text/javascript"></script>
+<script src="assets/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
+<!-- END CORE PLUGINS -->
+<script src="assets/scripts/core/app.js"></script>
+<script>
+jQuery(document).ready(function() {    
+   App.init();
+});
+</script>
+<!-- END JAVASCRIPTS -->
+</body>
+<!-- END BODY -->
+</html>
