@@ -1,0 +1,1212 @@
+[09-Apr-2014 20:49:53 America/Chicago] fname: <br>
+[09-Apr-2014 20:49:53 America/Chicago] lname: <br>
+[09-Apr-2014 20:49:53 America/Chicago] dob: <br>
+[09-Apr-2014 20:49:53 America/Chicago] educationLevel: <br>
+[09-Apr-2014 20:49:53 America/Chicago] occupation: <br>
+[09-Apr-2014 20:49:53 America/Chicago] registration salt: 9929fa1824ca387016f8925f1d84ae33943e621f2042d1a0446e213564ed45a5090b7c087ffc7bfea4c445cdf680cbaa3afd49c90f3598725ec1a7da5dbfbfa7\n
+[09-Apr-2014 20:49:53 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[09-Apr-2014 20:49:53 America/Chicago] registration final hash: 6d96a4c9eabe665e2d6aece9eb4b5506600b44542eec66cd5e45917bdf4bdfb6c745c42f8c8aabcc99203090ab6a6bc4552a5e4eb87c68cc96878f4d3c865f05
+[09-Apr-2014 20:49:53 America/Chicago] Second Statement Failure
+[09-Apr-2014 21:04:59 America/Chicago] fname: 
+[09-Apr-2014 21:04:59 America/Chicago] lname: 
+[09-Apr-2014 21:04:59 America/Chicago] dob: 
+[09-Apr-2014 21:04:59 America/Chicago] educationLevel: 
+[09-Apr-2014 21:04:59 America/Chicago] occupation: 
+[09-Apr-2014 21:04:59 America/Chicago] registration salt: 8e35ace2f57e950a51851cbd16b83d8006a9b3e7abaa1f1b9e9d5439e90b4c130dbc841d41341f14fa5e1519142646f7cbe87e4b53e052f0c59fe9a0db996c8d\n
+[09-Apr-2014 21:04:59 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[09-Apr-2014 21:04:59 America/Chicago] registration final hash: c9be5639aacb42b7d6c69c676802f2a1dcf664491b27608b95b2f1abf3d031ceb24f3722f22b7874ab87dcdea2ec48cdea2e96ba317d2e226848183b77ca325f
+[09-Apr-2014 21:04:59 America/Chicago] Second Statement Failure
+[09-Apr-2014 21:06:06 America/Chicago] fname: AAA
+[09-Apr-2014 21:06:06 America/Chicago] lname: AAA
+[09-Apr-2014 21:06:06 America/Chicago] dob: 
+[09-Apr-2014 21:06:06 America/Chicago] educationLevel: 
+[09-Apr-2014 21:06:06 America/Chicago] occupation: 
+[09-Apr-2014 21:06:06 America/Chicago] registration salt: d83ad93149e58f3b7118cc2db663f05a1a321092f64349775c2ff493aa808a81f9de8557340c811b7af60a8e67816d02d4cff2d2b97484f3338ae7ea8f191553\n
+[09-Apr-2014 21:06:06 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[09-Apr-2014 21:06:06 America/Chicago] registration final hash: 8cbc41576513c28058e734faa4610bc90098573af000f28ab4946ac9c5333811c3895f1a773853b1b21b845e74b807713e99fe56748f85041638effbe7f69638
+[09-Apr-2014 21:20:01 America/Chicago] fname: Nick
+[09-Apr-2014 21:20:01 America/Chicago] lname: Crooker
+[09-Apr-2014 21:20:01 America/Chicago] dob: 
+[09-Apr-2014 21:20:01 America/Chicago] educationLevel: 
+[09-Apr-2014 21:20:01 America/Chicago] occupation: 
+[09-Apr-2014 21:20:01 America/Chicago] registration salt: bdf6b2eb18391464347e34e3feaf570efb9215c1d57a38e5d64aa68dfae7a28a1f4aabf592ced4a576fa658c8c9b328e59428a3ed9267b9701aa7239ff9c2aa0\n
+[09-Apr-2014 21:20:01 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[09-Apr-2014 21:20:01 America/Chicago] registration final hash: 8be788cfda2e7a315f8bfee1ed193c81e3daffd5781274b3aac7ad9a0dd80a8bb2a6181e20350e24725d6b206c14dd8bd056fb3ad1e8e7bd9d848daa634cba49
+[10-Apr-2014 15:12:14 America/Chicago] fname: John
+[10-Apr-2014 15:12:14 America/Chicago] lname: Doe
+[10-Apr-2014 15:12:14 America/Chicago] dob: 
+[10-Apr-2014 15:12:14 America/Chicago] educationLevel: 
+[10-Apr-2014 15:12:14 America/Chicago] occupation: 
+[10-Apr-2014 15:12:14 America/Chicago] registration salt: e87e982f804a4538c7cd08b63a6f410424a1c7173c9ed4907662420923ec4dbda016efedb87cd47f294a1faa3f09726163be83fd79ce490c75261eff989e2a9b\n
+[10-Apr-2014 15:12:14 America/Chicago] registration hashed pw: 5070ea6fea9d36140f6328e1c811e31b35a01c83fd3950c99a3cc8e026a8bfc990df1726eb253627645f647c3b8988ad2d27fa54e7785bf9959b21682b0805fa\n
+[10-Apr-2014 15:12:14 America/Chicago] registration final hash: b625c6ada7ac3357e805d497bdf88bdad92a1e5c4c47522a016efe54a765e48d8c95c7ae4f163be0951ee76e7e88361d85d2c699c25ae3e3aabb9af6a6a2165d
+[10-Apr-2014 15:45:28 America/Chicago] hashed pw from login form is: 5070ea6fea9d36140f6328e1c811e31b35a01c83fd3950c99a3cc8e026a8bfc990df1726eb253627645f647c3b8988ad2d27fa54e7785bf9959b21682b0805fa
+[10-Apr-2014 15:45:28 America/Chicago] valid: 1397159128
+[10-Apr-2014 15:45:28 America/Chicago] current: 1397162728
+[10-Apr-2014 15:45:28 America/Chicago] no brute
+[10-Apr-2014 16:15:00 America/Chicago] hashed pw from login form is: cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e
+[10-Apr-2014 16:15:00 America/Chicago] User does not exist
+[10-Apr-2014 16:15:00 America/Chicago] valid: 1397160900
+[10-Apr-2014 16:15:00 America/Chicago] current: 1397164500
+[10-Apr-2014 16:15:00 America/Chicago] no brute
+[10-Apr-2014 16:18:33 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[10-Apr-2014 16:18:33 America/Chicago] valid: 1397161113
+[10-Apr-2014 16:18:33 America/Chicago] current: 1397164713
+[10-Apr-2014 16:18:33 America/Chicago] no brute
+[10-Apr-2014 16:18:49 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[10-Apr-2014 16:18:49 America/Chicago] valid: 1397161129
+[10-Apr-2014 16:18:49 America/Chicago] current: 1397164729
+[10-Apr-2014 16:18:49 America/Chicago] no brute
+[10-Apr-2014 16:22:06 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[10-Apr-2014 16:22:06 America/Chicago] valid: 1397161326
+[10-Apr-2014 16:22:06 America/Chicago] current: 1397164926
+[10-Apr-2014 16:22:06 America/Chicago] no brute
+[11-Apr-2014 20:49:30 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[11-Apr-2014 20:49:30 America/Chicago] valid: 1397263770
+[11-Apr-2014 20:49:30 America/Chicago] current: 1397267370
+[11-Apr-2014 20:49:30 America/Chicago] no brute
+[15-Apr-2014 15:55:41 America/Chicago] fname: Zach
+[15-Apr-2014 15:55:41 America/Chicago] lname: VanOast
+[15-Apr-2014 15:55:41 America/Chicago] dob: 
+[15-Apr-2014 15:55:41 America/Chicago] educationLevel: 
+[15-Apr-2014 15:55:41 America/Chicago] occupation: 
+[15-Apr-2014 15:55:41 America/Chicago] registration salt: 192627241e0c8bf4cfd290cfdbd0f610529a376b283e870a93b5a4593b7989028768ab94fdade361da5013c4ff83f25692e1b273b6497fe285049b92da1e0595\n
+[15-Apr-2014 15:55:41 America/Chicago] registration hashed pw: f4b6c8a2a88ea7c94a6c377aaf43e358552a8db266d7ed6b4b2ab69dab44017a4b791d2f5dd451448975f730cf6fe85a484e2c5695087900552623d192ef325a\n
+[15-Apr-2014 15:55:41 America/Chicago] registration final hash: 1e79432f5440414dd01abd07f40a2c18876f613507713edd42811274c3a574f2bbdaed501c92ff4ba27455640264eec0a782f82431754ed7436d3a176b2b275a
+[15-Apr-2014 15:56:09 America/Chicago] hashed pw from login form is: f4b6c8a2a88ea7c94a6c377aaf43e358552a8db266d7ed6b4b2ab69dab44017a4b791d2f5dd451448975f730cf6fe85a484e2c5695087900552623d192ef325a
+[15-Apr-2014 15:56:09 America/Chicago] valid: 1397591769
+[15-Apr-2014 15:56:09 America/Chicago] current: 1397595369
+[15-Apr-2014 15:56:09 America/Chicago] no brute
+[16-Apr-2014 13:32:56 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[16-Apr-2014 13:32:56 America/Chicago] valid: 1397669576
+[16-Apr-2014 13:32:56 America/Chicago] current: 1397673176
+[16-Apr-2014 13:32:56 America/Chicago] no brute
+[16-Apr-2014 13:38:03 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[16-Apr-2014 13:38:03 America/Chicago] valid: 1397669883
+[16-Apr-2014 13:38:03 America/Chicago] current: 1397673483
+[16-Apr-2014 13:38:03 America/Chicago] no brute
+[16-Apr-2014 13:40:22 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[16-Apr-2014 13:40:22 America/Chicago] valid: 1397670022
+[16-Apr-2014 13:40:22 America/Chicago] current: 1397673622
+[16-Apr-2014 13:40:22 America/Chicago] no brute
+[16-Apr-2014 13:48:02 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[16-Apr-2014 13:48:02 America/Chicago] valid: 1397670482
+[16-Apr-2014 13:48:02 America/Chicago] current: 1397674082
+[16-Apr-2014 13:48:02 America/Chicago] no brute
+[16-Apr-2014 17:05:11 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[16-Apr-2014 17:05:11 America/Chicago] valid: 1397682311
+[16-Apr-2014 17:05:11 America/Chicago] current: 1397685911
+[16-Apr-2014 17:05:11 America/Chicago] no brute
+[16-Apr-2014 17:07:01 America/Chicago] hashed pw from login form is: Password@123
+[16-Apr-2014 17:07:01 America/Chicago] valid: 1397682421
+[16-Apr-2014 17:07:01 America/Chicago] current: 1397686021
+[16-Apr-2014 17:07:01 America/Chicago] no brute
+[16-Apr-2014 17:07:01 America/Chicago] time is 1397686021
+[16-Apr-2014 17:07:01 America/Chicago] valid: 1397682421
+[16-Apr-2014 17:07:01 America/Chicago] current: 1397686021
+[16-Apr-2014 17:07:01 America/Chicago] no brute
+[16-Apr-2014 17:07:12 America/Chicago] hashed pw from login form is: Password@123
+[16-Apr-2014 17:07:12 America/Chicago] valid: 1397682432
+[16-Apr-2014 17:07:12 America/Chicago] current: 1397686032
+[16-Apr-2014 17:07:12 America/Chicago] no brute
+[16-Apr-2014 17:07:12 America/Chicago] time is 1397686032
+[16-Apr-2014 17:07:12 America/Chicago] valid: 1397682432
+[16-Apr-2014 17:07:12 America/Chicago] current: 1397686032
+[16-Apr-2014 17:07:12 America/Chicago] no brute
+[16-Apr-2014 17:07:55 America/Chicago] hashed pw from login form is: Password@123
+[16-Apr-2014 17:07:55 America/Chicago] valid: 1397682475
+[16-Apr-2014 17:07:55 America/Chicago] current: 1397686075
+[16-Apr-2014 17:07:55 America/Chicago] no brute
+[16-Apr-2014 17:07:55 America/Chicago] time is 1397686075
+[16-Apr-2014 17:07:55 America/Chicago] valid: 1397682475
+[16-Apr-2014 17:07:55 America/Chicago] current: 1397686075
+[16-Apr-2014 17:07:55 America/Chicago] no brute
+[16-Apr-2014 17:12:38 America/Chicago] hashed pw from login form is: Password@123
+[16-Apr-2014 17:12:38 America/Chicago] valid: 1397682758
+[16-Apr-2014 17:12:38 America/Chicago] current: 1397686358
+[16-Apr-2014 17:12:38 America/Chicago] no brute
+[16-Apr-2014 17:12:38 America/Chicago] time is 1397686358
+[16-Apr-2014 17:12:38 America/Chicago] valid: 1397682758
+[16-Apr-2014 17:12:38 America/Chicago] current: 1397686358
+[16-Apr-2014 17:12:38 America/Chicago] no brute
+[16-Apr-2014 17:14:51 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[16-Apr-2014 17:14:51 America/Chicago] valid: 1397682891
+[16-Apr-2014 17:14:51 America/Chicago] current: 1397686491
+[16-Apr-2014 17:14:51 America/Chicago] no brute
+[16-Apr-2014 17:50:10 America/Chicago] fname: Test
+[16-Apr-2014 17:50:10 America/Chicago] lname: Test
+[16-Apr-2014 17:50:10 America/Chicago] dob: 
+[16-Apr-2014 17:50:10 America/Chicago] educationLevel: 
+[16-Apr-2014 17:50:10 America/Chicago] occupation: 
+[16-Apr-2014 17:50:10 America/Chicago] registration salt: 5245ae838a2a0ccfe3a06b307017b5be48c81c66c7b9304f6c20830a371adb8403862fecbe78bc962802fd3365d6c6011836d6b0fccd493f4c613ba2215c8926\n
+[16-Apr-2014 17:50:10 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[16-Apr-2014 17:50:10 America/Chicago] registration final hash: 843ca8f3f6d941e3fd34e3cbfa0e20863240fbf3a4637698870279c429ff556e1eb9ab8e9599a5521d67f71bf5d362946c4e5cc948c6d9296e7620a963b2a688
+[16-Apr-2014 18:02:02 America/Chicago] fname: Angela
+[16-Apr-2014 18:02:02 America/Chicago] lname: Stevenson
+[16-Apr-2014 18:02:02 America/Chicago] dob: 
+[16-Apr-2014 18:02:02 America/Chicago] educationLevel: 
+[16-Apr-2014 18:02:02 America/Chicago] occupation: 
+[16-Apr-2014 18:02:02 America/Chicago] registration salt: 3cdffc2dd723c9e959f2d13faef6dd134d0c6b3021ee4d9f166314faaa5f413d2e62997bdc30082dfde9d2cafe81c203e77268ca51ecbea972c93bb3b2e5b435\n
+[16-Apr-2014 18:02:02 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[16-Apr-2014 18:02:02 America/Chicago] registration final hash: b0b7597fef5a05202de73dfeb8627c69aa9c6800e472c185db3567550038bc954a5b9f13f08486c4772a414b0e4dd3fea00c4be8ce81461d7f729431777344ea
+[16-Apr-2014 18:04:21 America/Chicago] fname: Erica
+[16-Apr-2014 18:04:21 America/Chicago] lname: Smith
+[16-Apr-2014 18:04:21 America/Chicago] dob: 
+[16-Apr-2014 18:04:21 America/Chicago] educationLevel: 
+[16-Apr-2014 18:04:21 America/Chicago] occupation: 
+[16-Apr-2014 18:04:21 America/Chicago] registration salt: 507cd01951543161527d29552510a4e84eadec34b1a2532d5979b4b2d1d4a2b79b8eba22696dd0d798a85d67bbdbe3ad2f603b76961d4d6639f1d06b45db2361\n
+[16-Apr-2014 18:04:21 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[16-Apr-2014 18:04:21 America/Chicago] registration final hash: 9a91209930659fa5415fb06a5b29153eb5d257c69abfc878e1bd7174f107527c4e53626ee3caa41fc35d7bf5ba96d729fd1814fcb8afc75ca06d906b7697d82e
+[16-Apr-2014 18:17:18 America/Chicago] fname: Brian
+[16-Apr-2014 18:17:18 America/Chicago] lname: Bell
+[16-Apr-2014 18:17:18 America/Chicago] dob: 
+[16-Apr-2014 18:17:18 America/Chicago] educationLevel: 
+[16-Apr-2014 18:17:18 America/Chicago] occupation: 
+[16-Apr-2014 18:17:18 America/Chicago] <p class="error">A user with this email address already exists.</p>
+[16-Apr-2014 18:17:32 America/Chicago] fname: Sylvia
+[16-Apr-2014 18:17:32 America/Chicago] lname: Smith
+[16-Apr-2014 18:17:32 America/Chicago] dob: 
+[16-Apr-2014 18:17:32 America/Chicago] educationLevel: 
+[16-Apr-2014 18:17:32 America/Chicago] occupation: 
+[16-Apr-2014 18:17:32 America/Chicago] registration salt: a45549ba629fa6d6b1714872b2b56e9e085394c17b194fa0513d17deb4c924d663b8abd6dfdf32b73770b853421d787a12ae9248ee5e3c5aa17f41bc1983a09e\n
+[16-Apr-2014 18:17:32 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[16-Apr-2014 18:17:32 America/Chicago] registration final hash: 26ae984b4bc07cb4ff170e91d4f48c771973cdcfb0151542d9684f1080c89d9ec0f6b01754be3d5e392a4ea76e82cf2b264497b5da078fafb71a0e5c7c5db044
+[16-Apr-2014 18:17:43 America/Chicago] fname: Angela
+[16-Apr-2014 18:17:43 America/Chicago] lname: Hall
+[16-Apr-2014 18:17:43 America/Chicago] dob: 
+[16-Apr-2014 18:17:43 America/Chicago] educationLevel: 
+[16-Apr-2014 18:17:43 America/Chicago] occupation: 
+[16-Apr-2014 18:17:43 America/Chicago] registration salt: 19b56370cd4c47559a8cf75f29bf41fb3c06d4768d33fe7874bcaa007c12b7072b9ba21b4c660878ddb4ae97d6a55b96253a11905fb0c6ec9e02692fe1444a52\n
+[16-Apr-2014 18:17:43 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[16-Apr-2014 18:17:43 America/Chicago] registration final hash: d9d6761ee2e60bb5ec77f86f02532be14e8563ea05686c039b1b07151b49c0879370988cab493002f38401dc508f6e74b8c351d355a4cf7e0f4fb5ff64e4f431
+[16-Apr-2014 18:17:56 America/Chicago] fname: Erica
+[16-Apr-2014 18:17:56 America/Chicago] lname: Ali
+[16-Apr-2014 18:17:56 America/Chicago] dob: 
+[16-Apr-2014 18:17:56 America/Chicago] educationLevel: 
+[16-Apr-2014 18:17:56 America/Chicago] occupation: 
+[16-Apr-2014 18:17:56 America/Chicago] registration salt: 38c873ddb7f33e1d5986ee86777c4d44b925cf3958b3ab038f4e927a40b3cca18050535b40f3f78ea6b7083af578d78bc5d524bae192e4e2aa01a1395ac46f5b\n
+[16-Apr-2014 18:17:56 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[16-Apr-2014 18:17:56 America/Chicago] registration final hash: b79ab71f6901b9ecd227cba2b804766e20e60fef1b51320a7b6e4553c92a17c29899dcb85da2fd4d1d28f19068fac55d353fc67dceb103f4749c994539c74f4d
+[16-Apr-2014 20:25:44 America/Chicago] fname: Timothy
+[16-Apr-2014 20:25:44 America/Chicago] lname: Hooker
+[16-Apr-2014 20:25:44 America/Chicago] dob: 
+[16-Apr-2014 20:25:44 America/Chicago] educationLevel: 
+[16-Apr-2014 20:25:44 America/Chicago] occupation: 
+[16-Apr-2014 20:25:44 America/Chicago] registration salt: 46612bde69a66be11296a2349bff58a466cc1e480299e5f80b87b874994c8cae10d6b313340c574285e172e3ab3ed45e63bbaaa5a549d2bb6c92d7f69e6b201a\n
+[16-Apr-2014 20:25:44 America/Chicago] registration hashed pw: 9e6f1505e92f1cd5b9267e65d64ab51d8c49f12f321861999a2281a82cb3896b904953045a0143e65d9db0eb9c2410663c8463904fccc918b406efb44538d87f\n
+[16-Apr-2014 20:25:44 America/Chicago] registration final hash: 9a3271bf9832719dd18bc0a090527416205fd091e1e300cd3a7203fff7ee80451abd436b1f9add339893b998bd5320defcbb82c929d4615543b6e9ffeb230b91
+[17-Apr-2014 11:23:45 America/Chicago] fname: Robert
+[17-Apr-2014 11:23:45 America/Chicago] lname: Aidan
+[17-Apr-2014 11:23:45 America/Chicago] dob: 
+[17-Apr-2014 11:23:45 America/Chicago] educationLevel: 
+[17-Apr-2014 11:23:45 America/Chicago] occupation: 
+[17-Apr-2014 11:23:45 America/Chicago] registration salt: 36f517d0fb0cf8692d4b82074907f1ac2c7fed8cef742945429068e5a07a7b8d60ccaa48794f2b2c5bfcd4a45b95fc10edfaba1041be43db62b186ecb36ba20d\n
+[17-Apr-2014 11:23:45 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:23:45 America/Chicago] registration final hash: 74c11d8d8952ed97fe657ed3b806e021394fbd2c08325adffdaa36731db4735055e7ed2b6ce85f7d79db27663bc97516c0244203b1551d07c80b4bcb387893e8
+[17-Apr-2014 11:23:59 America/Chicago] fname: Dan
+[17-Apr-2014 11:23:59 America/Chicago] lname: Kemp
+[17-Apr-2014 11:23:59 America/Chicago] dob: 
+[17-Apr-2014 11:23:59 America/Chicago] educationLevel: 
+[17-Apr-2014 11:23:59 America/Chicago] occupation: 
+[17-Apr-2014 11:23:59 America/Chicago] registration salt: df6436251bb85ab582c0bac9645292077d682de9b9f3ec289fdb830c948f416be1cfe1c65aa50b3ca9fb17c6b97cb14072b90f7076d51fba919479390fca80b3\n
+[17-Apr-2014 11:23:59 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:23:59 America/Chicago] registration final hash: ff47d917ae9510538fe7f174a423ea15f42ed406ae5bb4dc34639f7b50494409817ef049bc5972edc7fb144dc7008e037e04df23671b0c8d0af12dc9297673ee
+[17-Apr-2014 11:24:13 America/Chicago] fname: Robert
+[17-Apr-2014 11:24:13 America/Chicago] lname: Johnson
+[17-Apr-2014 11:24:13 America/Chicago] dob: 
+[17-Apr-2014 11:24:13 America/Chicago] educationLevel: 
+[17-Apr-2014 11:24:13 America/Chicago] occupation: 
+[17-Apr-2014 11:24:13 America/Chicago] registration salt: 0ea17c973314fe52df825604e7d7cf9b68acd288dad3f661ba6bcb255a9ce40b8a1155f09ca485d31c5fe39a14ca8021cb7794fe4c01be5b73df601ddd66e4e0\n
+[17-Apr-2014 11:24:13 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:24:13 America/Chicago] registration final hash: 5ab9a61dda74c28317afdeaebb8184494595079d7795704ef6e4af51fa349142e143eaae2c0cd39ec07530cfb1563facad682b9bd3d3247bc9ef8ce386bb172e
+[17-Apr-2014 11:24:27 America/Chicago] fname: Brian
+[17-Apr-2014 11:24:27 America/Chicago] lname: Bell
+[17-Apr-2014 11:24:27 America/Chicago] dob: 
+[17-Apr-2014 11:24:27 America/Chicago] educationLevel: 
+[17-Apr-2014 11:24:27 America/Chicago] occupation: 
+[17-Apr-2014 11:24:27 America/Chicago] registration salt: e1e3d895a5fe4bb501bad9ddfef554a180690f19cd95ef4b7b0fa84e1f27861604e72eceedfc94394312856d8680c83e415fb95b85ddba58afa3100c5c58bf57\n
+[17-Apr-2014 11:24:27 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:24:27 America/Chicago] registration final hash: 4a01643ef6d285081b9c62bca23bf56f6282f8d9524c510666faa531e365a277d1c820442b19bcc4434692b8f4a28e451c0b2c71ebfb3ec70cfc81b51c74bf1f
+[17-Apr-2014 11:24:42 America/Chicago] fname: Bethanie
+[17-Apr-2014 11:24:42 America/Chicago] lname: O&#39;Connor
+[17-Apr-2014 11:24:42 America/Chicago] dob: 
+[17-Apr-2014 11:24:42 America/Chicago] educationLevel: 
+[17-Apr-2014 11:24:42 America/Chicago] occupation: 
+[17-Apr-2014 11:24:42 America/Chicago] registration salt: e361534c4ec7cced082b42c0bc7e0c0d59d7e275cacd808cf7bb677ae37ce5c5019690c80b892be2ce2d0ce3a849940449b343295d018fd36e790bb0ee40d2cb\n
+[17-Apr-2014 11:24:42 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:24:42 America/Chicago] registration final hash: e945c0b45dd5385f1647e0832238a9ed360c9bba6649702928bee35df526d53b6deeb2d67c5e51a94e928b78b86a2ec288dfd9543343f2ad857e25b0953862bf
+[17-Apr-2014 11:24:58 America/Chicago] fname: Erica
+[17-Apr-2014 11:24:58 America/Chicago] lname: Hall
+[17-Apr-2014 11:24:58 America/Chicago] dob: 
+[17-Apr-2014 11:24:58 America/Chicago] educationLevel: 
+[17-Apr-2014 11:24:58 America/Chicago] occupation: 
+[17-Apr-2014 11:24:58 America/Chicago] registration salt: 301aef46e601fd185645ea0272d4558bac1d9b12bd312fbdd0d4d3570e7f2896beb6f6f4a31e5e5646966ca291557c3fe38fb099a70a9d6cc639c4f2ed46ef6c\n
+[17-Apr-2014 11:24:58 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:24:58 America/Chicago] registration final hash: 178ab3867ba3483842c7d87267c7f15c59f87962754bc2429a157c81716040d41898892b1bf647d3809cec3bec8dfd9f28752f5f7c1c942e89cc0296ef29e75e
+[17-Apr-2014 11:25:17 America/Chicago] fname: Breanna
+[17-Apr-2014 11:25:17 America/Chicago] lname: Kemp
+[17-Apr-2014 11:25:17 America/Chicago] dob: 
+[17-Apr-2014 11:25:17 America/Chicago] educationLevel: 
+[17-Apr-2014 11:25:17 America/Chicago] occupation: 
+[17-Apr-2014 11:25:17 America/Chicago] registration salt: a356a49b8fc80394d633a708d114ec0708f5a72545742ef0501fe1e58c2aeb15e494d1b87f81ec8b454bf2a93d198756b7c095c451ce50ddf4847fffd6ce5272\n
+[17-Apr-2014 11:25:17 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:25:17 America/Chicago] registration final hash: 1491f36a8f59bbee3d2e69341ee31f54ad086187847cec9019951da3d3b0a67f7d1703ce5a5b34f768c695cca3f123e58dcfda30deb54dd286c61ce3246360b1
+[17-Apr-2014 11:25:35 America/Chicago] fname: Dan
+[17-Apr-2014 11:25:35 America/Chicago] lname: Jager
+[17-Apr-2014 11:25:35 America/Chicago] dob: 
+[17-Apr-2014 11:25:35 America/Chicago] educationLevel: 
+[17-Apr-2014 11:25:35 America/Chicago] occupation: 
+[17-Apr-2014 11:25:35 America/Chicago] registration salt: 291fb651ad02eb1e60025e7b7547de8d9a97a78c87ecbd14e44c43746866d72cb0dccc50222e8de055afa32b91a1380e65908f48e6afefceb89b193ffcf3253b\n
+[17-Apr-2014 11:25:35 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:25:35 America/Chicago] registration final hash: aa4ee679c308b15a39b84f3e0042db5c21f4f9c34ab9cb76ac2fa07b97810134faaa3282b009ff7985b84c389d8e232861fe481555eaa9d64a836ff86a230c6b
+[17-Apr-2014 11:25:52 America/Chicago] fname: Sylvia
+[17-Apr-2014 11:25:52 America/Chicago] lname: Johnson
+[17-Apr-2014 11:25:52 America/Chicago] dob: 
+[17-Apr-2014 11:25:52 America/Chicago] educationLevel: 
+[17-Apr-2014 11:25:52 America/Chicago] occupation: 
+[17-Apr-2014 11:25:52 America/Chicago] registration salt: 33808cf4a0186256480cad69346960d264901bdd6083dde4a4004e56f7c1e8711219ce7d9ab169c46626c650b416f114fbb26bdbba4fc1c367819539569b6b67\n
+[17-Apr-2014 11:25:52 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:25:52 America/Chicago] registration final hash: 1eea9f7b9e9ab7c459efcce4d9f788759a31f080f0bdf1dda87dc71991933138033d59b72c19f6e4cda64a6a0933b7e08ba2385d464a432b10587be0859f1f24
+[17-Apr-2014 11:26:09 America/Chicago] fname: Breanna
+[17-Apr-2014 11:26:09 America/Chicago] lname: Smith
+[17-Apr-2014 11:26:09 America/Chicago] dob: 
+[17-Apr-2014 11:26:09 America/Chicago] educationLevel: 
+[17-Apr-2014 11:26:09 America/Chicago] occupation: 
+[17-Apr-2014 11:26:09 America/Chicago] registration salt: 99df1ca82bd30cd635a8c433e40037132cce3d981469de5ef9fe1401b7c0a1be6fbd80a7a6c92b7d014ab19a7efa599c62a6c1aa56aea8cd812164600d4e1341\n
+[17-Apr-2014 11:26:09 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:26:09 America/Chicago] registration final hash: b7078f00711186d191d27e3d70421bce5210c5662d55af875145a6dfa12a45a0bccc2910b9a221e8ac19985203271ba5c3e7e6c527f2da3f36f8d51e108766e4
+[17-Apr-2014 11:26:26 America/Chicago] fname: Steve
+[17-Apr-2014 11:26:26 America/Chicago] lname: Pham
+[17-Apr-2014 11:26:26 America/Chicago] dob: 
+[17-Apr-2014 11:26:26 America/Chicago] educationLevel: 
+[17-Apr-2014 11:26:26 America/Chicago] occupation: 
+[17-Apr-2014 11:26:26 America/Chicago] registration salt: 2224376c999add137e2ced313b905d3e311fae6139271b1795c93d120f395f7d670c5a55078b41fed6ebcc533b9f7bf8ae9ebc329a78dd13a94b02487620ca7b\n
+[17-Apr-2014 11:26:26 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:26:26 America/Chicago] registration final hash: facff23d09cebd7119ee7b4709e8a4a2efbbf7a973d0e10753810f98066a33f7eddd0dd9880f620db5723dbebe619e83e9dbb5dd9f96ad49c327db322376d92a
+[17-Apr-2014 11:26:42 America/Chicago] fname: Alex
+[17-Apr-2014 11:26:42 America/Chicago] lname: Piper
+[17-Apr-2014 11:26:42 America/Chicago] dob: 
+[17-Apr-2014 11:26:42 America/Chicago] educationLevel: 
+[17-Apr-2014 11:26:42 America/Chicago] occupation: 
+[17-Apr-2014 11:26:42 America/Chicago] registration salt: 9855a8df1c0534a20a2df7e2aa5400672965b8e7b3ef7376b633835dbe7aecaf775712e4765179a062a3f12803bd8a6356571d09025ad7cd7d25ace0e158b13c\n
+[17-Apr-2014 11:26:42 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:26:42 America/Chicago] registration final hash: b23353f2c1d48556e5a73b8ffb0367d2c46d6bc92595f9a05bbe5443ffd1ce176363e8ddd15f03757c63b339212e8f4db43a579e1ed04068e10c8f96e63c6bff
+[17-Apr-2014 11:26:57 America/Chicago] fname: Dan
+[17-Apr-2014 11:26:57 America/Chicago] lname: Piper
+[17-Apr-2014 11:26:57 America/Chicago] dob: 
+[17-Apr-2014 11:26:57 America/Chicago] educationLevel: 
+[17-Apr-2014 11:26:57 America/Chicago] occupation: 
+[17-Apr-2014 11:26:57 America/Chicago] registration salt: 0dbe80539ba463c7db6f1fd3edda79fed6b8b5342ec11ba90f8c4ee2d634aeec44bbe73e73b00a0a829799c0e3a412d916c2bf74322af0f1a5e4720181274b86\n
+[17-Apr-2014 11:26:57 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:26:57 America/Chicago] registration final hash: ace924d71fa5e1d85f9aaace3276976b9b6007e14f809f59f37527fc5c848c82c5370d025c88028c9aa98b1fb767f9c57aaaeae8398f1e09dd7bd569f27218fe
+[17-Apr-2014 11:27:14 America/Chicago] fname: Josh
+[17-Apr-2014 11:27:14 America/Chicago] lname: Piper
+[17-Apr-2014 11:27:14 America/Chicago] dob: 
+[17-Apr-2014 11:27:14 America/Chicago] educationLevel: 
+[17-Apr-2014 11:27:14 America/Chicago] occupation: 
+[17-Apr-2014 11:27:14 America/Chicago] registration salt: 4c896ab245858fd3632f2cd4080f1036f1a75d82ffd5049c3ab85fbb4e4047b555a5e339175504bcbeb6e17cde3d9cffd6cdac17fa74da322e94c86ad76a74be\n
+[17-Apr-2014 11:27:14 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:27:14 America/Chicago] registration final hash: 11533fc5fcf2ec4d6b6c673ba33ccf16f56d98a9f8b521866f533dc097c3029db5a20f23b935bc6a32cf6cef7118a644116fb3f71c83de39eb396a2edbc368cf
+[17-Apr-2014 11:27:29 America/Chicago] fname: Breanna
+[17-Apr-2014 11:27:29 America/Chicago] lname: Pham
+[17-Apr-2014 11:27:29 America/Chicago] dob: 
+[17-Apr-2014 11:27:29 America/Chicago] educationLevel: 
+[17-Apr-2014 11:27:29 America/Chicago] occupation: 
+[17-Apr-2014 11:27:29 America/Chicago] registration salt: f8d69ddf090726e03a334f1381f8cd888fc62fb886930efa9c2c18ebe65fea4f505d9e699ffafb4d9e4e47a1d64a9b6217bbd5145a2f999d88187b8defa8fda7\n
+[17-Apr-2014 11:27:29 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:27:29 America/Chicago] registration final hash: f8eda906f6fba4c322ac8fec27588e8c256e0ba5ab895c7b524ee8d1fb788c02321ad531d4b050cd09749325db19ec06edb310b9147f4d4f405ff23a19ffcd83
+[17-Apr-2014 11:27:45 America/Chicago] fname: Bob
+[17-Apr-2014 11:27:45 America/Chicago] lname: Piper
+[17-Apr-2014 11:27:45 America/Chicago] dob: 
+[17-Apr-2014 11:27:45 America/Chicago] educationLevel: 
+[17-Apr-2014 11:27:45 America/Chicago] occupation: 
+[17-Apr-2014 11:27:45 America/Chicago] registration salt: 9fc2ba70c880ef26e9c1f004c1efe4ccab54f98d372cf1569dd5a195a49ca3434bc0be454bd906f336482b19c4cfa30572d844a3d21b947884ea79e02d1c56b9\n
+[17-Apr-2014 11:27:45 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:27:45 America/Chicago] registration final hash: e68c1b5aafa9ec61138c8e027b554b8a826661dabe389bf68ad048e8b11e21692713f0844e58e35dc8aefff6d0529c7ac9d62a00a66b3a799371f3c5edb46c4a
+[17-Apr-2014 11:28:06 America/Chicago] fname: Cathy
+[17-Apr-2014 11:28:06 America/Chicago] lname: Johnson
+[17-Apr-2014 11:28:06 America/Chicago] dob: 
+[17-Apr-2014 11:28:06 America/Chicago] educationLevel: 
+[17-Apr-2014 11:28:06 America/Chicago] occupation: 
+[17-Apr-2014 11:28:06 America/Chicago] registration salt: 9743d02af067b5db3cefe09f64fec0e1aa792e9b5ee4da7ed75c9c4a8f630042924c461bf77adb34fd5bdbaff864e589e849a73f7c05387dab67a08c1ec9b56d\n
+[17-Apr-2014 11:28:06 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:28:06 America/Chicago] registration final hash: ac83284afb1d2964969758cc1fefb397b149a03fcd08b15a462ff17e4a3605b5b020305ba62fac983aae6bb79c07995c7e1856a07f413b6411455d877e9d41fb
+[17-Apr-2014 11:28:24 America/Chicago] fname: Alex
+[17-Apr-2014 11:28:24 America/Chicago] lname: Hall
+[17-Apr-2014 11:28:24 America/Chicago] dob: 
+[17-Apr-2014 11:28:24 America/Chicago] educationLevel: 
+[17-Apr-2014 11:28:24 America/Chicago] occupation: 
+[17-Apr-2014 11:28:24 America/Chicago] registration salt: 92992fd2f3d73101f0941c9cae402e02a0eae2e48ad71778527d1cf38e338cf2f0772cc4c9e4a8da1a446b146e4af39eeb4c18f108e64fc9f47ca4df8e0ee250\n
+[17-Apr-2014 11:28:24 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:28:24 America/Chicago] registration final hash: 5bf27dbe46e412db5a991c15d6e7302c07e6c58d182338004a827d3d69e021fa0c94f50019c97a1e1ecd90f84f99a5adc4f2740a672ba088d28f54ef4fdbe510
+[17-Apr-2014 11:28:39 America/Chicago] fname: Erica
+[17-Apr-2014 11:28:39 America/Chicago] lname: Jager
+[17-Apr-2014 11:28:39 America/Chicago] dob: 
+[17-Apr-2014 11:28:39 America/Chicago] educationLevel: 
+[17-Apr-2014 11:28:39 America/Chicago] occupation: 
+[17-Apr-2014 11:28:39 America/Chicago] registration salt: df97d7b41993aff9972811a586dd9f1b7f8fc285d50b6f1b6ad951e11601cbc392c318ef07f166407760223a559eda3368bb694bedc3526c05f032e6aea0afb2\n
+[17-Apr-2014 11:28:39 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:28:39 America/Chicago] registration final hash: 5e0a937784dca1faf94842ee2a0428bfcf9703d1494ffb00ee73c0b6a2535cc8e54a84e22a5d343b8a21917ab717b726110c6029e19e12ba4d06828b67827fe3
+[17-Apr-2014 11:29:00 America/Chicago] fname: Joe
+[17-Apr-2014 11:29:00 America/Chicago] lname: Eastwood
+[17-Apr-2014 11:29:00 America/Chicago] dob: 
+[17-Apr-2014 11:29:00 America/Chicago] educationLevel: 
+[17-Apr-2014 11:29:00 America/Chicago] occupation: 
+[17-Apr-2014 11:29:00 America/Chicago] registration salt: c9a2f64bd0f9e5b08efad7e5127dabc9cbd1adddbbbde9c6150fc437fb3aa96bf0c1c9b62467e39e36a7f285ebb5ce7c27c334926812af52b76b93487efde693\n
+[17-Apr-2014 11:29:00 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:29:00 America/Chicago] registration final hash: 7064566dcf99cc8e8e8ae9aead46a84ce06ca25efa0cc8304f837ab78cd3e8e79a1802b43f96a777389071b7db96c4a3f434f2cc9b4a52d1d97b2eb021ab45db
+[17-Apr-2014 11:29:18 America/Chicago] fname: Joe
+[17-Apr-2014 11:29:18 America/Chicago] lname: Starr
+[17-Apr-2014 11:29:18 America/Chicago] dob: 
+[17-Apr-2014 11:29:18 America/Chicago] educationLevel: 
+[17-Apr-2014 11:29:18 America/Chicago] occupation: 
+[17-Apr-2014 11:29:18 America/Chicago] registration salt: 33bb3ea85f591a486ddb53ba1cddf426ab69dfab44627c70267cb875a001be208c623aabc50c510ccf147b47dc4b24ffe5cb3f35d75db1189444fa52ca052e53\n
+[17-Apr-2014 11:29:18 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:29:18 America/Chicago] registration final hash: 7d97692563d95cf3d4a74e35748152382e894945a4d93b14499f11b127f8c57ee738ac51e2fc1849b506470f703e474061b2eb2c777c906db959c3c8ff10e64e
+[17-Apr-2014 11:29:34 America/Chicago] fname: Alex
+[17-Apr-2014 11:29:34 America/Chicago] lname: Bell
+[17-Apr-2014 11:29:34 America/Chicago] dob: 
+[17-Apr-2014 11:29:34 America/Chicago] educationLevel: 
+[17-Apr-2014 11:29:34 America/Chicago] occupation: 
+[17-Apr-2014 11:29:34 America/Chicago] registration salt: cece0cb6e78dd72ecfd22bfc3188880957f11abf0800a2abd45bdeda34412e26d4012387291fdc2121c6e8d5e6113b191c8f985e610525020b22f3ee6bc7dabb\n
+[17-Apr-2014 11:29:34 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:29:34 America/Chicago] registration final hash: d58772cfc112eb7cacf72fe52878877d2a8dac87c63cf1228a5c5e26f0f9f36d9102b2e501dbd54529a51877eb95be746db94f31f0fc84d0c2de49a7a72c5c40
+[17-Apr-2014 11:29:53 America/Chicago] fname: Josh
+[17-Apr-2014 11:29:53 America/Chicago] lname: Bell
+[17-Apr-2014 11:29:53 America/Chicago] dob: 
+[17-Apr-2014 11:29:53 America/Chicago] educationLevel: 
+[17-Apr-2014 11:29:53 America/Chicago] occupation: 
+[17-Apr-2014 11:29:53 America/Chicago] registration salt: 13b34c4fecd949d9a0946b4c2a36a989cb2791d49698e2de7071d0053a5bd48bffb5321d7018503db71344040eb79203cca18e6aa0c2c5c66bcdf149cc6f20eb\n
+[17-Apr-2014 11:29:53 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:29:53 America/Chicago] registration final hash: 152f975c30f3428419bc3c3b9970495ccaed298ff15f50e7267a99b8a1723f60dc73220d67118deaa24562f8c88bffb794d0b216351cc20d3b949378821517d2
+[17-Apr-2014 11:30:11 America/Chicago] fname: Bethanie
+[17-Apr-2014 11:30:11 America/Chicago] lname: Stevenson
+[17-Apr-2014 11:30:11 America/Chicago] dob: 
+[17-Apr-2014 11:30:11 America/Chicago] educationLevel: 
+[17-Apr-2014 11:30:11 America/Chicago] occupation: 
+[17-Apr-2014 11:30:11 America/Chicago] registration salt: e710fc72a6e716bda83c94a3171418bf6e331bd5868653cef8bc14bfd62ef94c781aebf688d7a3a2a91c72ebb11da2aab7ff890faa415f3f700e849d7d0aad73\n
+[17-Apr-2014 11:30:11 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:30:11 America/Chicago] registration final hash: c8f3b7a8ca3a35bcc5daee40483d530c519bfb79f5417572eba9afb91392215d2b32bdf46b69c6fba02aea0cdf628c8df3c15ac803501f23203beb87b4982b66
+[17-Apr-2014 11:30:31 America/Chicago] fname: Bethanie
+[17-Apr-2014 11:30:31 America/Chicago] lname: Jager
+[17-Apr-2014 11:30:31 America/Chicago] dob: 
+[17-Apr-2014 11:30:31 America/Chicago] educationLevel: 
+[17-Apr-2014 11:30:31 America/Chicago] occupation: 
+[17-Apr-2014 11:30:31 America/Chicago] registration salt: e1a2c572f58757ffa5a20afca3086afc8dba39c1fbb298d2ba99ab1405cb54e1aef957fa19e408983d266b292dd27830c9d47517b16b915741c4c08e34351c22\n
+[17-Apr-2014 11:30:31 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:30:31 America/Chicago] registration final hash: c20dda09fb8ff1b597eb1dca43deab63279b7e47ea1302ba5276401ee92f1c128aee041ad1f678d8a74dd8aa579352623efe3bd1ebcf7d993d5fe2030c4cf72c
+[17-Apr-2014 11:30:51 America/Chicago] fname: Erica
+[17-Apr-2014 11:30:51 America/Chicago] lname: Johnson
+[17-Apr-2014 11:30:51 America/Chicago] dob: 
+[17-Apr-2014 11:30:51 America/Chicago] educationLevel: 
+[17-Apr-2014 11:30:51 America/Chicago] occupation: 
+[17-Apr-2014 11:30:51 America/Chicago] registration salt: 73fa1d9a2f6998ad34be4be4ff42c792890055535e17c8d78fcc76d60829ec6384f619af222fb41e4e95eae101259a9305c3e1910ae66b9634b1481bda751bab\n
+[17-Apr-2014 11:30:51 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:30:51 America/Chicago] registration final hash: c151c9d77734a6f5b482393b1993864ac807dc91a19e8e88b3b202bc059a7743e6b65f60cc2ba56b3406eda2b9373e05001b541c5d43a5d9673c64b61734f50a
+[17-Apr-2014 11:31:07 America/Chicago] fname: Breanna
+[17-Apr-2014 11:31:07 America/Chicago] lname: Hall
+[17-Apr-2014 11:31:07 America/Chicago] dob: 
+[17-Apr-2014 11:31:07 America/Chicago] educationLevel: 
+[17-Apr-2014 11:31:07 America/Chicago] occupation: 
+[17-Apr-2014 11:31:07 America/Chicago] registration salt: 865c8143845cf4a67a33c2e63c4c7b5fe88344080513a0aeab920c7658133b4302824c3284b97a32d5df22e802c307f65c0beb997c17f0a1f18c61636af7661e\n
+[17-Apr-2014 11:31:07 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:31:07 America/Chicago] registration final hash: 31df4384e4b4f5ea0300861921f1f22539998176c1bc08608bc42f6637585b6d336fdbd8560e8becf74145d75d2c33bd224e4afc23399d2d8f8fda58bd9ef7ca
+[17-Apr-2014 11:31:23 America/Chicago] fname: Alex
+[17-Apr-2014 11:31:23 America/Chicago] lname: Smith
+[17-Apr-2014 11:31:23 America/Chicago] dob: 
+[17-Apr-2014 11:31:23 America/Chicago] educationLevel: 
+[17-Apr-2014 11:31:23 America/Chicago] occupation: 
+[17-Apr-2014 11:31:23 America/Chicago] registration salt: 3d178a2b26fd709d803dc896c3b294249ffc14b7babee644701ffab6588a446ac21991c17f3d9626275df27cd8156e3152ee744c6729e934f64910919c8df397\n
+[17-Apr-2014 11:31:23 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:31:23 America/Chicago] registration final hash: 092002f3bb009936f673e9def80640b4a276f10b77d0418bd679777eefa6d9a4c227982fa0b5c8e1c1d26570bc22c77f370007b77ec84146d5417599df9472ec
+[17-Apr-2014 11:31:42 America/Chicago] fname: Dan
+[17-Apr-2014 11:31:42 America/Chicago] lname: Kemp
+[17-Apr-2014 11:31:42 America/Chicago] dob: 
+[17-Apr-2014 11:31:42 America/Chicago] educationLevel: 
+[17-Apr-2014 11:31:42 America/Chicago] occupation: 
+[17-Apr-2014 11:31:42 America/Chicago] registration salt: c34007bed97cd39911597e469f6a27d24c148f2186e9ff83548da08bae95a1f2d6717c1dd3cd41b4a6fd5b4b0ef7a353383b6a2b590b629ab333c43ed50c68b0\n
+[17-Apr-2014 11:31:42 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:31:42 America/Chicago] registration final hash: c1b60e6b833f342a13e9c673c9346a68e5782eaf64b4ce670c61e49094d3cdc824a62a225b83af64d8b42c744db1f2381213e54753d60674cebe7a9820282cfa
+[17-Apr-2014 11:31:59 America/Chicago] fname: Breanna
+[17-Apr-2014 11:31:59 America/Chicago] lname: Hall
+[17-Apr-2014 11:31:59 America/Chicago] dob: 
+[17-Apr-2014 11:31:59 America/Chicago] educationLevel: 
+[17-Apr-2014 11:31:59 America/Chicago] occupation: 
+[17-Apr-2014 11:31:59 America/Chicago] registration salt: a836acc14ea62e097a5dd72d67e0a5deaf4925cb0d33813daa6d3ae2f161d99ca34f1d28f30a1e3aa77464eb1c262cfd2104d05031148785e648e2457b1c97eb\n
+[17-Apr-2014 11:31:59 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:31:59 America/Chicago] registration final hash: 51d0293db9796449f5abc33105738dfeae0c6764c65b7383b644edba752c4ba1b1da786fb9693327ff8278eae8a271dcef20f949707c0420f23a00e0eb721969
+[17-Apr-2014 11:32:17 America/Chicago] fname: Angela
+[17-Apr-2014 11:32:17 America/Chicago] lname: Bell
+[17-Apr-2014 11:32:17 America/Chicago] dob: 
+[17-Apr-2014 11:32:17 America/Chicago] educationLevel: 
+[17-Apr-2014 11:32:17 America/Chicago] occupation: 
+[17-Apr-2014 11:32:17 America/Chicago] registration salt: 29a3aca98a7e99dbb3fe440d06c1e044727012b54dc11bb6ed4c9ede52189b875a8f770721cb8c1a29e7fb1b755a42fd8dae0f86fe524629d47be896cb91b980\n
+[17-Apr-2014 11:32:17 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:32:17 America/Chicago] registration final hash: 3b03b436e6849d0830bac1387f3e5237c15dd0cb71502b4a861f39192fd2fa233012fc4619e004e8d7bd4126b6f616d5aca0af4c2bb596b4df4a5fb8f487f6c7
+[17-Apr-2014 11:32:34 America/Chicago] fname: Angela
+[17-Apr-2014 11:32:34 America/Chicago] lname: Ali
+[17-Apr-2014 11:32:34 America/Chicago] dob: 
+[17-Apr-2014 11:32:34 America/Chicago] educationLevel: 
+[17-Apr-2014 11:32:34 America/Chicago] occupation: 
+[17-Apr-2014 11:32:34 America/Chicago] registration salt: 992442b0beb5da54518eeff1a19da1bc83c6c90f0b30a2bbbfd170781d8fc255a4eb90430244675cc482640f8d91eb06acc581cf571690e275a9d03835100c94\n
+[17-Apr-2014 11:32:34 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:32:34 America/Chicago] registration final hash: 4c272430829f525128d577b83254355e3cf481fdff684daad34067eb52ecd7ae971f83346de2b3dad1f957476436a94748646cdec8d79e7181b20ddd660e199e
+[17-Apr-2014 11:32:48 America/Chicago] fname: Sylvia
+[17-Apr-2014 11:32:48 America/Chicago] lname: Ali
+[17-Apr-2014 11:32:48 America/Chicago] dob: 
+[17-Apr-2014 11:32:48 America/Chicago] educationLevel: 
+[17-Apr-2014 11:32:48 America/Chicago] occupation: 
+[17-Apr-2014 11:32:48 America/Chicago] registration salt: fa1dea73f8d9e614e6364981dc5a318c36549f03e461d8d86fca79414bd6fe50f7dc29fd8087c5889feac538ea92adf077b50cdd7600760c1e494f62b966f123\n
+[17-Apr-2014 11:32:48 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:32:48 America/Chicago] registration final hash: 30821938094715ffcc2136a9923edf6b545ab1837f0a571c52aba86aa20ae108f96365130fd9735d10140ab503c35b7cc88c4eb7a848dd33dc34e9025e1ca314
+[17-Apr-2014 11:33:04 America/Chicago] fname: Erica
+[17-Apr-2014 11:33:04 America/Chicago] lname: Eastwood
+[17-Apr-2014 11:33:04 America/Chicago] dob: 
+[17-Apr-2014 11:33:04 America/Chicago] educationLevel: 
+[17-Apr-2014 11:33:04 America/Chicago] occupation: 
+[17-Apr-2014 11:33:04 America/Chicago] registration salt: 60f8b3e5b5c2ee3b95af4b8fa76fd88d8946dad129d453822c24e46697d1711bd308029ca92e2224cceaea9426a0be3f8ade4faa1d232f2f355be1b62fe37390\n
+[17-Apr-2014 11:33:04 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:33:04 America/Chicago] registration final hash: 8e7229a131d42bcc57d61499e7bdd93181b44bd0a342051006059a9a26d3f89a9a13cc119a399f25a74eef379ea7289a1b7374fd4e8f4d508505977db23be78e
+[17-Apr-2014 11:33:18 America/Chicago] fname: Joe
+[17-Apr-2014 11:33:18 America/Chicago] lname: Hall
+[17-Apr-2014 11:33:18 America/Chicago] dob: 
+[17-Apr-2014 11:33:18 America/Chicago] educationLevel: 
+[17-Apr-2014 11:33:18 America/Chicago] occupation: 
+[17-Apr-2014 11:33:18 America/Chicago] registration salt: 87a16a119aea6a005b7fe8039388282a2a4585aafa363a0d33b9367a85e4911cf03f48afe695645205d9c66d40abbbadbcfc8662d7d5c05a4e1a98632b79282f\n
+[17-Apr-2014 11:33:18 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:33:18 America/Chicago] registration final hash: 6cb4d9125364af82638518f65b4df0da44a61c32bd1a51009960c166a1d9fb846e8d12b7116d4de51344834d715fc214e1f9a0868f8f52d157ec4f31c4ddacc5
+[17-Apr-2014 11:33:33 America/Chicago] fname: Dan
+[17-Apr-2014 11:33:33 America/Chicago] lname: Jager
+[17-Apr-2014 11:33:33 America/Chicago] dob: 
+[17-Apr-2014 11:33:33 America/Chicago] educationLevel: 
+[17-Apr-2014 11:33:33 America/Chicago] occupation: 
+[17-Apr-2014 11:33:33 America/Chicago] registration salt: e0e0f4d726eb5beffe6fb8625fde8cac4355facf9b18b49c551b3ebce9a17815d741e38b5d95b59104a178bbbea5e942e87785ee8d07534d8623772ee8611274\n
+[17-Apr-2014 11:33:33 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:33:33 America/Chicago] registration final hash: 74d5199bb1adaed606edd4cedfc83b2b8bbfe4e3a76cdbd5155309ababe20059908fb123389358294e8ca235d7cd6f6b50e90a8b1307eeb6ac834d2d22b57344
+[17-Apr-2014 11:33:48 America/Chicago] fname: Angela
+[17-Apr-2014 11:33:48 America/Chicago] lname: O&#39;Connor
+[17-Apr-2014 11:33:48 America/Chicago] dob: 
+[17-Apr-2014 11:33:48 America/Chicago] educationLevel: 
+[17-Apr-2014 11:33:48 America/Chicago] occupation: 
+[17-Apr-2014 11:33:48 America/Chicago] registration salt: c9013e848b6d6cbe416b357bc6e7931b8bcd1a92bd25e46c5832f0e46794f3d1f8d5cbf9f790dc8fde5f761bc5a6e74fadae2c088c82dcc51c1e695234883560\n
+[17-Apr-2014 11:33:48 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:33:48 America/Chicago] registration final hash: 0c143a9b0092b4700396cae8e1081b4c8cd7da80f5f588d2f74fb214e600673f46c6f31d3ff25a0c1774bdd842660b19dcfaa8a368ce09b00afb6f10f6c97eb7
+[17-Apr-2014 11:34:03 America/Chicago] fname: Steve
+[17-Apr-2014 11:34:03 America/Chicago] lname: Eastwood
+[17-Apr-2014 11:34:03 America/Chicago] dob: 
+[17-Apr-2014 11:34:03 America/Chicago] educationLevel: 
+[17-Apr-2014 11:34:03 America/Chicago] occupation: 
+[17-Apr-2014 11:34:03 America/Chicago] registration salt: be9285ffd1878d5f37fdc1f53cacdda57537df414410f048f732ec6f9d1cd92621fe5399fba8ff5f18d72413ced695b393f1f1f561b63efa3a2b7f43d78af18d\n
+[17-Apr-2014 11:34:03 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:34:03 America/Chicago] registration final hash: ab8c32d2e73f36d2fbdacb00ea09429c597920f51579b43fdfe8aecdf5a15f521067fd73878a7666928d25d48c745f1a358645b137e60bfcc993b16876df044f
+[17-Apr-2014 11:34:19 America/Chicago] fname: Dan
+[17-Apr-2014 11:34:19 America/Chicago] lname: Aidan
+[17-Apr-2014 11:34:19 America/Chicago] dob: 
+[17-Apr-2014 11:34:19 America/Chicago] educationLevel: 
+[17-Apr-2014 11:34:19 America/Chicago] occupation: 
+[17-Apr-2014 11:34:19 America/Chicago] registration salt: 309302cd9cc3962b3a84c23835f3ad0c05e6ecadb04024bcde98a0495266523c5e17815c29addbe7ae9298b4e686599827c6938f047d495954601a4c41b161a9\n
+[17-Apr-2014 11:34:19 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:34:19 America/Chicago] registration final hash: 8609df5c0caee7386f12c3df0ec707d48cdfa6dfdb8876c2b159b0e74217d89b43ee23039049d9a2f9dda11b2db65f75cb60cc1afb32b6e2b74b74d88fe63b64
+[17-Apr-2014 11:34:38 America/Chicago] fname: Joe
+[17-Apr-2014 11:34:38 America/Chicago] lname: Hall
+[17-Apr-2014 11:34:38 America/Chicago] dob: 
+[17-Apr-2014 11:34:38 America/Chicago] educationLevel: 
+[17-Apr-2014 11:34:38 America/Chicago] occupation: 
+[17-Apr-2014 11:34:38 America/Chicago] registration salt: 3cbfcecc2be0f0d64f66e9cf0157028b16def0d1e8cfb894a338b0451816af1860b3c61a4b31b93f5269ccf29e7c83c83720288a509e8bb93f0a5b1e08db81b7\n
+[17-Apr-2014 11:34:38 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:34:38 America/Chicago] registration final hash: 3daa3a7022df78111abf28c619945d11238742a6e5f7bfd823dd3fbd3acb5119605fbe27be074dafd70ed48c67af298f957ea6e9ee94e329d2e0fc556d8c77a3
+[17-Apr-2014 11:34:58 America/Chicago] fname: Robert
+[17-Apr-2014 11:34:58 America/Chicago] lname: Johnson
+[17-Apr-2014 11:34:58 America/Chicago] dob: 
+[17-Apr-2014 11:34:58 America/Chicago] educationLevel: 
+[17-Apr-2014 11:34:58 America/Chicago] occupation: 
+[17-Apr-2014 11:34:58 America/Chicago] registration salt: 4573700ed7cf0fabf57d4cf60c55f5282d05f7c4364a9cc2244cb06969a87f22a3c4f78d08c831bcd0369737450d41ea92cab5b824d4d40b017636c86a1b7a9c\n
+[17-Apr-2014 11:34:58 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:34:58 America/Chicago] registration final hash: b8998e114ebdadce7be8dd02a192e19716c814456ebd8a4212626a36c2ba18cc86e4dbd4c28b6e94903f3113be53274c8e0b4a7c3bc16c0945cf8d542fd08e00
+[17-Apr-2014 11:35:19 America/Chicago] fname: Robert
+[17-Apr-2014 11:35:19 America/Chicago] lname: Smith
+[17-Apr-2014 11:35:19 America/Chicago] dob: 
+[17-Apr-2014 11:35:19 America/Chicago] educationLevel: 
+[17-Apr-2014 11:35:19 America/Chicago] occupation: 
+[17-Apr-2014 11:35:19 America/Chicago] registration salt: 7715327464c5216cac6c2e3d9258e63c70a7dd06df357d5aaefbf3f4af027c21bd69f472cb294f5e9240327ab391d3e17395821be463d7d3b722cc4ad946ee94\n
+[17-Apr-2014 11:35:19 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:35:19 America/Chicago] registration final hash: 79d839115302c6d4f5583da52b232ca9b839f1004aab6b0eb3b2dde42709622343e195778f3cc90700ea727d8dcc81a288c58c83df74b69c06021fd8388ecaaf
+[17-Apr-2014 11:35:35 America/Chicago] fname: Joe
+[17-Apr-2014 11:35:35 America/Chicago] lname: Eastwood
+[17-Apr-2014 11:35:35 America/Chicago] dob: 
+[17-Apr-2014 11:35:35 America/Chicago] educationLevel: 
+[17-Apr-2014 11:35:35 America/Chicago] occupation: 
+[17-Apr-2014 11:35:35 America/Chicago] registration salt: db76c5af133f72692e69910737f31567e29fb69b7cb6efea56292b67dff7b963dfc1ff136cf29e9c303e089319fde6561a752d608ec3b434da988a8fe2892100\n
+[17-Apr-2014 11:35:35 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:35:35 America/Chicago] registration final hash: ce04afb3b308f1e6b2c3c2dd3fc2c67035b7b6f2ef542d2b5280cd193df18b93d67c4a3570eae1ac019ee1e3e67bb2a2fb3003fd8bb669c63d25617ede57c148
+[17-Apr-2014 11:35:53 America/Chicago] fname: Joe
+[17-Apr-2014 11:35:53 America/Chicago] lname: Pham
+[17-Apr-2014 11:35:53 America/Chicago] dob: 
+[17-Apr-2014 11:35:53 America/Chicago] educationLevel: 
+[17-Apr-2014 11:35:53 America/Chicago] occupation: 
+[17-Apr-2014 11:35:53 America/Chicago] registration salt: 93540c2fdc94976661eb4727e464d0c0f4694ec6d2522f04605c0e8a91e3883ab663492f8a42c8701ed4b8047c1ef2c961b4bc9041f0f9bcfd4c2049e3b6b60e\n
+[17-Apr-2014 11:35:53 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:35:53 America/Chicago] registration final hash: 35aeecc19506107d351f977a64de779f4ff68167ef6a8db9712c7f42ee5de939aef513914890583a63efcd482898e5988f43d3273c18866a814015fc685eec0c
+[17-Apr-2014 11:36:12 America/Chicago] fname: Breanna
+[17-Apr-2014 11:36:12 America/Chicago] lname: Kemp
+[17-Apr-2014 11:36:12 America/Chicago] dob: 
+[17-Apr-2014 11:36:12 America/Chicago] educationLevel: 
+[17-Apr-2014 11:36:12 America/Chicago] occupation: 
+[17-Apr-2014 11:36:12 America/Chicago] registration salt: 5b612f94a832cda707fac39687881ce07a67e60a6edf2ea1aad01eeae97db4fe72076efa66347b83adb9ea936b0dce0f6f3c723a6789121af95f6012043f0b03\n
+[17-Apr-2014 11:36:12 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:36:12 America/Chicago] registration final hash: 4a94d9b3a2b97cd14befdc90edc94ebb6aac5faad861925f131de12b63a491b2b55a2eb56f5a455f6c23bf12dae9320d7ab31091870b19142189a59818494665
+[17-Apr-2014 11:36:30 America/Chicago] fname: Robert
+[17-Apr-2014 11:36:30 America/Chicago] lname: Ali
+[17-Apr-2014 11:36:30 America/Chicago] dob: 
+[17-Apr-2014 11:36:30 America/Chicago] educationLevel: 
+[17-Apr-2014 11:36:30 America/Chicago] occupation: 
+[17-Apr-2014 11:36:30 America/Chicago] registration salt: 85b6eff4c60da980c267d0f9433659325d894c03e0e1e886a6a25ba71796dc44f9ee2e75c73bf7535a785daac83fbbd33a0e42678cc0164ae8eb9ba8c9b5e6c0\n
+[17-Apr-2014 11:36:30 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:36:30 America/Chicago] registration final hash: ae92afe4d7a8501361bd75280c5013eca6c4456cbc2e132a72e02d348d01a7f8f8964089b19e1636436179968abd39a873342175eaa2fa149fee93c8d0256534
+[17-Apr-2014 11:36:45 America/Chicago] fname: Bethanie
+[17-Apr-2014 11:36:45 America/Chicago] lname: Eastwood
+[17-Apr-2014 11:36:45 America/Chicago] dob: 
+[17-Apr-2014 11:36:45 America/Chicago] educationLevel: 
+[17-Apr-2014 11:36:45 America/Chicago] occupation: 
+[17-Apr-2014 11:36:45 America/Chicago] registration salt: dba917e141055cac1d181abac23cda47d8d035628c1912ed91b60db12eb82e991ea1d9d10cf99a620d1298e5a08231bf292d862fa676dafe6d6d2cdbebf53056\n
+[17-Apr-2014 11:36:45 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:36:45 America/Chicago] registration final hash: d8c7c5098cf08c7dfcac8ce2d83f97812bd6ed8f7814034f4e5e729de90c7056f1f8072c0adddd7824305b07e8f41248364b7031e1291694f9c310f6cadbb552
+[17-Apr-2014 11:37:03 America/Chicago] fname: Josh
+[17-Apr-2014 11:37:03 America/Chicago] lname: Pham
+[17-Apr-2014 11:37:03 America/Chicago] dob: 
+[17-Apr-2014 11:37:03 America/Chicago] educationLevel: 
+[17-Apr-2014 11:37:03 America/Chicago] occupation: 
+[17-Apr-2014 11:37:03 America/Chicago] registration salt: b4fa23bd67c5c83c2471d69030e8fbcd6567c5b0b4237b454165816c2dbde7f5379ff8f1c1778c3d045c5f3a9faa8306134f718af5f138cb14de5625c1e26097\n
+[17-Apr-2014 11:37:03 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:37:03 America/Chicago] registration final hash: 13a6efc16c4e7d06a5c809ddfedf968f7656a413a464692680771bfed4508be266ace4b45e33327d92671d41610a0ddabd591692002bd332ef2d3d9fb64b23a8
+[17-Apr-2014 11:37:20 America/Chicago] fname: Steve
+[17-Apr-2014 11:37:20 America/Chicago] lname: Kemp
+[17-Apr-2014 11:37:20 America/Chicago] dob: 
+[17-Apr-2014 11:37:20 America/Chicago] educationLevel: 
+[17-Apr-2014 11:37:20 America/Chicago] occupation: 
+[17-Apr-2014 11:37:20 America/Chicago] registration salt: b5b6964436181cf965dae8ab2e27ae3d5186d36a3a887ebc618b6683a8b104ba4315c2fe33ef072e727119f5f5dfa75ac949a66dfe10c4b6e17a6f6a407de095\n
+[17-Apr-2014 11:37:20 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:37:20 America/Chicago] registration final hash: c826ace2580a108749c2eb6c0e8cccad33b19df7eead3511a49dc7f3a597bfbc3446b939bf46036e4bf2e1d426eb73155b22982b1117b6ca2148cfaeb80404ed
+[17-Apr-2014 11:37:35 America/Chicago] fname: Robert
+[17-Apr-2014 11:37:35 America/Chicago] lname: Stevenson
+[17-Apr-2014 11:37:35 America/Chicago] dob: 
+[17-Apr-2014 11:37:35 America/Chicago] educationLevel: 
+[17-Apr-2014 11:37:35 America/Chicago] occupation: 
+[17-Apr-2014 11:37:35 America/Chicago] registration salt: 41a8ca3f31907d19d0d1fbca420a33a02566e7340df640f392ba47e41a096d7f42d15b952120c2767fb1aaa8eafd94dd438a7f0ceef04a45232150e36b3fc47d\n
+[17-Apr-2014 11:37:35 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 11:37:35 America/Chicago] registration final hash: 33ead971e54b84014d503462f6066428b1e1af5304ee20ab19119c0156e774a4f21fcc2776505765ed8834d7850dd63c96038680b8642ef4d6f3fdf1c2fde425
+[17-Apr-2014 12:37:50 America/Chicago] fname: Sylvia
+[17-Apr-2014 12:37:50 America/Chicago] lname: Ali
+[17-Apr-2014 12:37:50 America/Chicago] dob: 
+[17-Apr-2014 12:37:50 America/Chicago] educationLevel: 
+[17-Apr-2014 12:37:50 America/Chicago] occupation: 
+[17-Apr-2014 12:37:50 America/Chicago] registration salt: 29bd81787243792aa9c04f7c9114727ed8a01494503c9ba2f0972b44a45c413a409583e264183b84411feb5fbfefc421a454a812e13008f55eeb555e1a01e366\n
+[17-Apr-2014 12:37:50 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 12:37:50 America/Chicago] registration final hash: b8cb03b19bea08a7ef216919bdb0fcd85e44f14e4c117325460da33254e7b430841393723ae1bb1fbf19acaa99dd09c314fca1a838501013d91f488215c97817
+[17-Apr-2014 12:38:06 America/Chicago] fname: Sylvia
+[17-Apr-2014 12:38:06 America/Chicago] lname: Stevenson
+[17-Apr-2014 12:38:06 America/Chicago] dob: 
+[17-Apr-2014 12:38:06 America/Chicago] educationLevel: 
+[17-Apr-2014 12:38:06 America/Chicago] occupation: 
+[17-Apr-2014 12:38:06 America/Chicago] registration salt: 384963a001312b9830bb37dd5eb5af2429e36897d4166911589004e00a052e258d1a2fbbad27deeed0d0995168d1e0cacb2c9250b32a59b12f8b69e90b3fadb0\n
+[17-Apr-2014 12:38:06 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 12:38:06 America/Chicago] registration final hash: 89e4c0c7c4e6b91058af9fc872886b5f46cabe47c27faec1b4101e5b1148f6cbc39b8b4d3967aa225d00329249b9bedb408ccc71c5cdaf740e6678c0edcd789c
+[17-Apr-2014 12:38:20 America/Chicago] fname: Bob
+[17-Apr-2014 12:38:20 America/Chicago] lname: Smith
+[17-Apr-2014 12:38:20 America/Chicago] dob: 
+[17-Apr-2014 12:38:20 America/Chicago] educationLevel: 
+[17-Apr-2014 12:38:20 America/Chicago] occupation: 
+[17-Apr-2014 12:38:20 America/Chicago] registration salt: 01b10c5f6e8e806856d6db0d63c30aa67ec817f7c182947bc89a5ca2fb8e7f9d6cbfa276c89cda0d51be3bc8448bcb87da17458f0d021499cb649e446ec8c938\n
+[17-Apr-2014 12:38:20 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 12:38:20 America/Chicago] registration final hash: 5d6d5b03062e450c79468a2e8c4f50c2d10f37e4d1c9956874cf49749658a93f390c3349e3459d9da48ae461f5aaa636113201a2fca67112c5ea1d68ebee9615
+[17-Apr-2014 12:38:34 America/Chicago] fname: Breanna
+[17-Apr-2014 12:38:34 America/Chicago] lname: Bell
+[17-Apr-2014 12:38:34 America/Chicago] dob: 
+[17-Apr-2014 12:38:34 America/Chicago] educationLevel: 
+[17-Apr-2014 12:38:34 America/Chicago] occupation: 
+[17-Apr-2014 12:38:34 America/Chicago] registration salt: 5fbd4cd309e9304c2d532112a7f953a34b81bcade352e4efca25629277a73da0caf6df62139d583fc5fec9cfab0831c6c6459bd08c73fa7ece93ec1cfbbc22e0\n
+[17-Apr-2014 12:38:34 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 12:38:34 America/Chicago] registration final hash: 62956eebfd0f96c14e17a8a190964b66d5103dd567ead088a3f0a897e00c1fc123da699458b1da5ca7dbbae3fcf8d74cb2da2c1b40bb8575888f22c503626804
+[17-Apr-2014 12:38:48 America/Chicago] fname: Erica
+[17-Apr-2014 12:38:48 America/Chicago] lname: Bell
+[17-Apr-2014 12:38:48 America/Chicago] dob: 
+[17-Apr-2014 12:38:48 America/Chicago] educationLevel: 
+[17-Apr-2014 12:38:48 America/Chicago] occupation: 
+[17-Apr-2014 12:38:48 America/Chicago] registration salt: f8ff73a04031240a2557f48c9c651f077cc70f1ecf1ff3b69e08c4af3f81b358539771cdbc29ecc0eb7a7d9f3e8a64a119d5cd496965800365900dd7ae851d21\n
+[17-Apr-2014 12:38:48 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 12:38:48 America/Chicago] registration final hash: 58e110e4f313c7437c2260573e72ed00f581e724b461c0e9fefe0f11239d4c53892c463d8a17a08d8b4c1eae9564d0c1376963ed5f3874c0d276ccc536a7a555
+[17-Apr-2014 12:39:03 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[17-Apr-2014 12:39:03 America/Chicago] valid: 1397752743
+[17-Apr-2014 12:39:03 America/Chicago] current: 1397756343
+[17-Apr-2014 12:39:03 America/Chicago] no brute
+[17-Apr-2014 14:35:00 America/Chicago] fname: Josh
+[17-Apr-2014 14:35:00 America/Chicago] lname: Piper
+[17-Apr-2014 14:35:00 America/Chicago] dob: 
+[17-Apr-2014 14:35:00 America/Chicago] educationLevel: 
+[17-Apr-2014 14:35:00 America/Chicago] occupation: 
+[17-Apr-2014 14:35:00 America/Chicago] registration salt: e78a799a9245ee6360d5154ecf1befc9c4d548c4fce511f7f5fc87b6d9401b596d72d1c86f77f1e59acc668017a4029fb52addf6b364f0f17a538779c98a8cfc\n
+[17-Apr-2014 14:35:00 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 14:35:00 America/Chicago] registration final hash: 3d897697ded015ee5d9f6260496cf8d2d14ce81834182e01d4d3407490cb6f154de9a974581fe9e5477393787ad02e557e6428e0b950aa24696ab8b8dbc9ca92
+[17-Apr-2014 14:35:10 America/Chicago] fname: Brian
+[17-Apr-2014 14:35:10 America/Chicago] lname: Aidan
+[17-Apr-2014 14:35:10 America/Chicago] dob: 
+[17-Apr-2014 14:35:10 America/Chicago] educationLevel: 
+[17-Apr-2014 14:35:10 America/Chicago] occupation: 
+[17-Apr-2014 14:35:10 America/Chicago] registration salt: c2d91cdae83576400c7f7b6db7ed6c7304c002284be53867d614df5ab25af3c2f35163171a25adda4e7bab15602008647eec4170cc12d629c7a3e21ada8c9472\n
+[17-Apr-2014 14:35:10 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 14:35:10 America/Chicago] registration final hash: 311e58e16be63d2666c6004f7c5d986352c5046ee517fe25ae30efc79adfb5d4e59263a07b1ad7322703e667b9325fd242c61ba0de3bc10e17b68ce44ca6afae
+[17-Apr-2014 14:35:19 America/Chicago] fname: Bethanie
+[17-Apr-2014 14:35:19 America/Chicago] lname: Jager
+[17-Apr-2014 14:35:19 America/Chicago] dob: 
+[17-Apr-2014 14:35:19 America/Chicago] educationLevel: 
+[17-Apr-2014 14:35:19 America/Chicago] occupation: 
+[17-Apr-2014 14:35:19 America/Chicago] registration salt: 4252cb14f79222a1c37cb159ad695d4a7d9149799372a5a0b353e8581b5d9045fecdc097a4480145940556c384b2a2afe9e5b00305b3e8e0426598410cab6116\n
+[17-Apr-2014 14:35:19 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 14:35:19 America/Chicago] registration final hash: d2bec2f20624dd18b6961fc1eb863bdc95e57e1d9331add532890f418dcc5a7a6e887b8fcde7e709c01a8fc10dcfe94be238f3f5643fef433c24b7c9e1e16a7e
+[17-Apr-2014 14:35:28 America/Chicago] fname: Josh
+[17-Apr-2014 14:35:28 America/Chicago] lname: Aidan
+[17-Apr-2014 14:35:28 America/Chicago] dob: 
+[17-Apr-2014 14:35:28 America/Chicago] educationLevel: 
+[17-Apr-2014 14:35:28 America/Chicago] occupation: 
+[17-Apr-2014 14:35:28 America/Chicago] registration salt: 6138f92aada5a55b878d71789b32551674fe7120b1b2a12f39d8faa6818e12bb73a4f4bba94419c66bdb9fba3ea4bba887f1909ffc11de712b14b09fc9062803\n
+[17-Apr-2014 14:35:28 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 14:35:28 America/Chicago] registration final hash: 756763ce7a8cd152655a9d9627731214db5f2c5a55f1446da9dc5b213f839e3f57010f4ad1ae58819df2ebd718880470a555cbbf7ceb595d5e7fcb29a99d2c32
+[17-Apr-2014 14:35:38 America/Chicago] fname: Robert
+[17-Apr-2014 14:35:38 America/Chicago] lname: Hall
+[17-Apr-2014 14:35:38 America/Chicago] dob: 
+[17-Apr-2014 14:35:38 America/Chicago] educationLevel: 
+[17-Apr-2014 14:35:38 America/Chicago] occupation: 
+[17-Apr-2014 14:35:38 America/Chicago] registration salt: b15013f79e94051d960e53e116f9d470b9f7ce8b2e3f5a69c9c8a858f4dbaa4660f66f1869e81f0762130f148c5a4af47218496121b4434d85a73c0cda33c298\n
+[17-Apr-2014 14:35:38 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 14:35:38 America/Chicago] registration final hash: d1e29c761767c8a181b67aeb176909de189fdfc47781e9a314f30810ea11cb49e1316c9c5529c4cc55004c896807b4d99e215357ceb0bf8b23899979f129344b
+[17-Apr-2014 14:51:54 America/Chicago] fname: N
+[17-Apr-2014 14:51:54 America/Chicago] lname: C
+[17-Apr-2014 14:51:54 America/Chicago] dob: 
+[17-Apr-2014 14:51:54 America/Chicago] educationLevel: 
+[17-Apr-2014 14:51:54 America/Chicago] occupation: 
+[17-Apr-2014 14:51:54 America/Chicago] registration salt: 0e5f53c5e91f52a3a1853fab023e6ecaa83b34312a9802061fee8e2901d54dd981fb649ac233151039ae2a5282c22e934d75a3c19f932b039855d73faa4b7e76\n
+[17-Apr-2014 14:51:54 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 14:51:54 America/Chicago] registration final hash: d71eedb0d5472c9f49d9cecee092ed68531b36fa57a4f0d112aaddc884934e480c4a4b8e18517725ba9adf9eabd2a90c1ccbe233ad9b08be5dc6a66f0358d076
+[17-Apr-2014 14:51:54 America/Chicago] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in /home2/twhooker/public_html/zachbeta2/inc/register_inc.php on line 122
+[17-Apr-2014 15:32:38 America/Chicago] fname: N
+[17-Apr-2014 15:32:38 America/Chicago] lname: C
+[17-Apr-2014 15:32:38 America/Chicago] dob: 
+[17-Apr-2014 15:32:38 America/Chicago] educationLevel: 
+[17-Apr-2014 15:32:38 America/Chicago] occupation: 
+[17-Apr-2014 15:32:38 America/Chicago] <p class="error">Invalid password configuration.</p> Password@123
+[17-Apr-2014 15:33:05 America/Chicago] fname: n
+[17-Apr-2014 15:33:05 America/Chicago] lname: c
+[17-Apr-2014 15:33:05 America/Chicago] dob: 
+[17-Apr-2014 15:33:05 America/Chicago] educationLevel: 
+[17-Apr-2014 15:33:05 America/Chicago] occupation: 
+[17-Apr-2014 15:33:05 America/Chicago] registration salt: 2e9cb2283ec1b57de452ea10179dfbd35824e94f509f91285f62555875c514f34c58867f0824b833d0a86a1003b582572028045845e9dedb7be0cd59ed50bcea\n
+[17-Apr-2014 15:33:05 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[17-Apr-2014 15:33:05 America/Chicago] registration final hash: 110a7f752384f4cd92bad9496c1a17f947cb9aff6e42aaa71ce667a2d58272ca6c99c93e757ad5d470bd7916418b50abef4b36d4c663448b2ccd32d19ed57276
+[17-Apr-2014 16:18:16 America/Chicago] hashed pw from login form is: Password@123
+[17-Apr-2014 16:18:16 America/Chicago] valid: 1397765896
+[17-Apr-2014 16:18:16 America/Chicago] current: 1397769496
+[17-Apr-2014 16:18:16 America/Chicago] no brute
+[17-Apr-2014 16:18:16 America/Chicago] time is 1397769496
+[17-Apr-2014 16:18:16 America/Chicago] valid: 1397765896
+[17-Apr-2014 16:18:16 America/Chicago] current: 1397769496
+[17-Apr-2014 16:18:16 America/Chicago] no brute
+[17-Apr-2014 16:18:35 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[17-Apr-2014 16:18:35 America/Chicago] valid: 1397765915
+[17-Apr-2014 16:18:35 America/Chicago] current: 1397769515
+[17-Apr-2014 16:18:35 America/Chicago] no brute
+[17-Apr-2014 16:22:26 America/Chicago] hashed pw from login form is: Password@123
+[17-Apr-2014 16:22:26 America/Chicago] valid: 1397766146
+[17-Apr-2014 16:22:26 America/Chicago] current: 1397769746
+[17-Apr-2014 16:22:26 America/Chicago] no brute
+[17-Apr-2014 16:22:26 America/Chicago] time is 1397769746
+[17-Apr-2014 16:22:26 America/Chicago] valid: 1397766146
+[17-Apr-2014 16:22:26 America/Chicago] current: 1397769746
+[17-Apr-2014 16:22:26 America/Chicago] no brute
+[17-Apr-2014 16:22:46 America/Chicago] hashed pw from login form is: Password@123
+[17-Apr-2014 16:22:46 America/Chicago] valid: 1397766166
+[17-Apr-2014 16:22:46 America/Chicago] current: 1397769766
+[17-Apr-2014 16:22:46 America/Chicago] no brute
+[17-Apr-2014 16:22:46 America/Chicago] time is 1397769766
+[17-Apr-2014 16:22:46 America/Chicago] valid: 1397766166
+[17-Apr-2014 16:22:46 America/Chicago] current: 1397769766
+[17-Apr-2014 16:22:46 America/Chicago] no brute
+[17-Apr-2014 16:23:00 America/Chicago] hashed pw from login form is: Password@123
+[17-Apr-2014 16:23:00 America/Chicago] valid: 1397766180
+[17-Apr-2014 16:23:00 America/Chicago] current: 1397769780
+[17-Apr-2014 16:23:00 America/Chicago] no brute
+[17-Apr-2014 16:23:00 America/Chicago] time is 1397769780
+[17-Apr-2014 16:23:00 America/Chicago] valid: 1397766180
+[17-Apr-2014 16:23:00 America/Chicago] current: 1397769780
+[17-Apr-2014 16:23:00 America/Chicago] brute!
+[17-Apr-2014 16:23:55 America/Chicago] hashed pw from login form is: Password@123
+[17-Apr-2014 16:23:55 America/Chicago] valid: 1397766235
+[17-Apr-2014 16:23:55 America/Chicago] current: 1397769835
+[17-Apr-2014 16:23:55 America/Chicago] no brute
+[17-Apr-2014 16:23:55 America/Chicago] time is 1397769835
+[17-Apr-2014 16:23:55 America/Chicago] valid: 1397766235
+[17-Apr-2014 16:23:55 America/Chicago] current: 1397769835
+[17-Apr-2014 16:23:55 America/Chicago] no brute
+[17-Apr-2014 16:24:22 America/Chicago] fname: N
+[17-Apr-2014 16:24:22 America/Chicago] lname: DC
+[17-Apr-2014 16:24:22 America/Chicago] dob: 
+[17-Apr-2014 16:24:22 America/Chicago] educationLevel: 
+[17-Apr-2014 16:24:22 America/Chicago] occupation: 
+[17-Apr-2014 16:24:22 America/Chicago] registration salt: 395e8abd359895ac3d74263ea63ff27dd68a4c7d439e7a14b706cf674b28c1200f3899b1a1bdffd8ab5b7980562eae466ae565924c848aa9fff91c7c474a3967\n
+[17-Apr-2014 16:24:22 America/Chicago] registration hashed pw: 5070ea6fea9d36140f6328e1c811e31b35a01c83fd3950c99a3cc8e026a8bfc990df1726eb253627645f647c3b8988ad2d27fa54e7785bf9959b21682b0805fa\n
+[17-Apr-2014 16:24:22 America/Chicago] registration final hash: 5fb82edf32dd969c76c2e9586386e4e32ad3b601905b38404d0ee8b054c42c23b3073e0e55f43d5c0e8123a1d9773da0a63ff58e84b052418dbc69a6b87c1fe5
+[17-Apr-2014 16:25:41 America/Chicago] hashed pw from login form is: Teseting123
+[17-Apr-2014 16:25:41 America/Chicago] valid: 1397766341
+[17-Apr-2014 16:25:41 America/Chicago] current: 1397769941
+[17-Apr-2014 16:25:41 America/Chicago] no brute
+[17-Apr-2014 16:25:41 America/Chicago] time is 1397769941
+[17-Apr-2014 16:25:41 America/Chicago] valid: 1397766341
+[17-Apr-2014 16:25:41 America/Chicago] current: 1397769941
+[17-Apr-2014 16:25:41 America/Chicago] no brute
+[17-Apr-2014 16:25:51 America/Chicago] hashed pw from login form is: Testing123
+[17-Apr-2014 16:25:51 America/Chicago] valid: 1397766351
+[17-Apr-2014 16:25:51 America/Chicago] current: 1397769951
+[17-Apr-2014 16:25:51 America/Chicago] no brute
+[17-Apr-2014 16:25:51 America/Chicago] time is 1397769951
+[17-Apr-2014 16:25:51 America/Chicago] valid: 1397766351
+[17-Apr-2014 16:25:51 America/Chicago] current: 1397769951
+[17-Apr-2014 16:25:51 America/Chicago] no brute
+[17-Apr-2014 16:26:22 America/Chicago] hashed pw from login form is: Testing123
+[17-Apr-2014 16:26:22 America/Chicago] valid: 1397766382
+[17-Apr-2014 16:26:22 America/Chicago] current: 1397769982
+[17-Apr-2014 16:26:22 America/Chicago] no brute
+[17-Apr-2014 16:26:22 America/Chicago] time is 1397769982
+[17-Apr-2014 16:26:22 America/Chicago] valid: 1397766382
+[17-Apr-2014 16:26:22 America/Chicago] current: 1397769982
+[17-Apr-2014 16:26:22 America/Chicago] no brute
+[17-Apr-2014 16:28:52 America/Chicago] fname: a
+[17-Apr-2014 16:28:52 America/Chicago] lname: bc
+[17-Apr-2014 16:28:52 America/Chicago] dob: 
+[17-Apr-2014 16:28:52 America/Chicago] educationLevel: 
+[17-Apr-2014 16:28:52 America/Chicago] occupation: 
+[17-Apr-2014 16:28:52 America/Chicago] registration salt: e01ddfcab360002a1cca52a2aa41011acc8a3619941735bd24d86856c1a4c70bcb0c80ae097df6641869302136762b405580c8105ec8a4df980ae86eb7208625\n
+[17-Apr-2014 16:28:52 America/Chicago] registration hashed pw: 369d374322f6e5e67206dea813775d8b89194c8875ccf85907450335a800f2f5b658d98d2f75dc71fb59e90e33dc2804c341d103d24b2cd6b870262929870cf2\n
+[17-Apr-2014 16:28:52 America/Chicago] registration final hash: ca46a9459a754abfec5bad260fb8de873c4a87c989f8ec54858c9f3a094af120d4d32aa4be4144013bb7132f622e53348b2e4bf5f296287b60a1e4aa29040acc
+[17-Apr-2014 16:29:17 America/Chicago] hashed pw from login form is: Xianthar1
+[17-Apr-2014 16:29:17 America/Chicago] valid: 1397766557
+[17-Apr-2014 16:29:17 America/Chicago] current: 1397770157
+[17-Apr-2014 16:29:17 America/Chicago] no brute
+[17-Apr-2014 16:29:17 America/Chicago] time is 1397770157
+[17-Apr-2014 16:29:17 America/Chicago] valid: 1397766557
+[17-Apr-2014 16:29:17 America/Chicago] current: 1397770157
+[17-Apr-2014 16:29:17 America/Chicago] no brute
+[17-Apr-2014 16:29:39 America/Chicago] hashed pw from login form is: Xianthar1
+[17-Apr-2014 16:29:39 America/Chicago] valid: 1397766579
+[17-Apr-2014 16:29:39 America/Chicago] current: 1397770179
+[17-Apr-2014 16:29:39 America/Chicago] no brute
+[17-Apr-2014 16:29:39 America/Chicago] time is 1397770179
+[17-Apr-2014 16:29:39 America/Chicago] valid: 1397766579
+[17-Apr-2014 16:29:39 America/Chicago] current: 1397770179
+[17-Apr-2014 16:29:39 America/Chicago] no brute
+[17-Apr-2014 16:30:42 America/Chicago] fname: aSDFGH123
+[17-Apr-2014 16:30:42 America/Chicago] lname: o
+[17-Apr-2014 16:30:42 America/Chicago] dob: 
+[17-Apr-2014 16:30:42 America/Chicago] educationLevel: 
+[17-Apr-2014 16:30:42 America/Chicago] occupation: 
+[17-Apr-2014 16:30:42 America/Chicago] registration salt: 4406e0ff1c60b39714a7e63f7e4d0de9fdfc4e5bf9cf8ca0a08170c929eae1b50f7af8ba032f1b6cb6ff424eb46e75626c7702e14e993b161c11e25ae3805e51\n
+[17-Apr-2014 16:30:42 America/Chicago] registration hashed pw: c9d72f7ce1801e98864a7020049e35e9040229c1eb9fc097b16829895f7836f3172a8926e153b0dbc3980aaa002c8701e1cf8d2d35636d6f9011c42ecb1bbe1e\n
+[17-Apr-2014 16:30:42 America/Chicago] registration final hash: e2a076bf62dc0e6c907c0d0d95a2fb9808eccae748337235104ba5665bdac1317deca47ada95e7ef09ff4db6d2673068793026a8189d8081f7344b7a735b5c86
+[17-Apr-2014 16:30:42 America/Chicago] 1
+[17-Apr-2014 16:35:29 America/Chicago] fname: aSDFGH123
+[17-Apr-2014 16:35:29 America/Chicago] lname: o
+[17-Apr-2014 16:35:29 America/Chicago] dob: 
+[17-Apr-2014 16:35:29 America/Chicago] educationLevel: 
+[17-Apr-2014 16:35:29 America/Chicago] occupation: 
+[17-Apr-2014 16:35:29 America/Chicago] registration salt: 0f0cd9d8de78d56cfc5827ae403f3e65af9a0df1d207addbf05e3936eeafc5c95d657ea9dcf74cfe2615c6cb1df0de16bf2fa34af7c5638d4374ea4d95ad7896\n
+[17-Apr-2014 16:35:29 America/Chicago] registration hashed pw: c9d72f7ce1801e98864a7020049e35e9040229c1eb9fc097b16829895f7836f3172a8926e153b0dbc3980aaa002c8701e1cf8d2d35636d6f9011c42ecb1bbe1e\n
+[17-Apr-2014 16:35:29 America/Chicago] registration final hash: 3a5ac2fe3da2f2a277848ba235cbae105fe51634d9a894b7ac8a0626abab659225c2a48f1662cacfcd4a99c9bf7e1ba4a280d55b3dcb24c0f6149963b1065a7a
+[17-Apr-2014 16:35:40 America/Chicago] hashed pw from login form is: c9d72f7ce1801e98864a7020049e35e9040229c1eb9fc097b16829895f7836f3172a8926e153b0dbc3980aaa002c8701e1cf8d2d35636d6f9011c42ecb1bbe1e
+[17-Apr-2014 16:35:40 America/Chicago] valid: 1397766940
+[17-Apr-2014 16:35:40 America/Chicago] current: 1397770540
+[17-Apr-2014 16:35:40 America/Chicago] no brute
+[17-Apr-2014 16:42:35 America/Chicago] hashed pw from login form is: cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e
+[17-Apr-2014 16:42:35 America/Chicago] User does not exist
+[17-Apr-2014 16:42:35 America/Chicago] valid: 1397767355
+[17-Apr-2014 16:42:35 America/Chicago] current: 1397770955
+[17-Apr-2014 16:42:35 America/Chicago] no brute
+[17-Apr-2014 16:43:01 America/Chicago] fname: abCD123
+[17-Apr-2014 16:43:01 America/Chicago] lname: abCD123
+[17-Apr-2014 16:43:01 America/Chicago] dob: 
+[17-Apr-2014 16:43:01 America/Chicago] educationLevel: 
+[17-Apr-2014 16:43:01 America/Chicago] occupation: 
+[17-Apr-2014 16:43:01 America/Chicago] registration salt: 3194f4ce49819e65de1a4e4dfdeccda3a99e260fd5ab9ee72c2d9a14f87f153d8990a98c3ca69847b5ed28f2dd44e4eecc89a72bb1421e30094568a04c7df5df\n
+[17-Apr-2014 16:43:01 America/Chicago] registration hashed pw: d4808020966777a7b182451bcc8b4d588fce41a72b4452a0fa3801ef586e2f2d2e2c4154d5271078a303ade1a55ac534923172e722762405c705bbe3ad35b563\n
+[17-Apr-2014 16:43:01 America/Chicago] registration final hash: a54f1b9b077a33e14b5ca992520c07ed323cd591f9dfbc030d00eab563e09d7dbc0f976832063f60ea8d4c5bd9896db9c0446e8f393351f4313423d28c4a566f
+[17-Apr-2014 16:43:25 America/Chicago] hashed pw from login form is: d4808020966777a7b182451bcc8b4d588fce41a72b4452a0fa3801ef586e2f2d2e2c4154d5271078a303ade1a55ac534923172e722762405c705bbe3ad35b563
+[17-Apr-2014 16:43:25 America/Chicago] valid: 1397767405
+[17-Apr-2014 16:43:25 America/Chicago] current: 1397771005
+[17-Apr-2014 16:43:25 America/Chicago] no brute
+[20-Apr-2014 22:57:02 America/Chicago] fname: ABCd123
+[20-Apr-2014 22:57:02 America/Chicago] lname: ABCd123
+[20-Apr-2014 22:57:02 America/Chicago] dob: 
+[20-Apr-2014 22:57:02 America/Chicago] educationLevel: 
+[20-Apr-2014 22:57:02 America/Chicago] occupation: 
+[20-Apr-2014 22:57:02 America/Chicago] registration salt: 3c107c29d1ee0e7791aac131751f96c083ea49bbb86d79a50215836b924ebe60024a8845e4240a905df72fb2ba05b1eba582ed67f08442f3b4ca4ac2388a9bbc\n
+[20-Apr-2014 22:57:02 America/Chicago] registration hashed pw: d519212405ff356046fe0d349b39cb856ad6bf7c57d128763bb165f0d018f676f7d38171ca3db009edbd12a5e9abea6530e54722bf235249e9950f782cc4f9e1\n
+[20-Apr-2014 22:57:02 America/Chicago] registration final hash: 667552df87afe9cdf1bd4329cdbeaf6ee945206883e2dc6da4be59fc6b7b68590e1c35584fa9b5827fdc6ed497def3b874b995bea88e28e4902c9264a36901c7
+[20-Apr-2014 22:57:20 America/Chicago] hashed pw from login form is: d519212405ff356046fe0d349b39cb856ad6bf7c57d128763bb165f0d018f676f7d38171ca3db009edbd12a5e9abea6530e54722bf235249e9950f782cc4f9e1
+[20-Apr-2014 22:57:20 America/Chicago] valid: 1398049040
+[20-Apr-2014 22:57:20 America/Chicago] current: 1398052640
+[20-Apr-2014 22:57:20 America/Chicago] no brute
+[21-Apr-2014 00:37:05 America/Chicago] hashed pw from login form is: b356e2ad841b74535a0413076668a8bd35ec8dbcd40cd38b0bbba0efa7b7e5a4361bbca76a2c933f9e282bad6e2f4a53166db1d19e1d62cf16461b94071f4b86
+[21-Apr-2014 00:37:05 America/Chicago] valid: 1398055025
+[21-Apr-2014 00:37:05 America/Chicago] current: 1398058625
+[21-Apr-2014 00:37:05 America/Chicago] no brute
+[21-Apr-2014 00:37:05 America/Chicago] time is 1398058625
+[21-Apr-2014 00:37:05 America/Chicago] valid: 1398055025
+[21-Apr-2014 00:37:05 America/Chicago] current: 1398058625
+[21-Apr-2014 00:37:05 America/Chicago] no brute
+[21-Apr-2014 00:37:42 America/Chicago] hashed pw from login form is: 
+[21-Apr-2014 00:37:42 America/Chicago] valid: 1398055062
+[21-Apr-2014 00:37:42 America/Chicago] current: 1398058662
+[21-Apr-2014 00:37:42 America/Chicago] no brute
+[21-Apr-2014 00:37:42 America/Chicago] time is 1398058662
+[21-Apr-2014 00:37:42 America/Chicago] valid: 1398055062
+[21-Apr-2014 00:37:42 America/Chicago] current: 1398058662
+[21-Apr-2014 00:37:42 America/Chicago] no brute
+[21-Apr-2014 00:38:12 America/Chicago] hashed pw from login form is: 
+[21-Apr-2014 00:38:12 America/Chicago] valid: 1398055092
+[21-Apr-2014 00:38:12 America/Chicago] current: 1398058692
+[21-Apr-2014 00:38:12 America/Chicago] no brute
+[21-Apr-2014 00:38:12 America/Chicago] time is 1398058692
+[21-Apr-2014 00:38:12 America/Chicago] valid: 1398055092
+[21-Apr-2014 00:38:12 America/Chicago] current: 1398058692
+[21-Apr-2014 00:38:12 America/Chicago] no brute
+[21-Apr-2014 00:39:09 America/Chicago] fname: Sam
+[21-Apr-2014 00:39:09 America/Chicago] lname: Damn
+[21-Apr-2014 00:39:09 America/Chicago] dob: 
+[21-Apr-2014 00:39:09 America/Chicago] educationLevel: 
+[21-Apr-2014 00:39:09 America/Chicago] occupation: 
+[21-Apr-2014 00:39:09 America/Chicago] registration salt: 436447124b3074dc6ece02236dd871ad4c3488be10bb53070611ad9820adc99fcfeed4fa628866cbbfd67f7e6d317e81ee7bd18c35cafb6b57380c979a1dcf10\n
+[21-Apr-2014 00:39:09 America/Chicago] registration hashed pw: 5070ea6fea9d36140f6328e1c811e31b35a01c83fd3950c99a3cc8e026a8bfc990df1726eb253627645f647c3b8988ad2d27fa54e7785bf9959b21682b0805fa\n
+[21-Apr-2014 00:39:09 America/Chicago] registration final hash: 12ead3217a102a59d48b28d4d68a7d0123b857fbadacc39d7a1aa4f0490dba0ab3f63cf85ba1cefa2b56eae9237081e093bd0b2aa2e41d6a35526335a41dcc6f
+[21-Apr-2014 00:39:34 America/Chicago] fname: Sam
+[21-Apr-2014 00:39:34 America/Chicago] lname: Damn
+[21-Apr-2014 00:39:34 America/Chicago] dob: 
+[21-Apr-2014 00:39:34 America/Chicago] educationLevel: 
+[21-Apr-2014 00:39:34 America/Chicago] occupation: 
+[21-Apr-2014 00:39:34 America/Chicago] <p class="error">A user with this email address already exists.</p>
+[21-Apr-2014 00:40:00 America/Chicago] hashed pw from login form is: 5070ea6fea9d36140f6328e1c811e31b35a01c83fd3950c99a3cc8e026a8bfc990df1726eb253627645f647c3b8988ad2d27fa54e7785bf9959b21682b0805fa
+[21-Apr-2014 00:40:00 America/Chicago] valid: 1398055200
+[21-Apr-2014 00:40:00 America/Chicago] current: 1398058800
+[21-Apr-2014 00:40:00 America/Chicago] no brute
+[23-Apr-2014 10:28:50 America/Chicago] fname: Zach
+[23-Apr-2014 10:28:50 America/Chicago] lname: Blue
+[23-Apr-2014 10:28:50 America/Chicago] dob: 
+[23-Apr-2014 10:28:50 America/Chicago] educationLevel: 
+[23-Apr-2014 10:28:50 America/Chicago] occupation: 
+[23-Apr-2014 10:28:50 America/Chicago] registration salt: a90423e25ae0829783c8c3ab9ef41a87fe8b1160b96c97c2e9b2c470e8917c4a78b758c18158b47670470e5b31ac6d4289501b81bdcfbfe0407dd57a2226c84f\n
+[23-Apr-2014 10:28:50 America/Chicago] registration hashed pw: 5070ea6fea9d36140f6328e1c811e31b35a01c83fd3950c99a3cc8e026a8bfc990df1726eb253627645f647c3b8988ad2d27fa54e7785bf9959b21682b0805fa\n
+[23-Apr-2014 10:28:50 America/Chicago] registration final hash: f469e74103b23c9e855bccc146421c10011f602d5e1370a8a7d295324c192cb52de45d22d2e794c61f8a66599f6ebc8b0de0bca1f2ebe8deda1d620329f76651
+[23-Apr-2014 10:28:50 America/Chicago] PHP Fatal error:  Call to undefined function login() in /home2/twhooker/public_html/analystwars.com/inc/register_inc.php on line 124
+[23-Apr-2014 10:29:28 America/Chicago] fname: Zach
+[23-Apr-2014 10:29:28 America/Chicago] lname: Blue
+[23-Apr-2014 10:29:28 America/Chicago] dob: 
+[23-Apr-2014 10:29:28 America/Chicago] educationLevel: 
+[23-Apr-2014 10:29:28 America/Chicago] occupation: 
+[23-Apr-2014 10:29:28 America/Chicago] <p class="error">A user with this email address already exists.</p>
+[23-Apr-2014 10:29:55 America/Chicago] fname: Zach
+[23-Apr-2014 10:29:55 America/Chicago] lname: Net
+[23-Apr-2014 10:29:55 America/Chicago] dob: 
+[23-Apr-2014 10:29:55 America/Chicago] educationLevel: 
+[23-Apr-2014 10:29:55 America/Chicago] occupation: 
+[23-Apr-2014 10:29:55 America/Chicago] registration salt: bdf2991a5a92ee26545aea955b0a1433fb8fd5fd52c3eebd0d6dd0a24cfced873432c5db1b21948a41670b0a9d148d99c6fa90a42b44835f94d50ad1aced8774\n
+[23-Apr-2014 10:29:55 America/Chicago] registration hashed pw: 5070ea6fea9d36140f6328e1c811e31b35a01c83fd3950c99a3cc8e026a8bfc990df1726eb253627645f647c3b8988ad2d27fa54e7785bf9959b21682b0805fa\n
+[23-Apr-2014 10:29:55 America/Chicago] registration final hash: b4390c5ad31ece125f6af5d9482afb9393298d948d9cb771f1c5720f713c848faedb36002c1fd9b055f3cd7ecb0a4b055e38a281b30df757988e379e292c935c
+[23-Apr-2014 10:29:55 America/Chicago] valid: 1398263395
+[23-Apr-2014 10:29:55 America/Chicago] current: 1398266995
+[23-Apr-2014 10:29:55 America/Chicago] no brute
+[23-Apr-2014 10:29:55 America/Chicago] time is 1398266995
+[23-Apr-2014 10:35:39 America/Chicago] fname: Zach
+[23-Apr-2014 10:35:39 America/Chicago] lname: Net
+[23-Apr-2014 10:35:39 America/Chicago] dob: 
+[23-Apr-2014 10:35:39 America/Chicago] educationLevel: 
+[23-Apr-2014 10:35:39 America/Chicago] occupation: 
+[23-Apr-2014 10:35:39 America/Chicago] registration salt: 821ffae1775a8b37450d2b4e3a592dcc75d80cf6b33e94c134a9fb1f28facd2049fa11ea8864c348aed01af3e6eb96327c057fb77ffa6f9db830a0dee7262537\n
+[23-Apr-2014 10:35:39 America/Chicago] registration hashed pw: 5070ea6fea9d36140f6328e1c811e31b35a01c83fd3950c99a3cc8e026a8bfc990df1726eb253627645f647c3b8988ad2d27fa54e7785bf9959b21682b0805fa\n
+[23-Apr-2014 10:35:39 America/Chicago] registration final hash: 8b65733a53666c76eb9190c200077c87d94d525b9c0c508a041e6fa58be0619bd8974b759c7b3a44eba9d9b7dab8dab52453fc949c1f838dc50f96c5a0973637
+[23-Apr-2014 10:35:39 America/Chicago] valid: 1398263739
+[23-Apr-2014 10:35:39 America/Chicago] current: 1398267339
+[23-Apr-2014 10:35:39 America/Chicago] no brute
+[23-Apr-2014 10:42:23 America/Chicago] fname: Zach
+[23-Apr-2014 10:42:23 America/Chicago] lname: Net
+[23-Apr-2014 10:42:23 America/Chicago] dob: 
+[23-Apr-2014 10:42:23 America/Chicago] educationLevel: 
+[23-Apr-2014 10:42:23 America/Chicago] occupation: 
+[23-Apr-2014 10:42:23 America/Chicago] registration salt: e21bae5c5b512539e55a6f582e2feabad41fee414122e6763cf85cf4d71d1f4225898c033b50ad5a2c239783f3425b2cfa756869516d297a27596ef6320b13df\n
+[23-Apr-2014 10:42:23 America/Chicago] registration hashed pw: 7d9ab6135cad221d39a46662b2ecffd114a5b81d22fbb39946222d87eefc67c473558d44ebdb973a0a3ed27cf1d260954f40676a37b5b6abdeb24f897620a7a5\n
+[23-Apr-2014 10:42:23 America/Chicago] registration final hash: 9ac27ed125d4ad13a0bd4841557bb957d99a9c3dd65b31569ef83b800cf021d5f300532c4579799ffb82a1db4e67f846fdd301abe210614adf5c6157ad9cb42c
+[23-Apr-2014 10:42:23 America/Chicago] valid: 1398264143
+[23-Apr-2014 10:42:23 America/Chicago] current: 1398267743
+[23-Apr-2014 10:42:23 America/Chicago] no brute
+[23-Apr-2014 13:18:21 America/Chicago] fname: NC
+[23-Apr-2014 13:18:21 America/Chicago] lname: AA
+[23-Apr-2014 13:18:21 America/Chicago] dob: 
+[23-Apr-2014 13:18:21 America/Chicago] educationLevel: 
+[23-Apr-2014 13:18:21 America/Chicago] occupation: 
+[23-Apr-2014 13:18:21 America/Chicago] registration salt: acf5f928e7ae67b0adb9cf12e798e3d46ce0f53eb9ed25382ed6ae7d1bb05af2930fd57760e6a92a8a66340d9cd28eadde793ac659d5abbcf01f7f4fbeddf1a6\n
+[23-Apr-2014 13:18:21 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[23-Apr-2014 13:18:21 America/Chicago] registration final hash: d877f93252ea372fd0103309b63636a6081ee8a166120e0c8a7b30c6e62214e8c7651dcef8010748156d3a943580072340250e27426f077141a93d2e692e9c82
+[23-Apr-2014 13:18:21 America/Chicago] valid: 1398273501
+[23-Apr-2014 13:18:21 America/Chicago] current: 1398277101
+[23-Apr-2014 13:18:21 America/Chicago] no brute
+[23-Apr-2014 16:46:35 America/Chicago] hashed pw from login form is: cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e
+[23-Apr-2014 16:46:35 America/Chicago] User does not exist
+[23-Apr-2014 16:46:35 America/Chicago] valid: 1398285995
+[23-Apr-2014 16:46:35 America/Chicago] current: 1398289595
+[23-Apr-2014 16:46:35 America/Chicago] no brute
+[23-Apr-2014 16:47:38 America/Chicago] fname: Tim
+[23-Apr-2014 16:47:38 America/Chicago] lname: Hooker
+[23-Apr-2014 16:47:38 America/Chicago] dob: 
+[23-Apr-2014 16:47:38 America/Chicago] educationLevel: 
+[23-Apr-2014 16:47:38 America/Chicago] occupation: 
+[23-Apr-2014 16:47:38 America/Chicago] <p class="error">A user with this email address already exists.</p>
+[23-Apr-2014 16:47:47 America/Chicago] fname: Brian
+[23-Apr-2014 16:47:47 America/Chicago] lname: Smith
+[23-Apr-2014 16:47:47 America/Chicago] dob: 
+[23-Apr-2014 16:47:47 America/Chicago] educationLevel: 
+[23-Apr-2014 16:47:47 America/Chicago] occupation: 
+[23-Apr-2014 16:47:47 America/Chicago] <p class="error">Invalid password configuration.</p> Brice98820
+[23-Apr-2014 16:48:00 America/Chicago] hashed pw from login form is: 9e6f1505e92f1cd5b9267e65d64ab51d8c49f12f321861999a2281a82cb3896b904953045a0143e65d9db0eb9c2410663c8463904fccc918b406efb44538d87f
+[23-Apr-2014 16:48:00 America/Chicago] valid: 1398286080
+[23-Apr-2014 16:48:00 America/Chicago] current: 1398289680
+[23-Apr-2014 16:48:00 America/Chicago] no brute
+[23-Apr-2014 16:48:24 America/Chicago] hashed pw from login form is: 80dc17d411533655e5c7ef8062ec352635d5b564eda310f89d287433d1e5a0f4b8b69989aceb7ec22f9ca13e40d807fc14351dafb5fac2abaddcabf61bf6cca3
+[23-Apr-2014 16:48:24 America/Chicago] User does not exist
+[23-Apr-2014 16:48:24 America/Chicago] valid: 1398286104
+[23-Apr-2014 16:48:24 America/Chicago] current: 1398289704
+[23-Apr-2014 16:48:24 America/Chicago] no brute
+[23-Apr-2014 16:49:08 America/Chicago] hashed pw from login form is: 
+[23-Apr-2014 16:49:08 America/Chicago] User does not exist
+[23-Apr-2014 16:49:08 America/Chicago] valid: 1398286148
+[23-Apr-2014 16:49:08 America/Chicago] current: 1398289748
+[23-Apr-2014 16:49:08 America/Chicago] no brute
+[23-Apr-2014 20:26:50 America/Chicago] fname: n
+[23-Apr-2014 20:26:50 America/Chicago] lname: c
+[23-Apr-2014 20:26:50 America/Chicago] dob: 
+[23-Apr-2014 20:26:50 America/Chicago] educationLevel: 
+[23-Apr-2014 20:26:50 America/Chicago] occupation: 
+[23-Apr-2014 20:26:50 America/Chicago] registration salt: 2c5119a251261a03eb74dda5a22ca02ddfc0ed89f24b9a03d80aeb0f39841299c8a14e96ef5928e199ebeaf7658d4ee27982807ba4b249174301f4da506563e1\n
+[23-Apr-2014 20:26:50 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[23-Apr-2014 20:26:50 America/Chicago] registration final hash: 984cc60f63642d22d96df70d730acd218968fc11227fd464e571ff45db82bb3549d56081dfcd518ad1b4b6fe075be9f2142b3e7ec1a3cbd19613118ce5fda081
+[23-Apr-2014 20:26:50 America/Chicago] valid: 1398299210
+[23-Apr-2014 20:26:50 America/Chicago] current: 1398302810
+[23-Apr-2014 20:26:50 America/Chicago] no brute
+[23-Apr-2014 20:26:50 America/Chicago] hashed pw from login form is: HAilmary22
+[23-Apr-2014 20:26:50 America/Chicago] valid: 1398299210
+[23-Apr-2014 20:26:50 America/Chicago] current: 1398302810
+[23-Apr-2014 20:26:50 America/Chicago] no brute
+[23-Apr-2014 20:26:50 America/Chicago] time is 1398302810
+[23-Apr-2014 20:26:50 America/Chicago] valid: 1398299210
+[23-Apr-2014 20:26:50 America/Chicago] current: 1398302810
+[23-Apr-2014 20:26:50 America/Chicago] no brute
+[23-Apr-2014 20:27:55 America/Chicago] fname: tw
+[23-Apr-2014 20:27:55 America/Chicago] lname: hooker
+[23-Apr-2014 20:27:55 America/Chicago] dob: 
+[23-Apr-2014 20:27:55 America/Chicago] educationLevel: 
+[23-Apr-2014 20:27:55 America/Chicago] occupation: 
+[23-Apr-2014 20:27:55 America/Chicago] registration salt: 2c3606eff79f73f8f2fb537c61d16c18ce955fd71bb84152b57b794c5d2e2c97addc5dec2e8cd78b8fc87498c10c074535419c1209aa75c3df77d9eb712b54e8\n
+[23-Apr-2014 20:27:55 America/Chicago] registration hashed pw: 22197411d7671d40dd97d00ae59002c880d4a91d1a2b4fb6f751e5c57557480124b94b15ad1e4f8e06af60f4cf2f0a38e02d55e68d65fb2477e1ebe60e1eaf86\n
+[23-Apr-2014 20:27:55 America/Chicago] registration final hash: 994c9cf1deea48931076357d0132a2a7adfad633fee2f72a81c70d7543f68ddd77a2e23bbaa9d6b0219427c2f4d6e0b56f06506d55a8074a54f3d5a09e6f3c0e
+[23-Apr-2014 20:27:55 America/Chicago] valid: 1398299275
+[23-Apr-2014 20:27:55 America/Chicago] current: 1398302875
+[23-Apr-2014 20:27:55 America/Chicago] no brute
+[23-Apr-2014 20:42:52 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[23-Apr-2014 20:42:52 America/Chicago] valid: 1398300172
+[23-Apr-2014 20:42:52 America/Chicago] current: 1398303772
+[23-Apr-2014 20:42:52 America/Chicago] no brute
+[24-Apr-2014 11:15:59 America/Chicago] hashed pw from login form is: Password@123
+[24-Apr-2014 11:15:59 America/Chicago] valid: 1398352559
+[24-Apr-2014 11:15:59 America/Chicago] current: 1398356159
+[24-Apr-2014 11:15:59 America/Chicago] no brute
+[24-Apr-2014 11:15:59 America/Chicago] time is 1398356159
+[24-Apr-2014 11:15:59 America/Chicago] valid: 1398352559
+[24-Apr-2014 11:15:59 America/Chicago] current: 1398356159
+[24-Apr-2014 11:15:59 America/Chicago] no brute
+[24-Apr-2014 11:16:12 America/Chicago] hashed pw from login form is: Password@123
+[24-Apr-2014 11:16:12 America/Chicago] valid: 1398352572
+[24-Apr-2014 11:16:12 America/Chicago] current: 1398356172
+[24-Apr-2014 11:16:12 America/Chicago] no brute
+[24-Apr-2014 11:16:12 America/Chicago] time is 1398356172
+[24-Apr-2014 11:16:12 America/Chicago] valid: 1398352572
+[24-Apr-2014 11:16:12 America/Chicago] current: 1398356172
+[24-Apr-2014 11:16:12 America/Chicago] no brute
+[24-Apr-2014 11:17:13 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[24-Apr-2014 11:17:13 America/Chicago] valid: 1398352633
+[24-Apr-2014 11:17:13 America/Chicago] current: 1398356233
+[24-Apr-2014 11:17:13 America/Chicago] no brute
+[24-Apr-2014 12:22:33 America/Chicago] fname: ABCd123
+[24-Apr-2014 12:22:33 America/Chicago] lname: ABCd123
+[24-Apr-2014 12:22:33 America/Chicago] dob: 
+[24-Apr-2014 12:22:33 America/Chicago] educationLevel: 
+[24-Apr-2014 12:22:33 America/Chicago] occupation: 
+[24-Apr-2014 12:22:33 America/Chicago] registration salt: 8670d784b1f6eff18f9d648cb2aa50fda83d5b12aa45dbcc2cac9643123afc0d626cb1da0fcafd1e7968ed7cb7ebcf51e6931182463cec2f8184df50a7459aaa\n
+[24-Apr-2014 12:22:33 America/Chicago] registration hashed pw: d519212405ff356046fe0d349b39cb856ad6bf7c57d128763bb165f0d018f676f7d38171ca3db009edbd12a5e9abea6530e54722bf235249e9950f782cc4f9e1\n
+[24-Apr-2014 12:22:33 America/Chicago] registration final hash: 55ed7c2382811d0b23dd762c1b5941f3cc9f0e5fb7a95db227e884dea6aef57722912f5980960bd408a82e2500fc7cf6562c764820e609289c1125cecb4dabbb
+[24-Apr-2014 12:22:33 America/Chicago] valid: 1398356553
+[24-Apr-2014 12:22:33 America/Chicago] current: 1398360153
+[24-Apr-2014 12:22:33 America/Chicago] no brute
+[24-Apr-2014 12:34:53 America/Chicago] hashed pw from login form is: Password@123
+[24-Apr-2014 12:34:53 America/Chicago] valid: 1398357293
+[24-Apr-2014 12:34:53 America/Chicago] current: 1398360893
+[24-Apr-2014 12:34:53 America/Chicago] no brute
+[24-Apr-2014 12:34:53 America/Chicago] time is 1398360893
+[24-Apr-2014 12:34:53 America/Chicago] valid: 1398357293
+[24-Apr-2014 12:34:53 America/Chicago] current: 1398360893
+[24-Apr-2014 12:34:53 America/Chicago] no brute
+[24-Apr-2014 12:37:31 America/Chicago] hashed pw from login form is: Password@123
+[24-Apr-2014 12:37:31 America/Chicago] valid: 1398357451
+[24-Apr-2014 12:37:31 America/Chicago] current: 1398361051
+[24-Apr-2014 12:37:31 America/Chicago] no brute
+[24-Apr-2014 12:37:31 America/Chicago] time is 1398361051
+[24-Apr-2014 12:37:31 America/Chicago] valid: 1398357451
+[24-Apr-2014 12:37:31 America/Chicago] current: 1398361051
+[24-Apr-2014 12:37:31 America/Chicago] no brute
+[24-Apr-2014 12:37:48 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[24-Apr-2014 12:37:48 America/Chicago] valid: 1398357468
+[24-Apr-2014 12:37:48 America/Chicago] current: 1398361068
+[24-Apr-2014 12:37:48 America/Chicago] no brute
+[24-Apr-2014 13:48:49 America/Chicago] hashed pw from login form is: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c
+[24-Apr-2014 13:48:49 America/Chicago] valid: 1398361729
+[24-Apr-2014 13:48:49 America/Chicago] current: 1398365329
+[24-Apr-2014 13:48:49 America/Chicago] no brute
+[24-Apr-2014 14:19:13 America/Chicago] hashed pw from login form is: Password@123
+[24-Apr-2014 14:19:13 America/Chicago] valid: 1398363553
+[24-Apr-2014 14:19:13 America/Chicago] current: 1398367153
+[24-Apr-2014 14:19:13 America/Chicago] no brute
+[24-Apr-2014 14:19:13 America/Chicago] time is 1398367153
+[24-Apr-2014 14:19:13 America/Chicago] valid: 1398363553
+[24-Apr-2014 14:19:13 America/Chicago] current: 1398367153
+[24-Apr-2014 14:19:13 America/Chicago] no brute
+[24-Apr-2014 14:19:27 America/Chicago] hashed pw from login form is: Password@123
+[24-Apr-2014 14:19:27 America/Chicago] valid: 1398363567
+[24-Apr-2014 14:19:27 America/Chicago] current: 1398367167
+[24-Apr-2014 14:19:27 America/Chicago] no brute
+[24-Apr-2014 14:19:27 America/Chicago] time is 1398367167
+[24-Apr-2014 14:19:27 America/Chicago] valid: 1398363567
+[24-Apr-2014 14:19:27 America/Chicago] current: 1398367167
+[24-Apr-2014 14:19:27 America/Chicago] no brute
+[24-Apr-2014 14:19:35 America/Chicago] hashed pw from login form is: Password@123
+[24-Apr-2014 14:19:35 America/Chicago] valid: 1398363575
+[24-Apr-2014 14:19:35 America/Chicago] current: 1398367175
+[24-Apr-2014 14:19:35 America/Chicago] no brute
+[24-Apr-2014 14:19:35 America/Chicago] time is 1398367175
+[24-Apr-2014 14:19:35 America/Chicago] valid: 1398363575
+[24-Apr-2014 14:19:35 America/Chicago] current: 1398367175
+[24-Apr-2014 14:19:35 America/Chicago] no brute
+[24-Apr-2014 14:20:27 America/Chicago] fname: NCD
+[24-Apr-2014 14:20:27 America/Chicago] lname: NDC
+[24-Apr-2014 14:20:27 America/Chicago] dob: 
+[24-Apr-2014 14:20:27 America/Chicago] educationLevel: 
+[24-Apr-2014 14:20:27 America/Chicago] occupation: 
+[24-Apr-2014 14:20:27 America/Chicago] registration salt: 5cc8f1b62967d282a48eac330004041a7e1aa40d58c4ad542d3c4e60d878bd203b6169a6af2c3108b39496772a08eaf3661cc24ce6b71e6106a3c34d9805c112\n
+[24-Apr-2014 14:20:27 America/Chicago] registration hashed pw: e8be9807c3ec0bd1ce2a58e9cddd4a89966820aedc509830b62f05a226dd29a3764e4962acf28b4b87377b347b9395e1dd5bc87fed1e44f17315b89d7501836c\n
+[24-Apr-2014 14:20:27 America/Chicago] registration final hash: 6f8532db5ea5087f807518bc670b85e628aab1ad79be3bff39254606e97d8732f4b15c6ebddf40355f90198d8982a4f40efdf76036cbdae723afab80db00c1e4
+[24-Apr-2014 14:20:27 America/Chicago] valid: 1398363627
+[24-Apr-2014 14:20:27 America/Chicago] current: 1398367227
+[24-Apr-2014 14:20:27 America/Chicago] no brute
+[24-Apr-2014 14:47:59 America/Chicago] hashed pw from login form is: Password@123
+[24-Apr-2014 14:47:59 America/Chicago] valid: 1398365279
+[24-Apr-2014 14:47:59 America/Chicago] current: 1398368879
+[24-Apr-2014 14:47:59 America/Chicago] no brute
+[24-Apr-2014 14:47:59 America/Chicago] time is 1398368879
+[24-Apr-2014 14:47:59 America/Chicago] valid: 1398365279
+[24-Apr-2014 14:47:59 America/Chicago] current: 1398368879
+[24-Apr-2014 14:47:59 America/Chicago] no brute
+[24-Apr-2014 14:48:56 America/Chicago] hashed pw from login form is: Password@123
+[24-Apr-2014 14:48:56 America/Chicago] valid: 1398365336
+[24-Apr-2014 14:48:56 America/Chicago] current: 1398368936
+[24-Apr-2014 14:48:56 America/Chicago] no brute
+[24-Apr-2014 14:48:56 America/Chicago] time is 1398368936
+[24-Apr-2014 14:48:56 America/Chicago] valid: 1398365336
+[24-Apr-2014 14:48:56 America/Chicago] current: 1398368936
+[24-Apr-2014 14:48:56 America/Chicago] no brute
+[24-Apr-2014 14:49:49 America/Chicago] fname: Jian
+[24-Apr-2014 14:49:49 America/Chicago] lname: Deng
+[24-Apr-2014 14:49:49 America/Chicago] dob: 
+[24-Apr-2014 14:49:49 America/Chicago] educationLevel: 
+[24-Apr-2014 14:49:49 America/Chicago] occupation: 
+[24-Apr-2014 14:49:49 America/Chicago] registration salt: afc3e5ff4019992fe3f119f679de38a174b193d1f43f67d6ab6a14bff20fddc04ae9e8d9f5f40be513056484430df06f92829a20ee73b9628071c144d00f2ea8\n
+[24-Apr-2014 14:49:49 America/Chicago] registration hashed pw: bc30ecc758c63691c69e66d846326670924bff9609b5febf39c1e86cca8fb72783ad5e5b7076359e6d709bc58cd379ade1495945f8591e9876cb2634e43139a6\n
+[24-Apr-2014 14:49:49 America/Chicago] registration final hash: 96af79424133f1ae258d3aaae176325f3e718c1fbd7edc1f9207489cafc834347a47abba9a67c3da332ee850106ffab0cbaffd2d61b79c111ffa59717281b1bd
+[24-Apr-2014 14:49:49 America/Chicago] valid: 1398365389
+[24-Apr-2014 14:49:49 America/Chicago] current: 1398368989
+[24-Apr-2014 14:49:49 America/Chicago] no brute
+[24-Apr-2014 14:52:06 America/Chicago] hashed pw from login form is: bc30ecc758c63691c69e66d846326670924bff9609b5febf39c1e86cca8fb72783ad5e5b7076359e6d709bc58cd379ade1495945f8591e9876cb2634e43139a6
+[24-Apr-2014 14:52:06 America/Chicago] valid: 1398365526
+[24-Apr-2014 14:52:06 America/Chicago] current: 1398369126
+[24-Apr-2014 14:52:06 America/Chicago] no brute
+[24-Apr-2014 14:53:07 America/Chicago] hashed pw from login form is: Abc123
+[24-Apr-2014 14:53:07 America/Chicago] valid: 1398365587
+[24-Apr-2014 14:53:07 America/Chicago] current: 1398369187
+[24-Apr-2014 14:53:07 America/Chicago] no brute
+[24-Apr-2014 14:53:07 America/Chicago] time is 1398369187
+[24-Apr-2014 14:53:07 America/Chicago] valid: 1398365587
+[24-Apr-2014 14:53:07 America/Chicago] current: 1398369187
+[24-Apr-2014 14:53:07 America/Chicago] no brute
+[24-Apr-2014 14:54:49 America/Chicago] fname: Jian
+[24-Apr-2014 14:54:49 America/Chicago] lname: Deng
+[24-Apr-2014 14:54:49 America/Chicago] dob: 
+[24-Apr-2014 14:54:49 America/Chicago] educationLevel: 
+[24-Apr-2014 14:54:49 America/Chicago] occupation: 
+[24-Apr-2014 14:54:49 America/Chicago] registration salt: 699638ad2cbc4963b529dcfda9239640d891a290492c88e27f4c5baf5d21424822ccd4f99c9a0a4cd47d62d3a4083ace463d118fd0819a20c67dafb076b37cd2\n
+[24-Apr-2014 14:54:49 America/Chicago] registration hashed pw: bc30ecc758c63691c69e66d846326670924bff9609b5febf39c1e86cca8fb72783ad5e5b7076359e6d709bc58cd379ade1495945f8591e9876cb2634e43139a6\n
+[24-Apr-2014 14:54:49 America/Chicago] registration final hash: 2e0a7c70ee21ad6d356a13112d9983b0ddc50c32aa1f1a0c5d5620df4952c617e20684da80f21f83994153efe66a1de009441b1185e17a8281905c94a6209b83
+[24-Apr-2014 14:54:49 America/Chicago] valid: 1398365689
+[24-Apr-2014 14:54:49 America/Chicago] current: 1398369289
+[24-Apr-2014 14:54:49 America/Chicago] no brute
+[24-Apr-2014 14:56:21 America/Chicago] hashed pw from login form is: bc30ecc758c63691c69e66d846326670924bff9609b5febf39c1e86cca8fb72783ad5e5b7076359e6d709bc58cd379ade1495945f8591e9876cb2634e43139a6
+[24-Apr-2014 14:56:21 America/Chicago] valid: 1398365781
+[24-Apr-2014 14:56:21 America/Chicago] current: 1398369381
+[24-Apr-2014 14:56:21 America/Chicago] no brute
+[24-Apr-2014 16:51:58 America/Chicago] fname: james
+[24-Apr-2014 16:51:58 America/Chicago] lname: vanoast
+[24-Apr-2014 16:51:58 America/Chicago] dob: 
+[24-Apr-2014 16:51:58 America/Chicago] educationLevel: 
+[24-Apr-2014 16:51:58 America/Chicago] occupation: 
+[24-Apr-2014 16:51:58 America/Chicago] registration salt: 3216430352edef4907c567f5ce601a0752950641be588c90e04ce34acacdda08b1f1cbc37e9d7ba0f1cb28379a0520103aadfcdb244c54ef9ee3d796f22228f1\n
+[24-Apr-2014 16:51:58 America/Chicago] registration hashed pw: 0d490e778ccf1163608e5f593b39681ca3482d56036d627e8109171d42263bc2b647af6d906330b81617340db19a4c155dce8f80401e7701702764c4af49fd99\n
+[24-Apr-2014 16:51:58 America/Chicago] registration final hash: 9528718dff07143a3a6d34ccc61cdeda3f6ed152d07a5317a106d848122fbb40a7caef2a90847941894d96d189dbb4d94ac4aa0268cfa30acffc37f5458a2879
+[24-Apr-2014 16:51:58 America/Chicago] valid: 1398372718
+[24-Apr-2014 16:51:58 America/Chicago] current: 1398376318
+[24-Apr-2014 16:51:58 America/Chicago] no brute
+[24-Apr-2014 16:55:57 America/Chicago] hashed pw from login form is: cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e
+[24-Apr-2014 16:55:57 America/Chicago] User does not exist
+[24-Apr-2014 16:55:57 America/Chicago] valid: 1398372957
+[24-Apr-2014 16:55:57 America/Chicago] current: 1398376557
+[24-Apr-2014 16:55:57 America/Chicago] no brute
+[24-Apr-2014 16:57:52 America/Chicago] hashed pw from login form is: 9e6f1505e92f1cd5b9267e65d64ab51d8c49f12f321861999a2281a82cb3896b904953045a0143e65d9db0eb9c2410663c8463904fccc918b406efb44538d87f
+[24-Apr-2014 16:57:52 America/Chicago] valid: 1398373072
+[24-Apr-2014 16:57:52 America/Chicago] current: 1398376672
+[24-Apr-2014 16:57:52 America/Chicago] no brute
+[24-Apr-2014 17:01:42 America/Chicago] fname: A
+[24-Apr-2014 17:01:42 America/Chicago] lname: BC
+[24-Apr-2014 17:01:42 America/Chicago] dob: 
+[24-Apr-2014 17:01:42 America/Chicago] educationLevel: 
+[24-Apr-2014 17:01:42 America/Chicago] occupation: 
+[24-Apr-2014 17:01:42 America/Chicago] registration salt: 8358317e7d4ac8a139a00c59728830bf395c7b8a45751ff5aceb2519db16a860caae07198e70066651688f3b3c984c6adb78ae980983fd41961d805297e8a0e3\n
+[24-Apr-2014 17:01:42 America/Chicago] registration hashed pw: 60c541357e955879e3f6df1c1ead80c077cf68721a7f69b35fb01ad65c140b73304210a1e7741f48b6a6dd1f35467a8a2bdd9c812f3f1897e1373bd319dbc546\n
+[24-Apr-2014 17:01:42 America/Chicago] registration final hash: dd31910bc0026a3555bc59c8603a5cff44d4325c06e863da0f83e7ea3f0f6d879292f2adcffcdedbbf33ba665b929b3dde18e74e5d7ad82cee63efab85a324e6
+[24-Apr-2014 17:01:42 America/Chicago] valid: 1398373302
+[24-Apr-2014 17:01:42 America/Chicago] current: 1398376902
+[24-Apr-2014 17:01:42 America/Chicago] no brute
+[24-Apr-2014 17:19:19 America/Chicago] fname: Aubrey
+[24-Apr-2014 17:19:19 America/Chicago] lname: Agee
+[24-Apr-2014 17:19:19 America/Chicago] dob: 
+[24-Apr-2014 17:19:19 America/Chicago] educationLevel: 
+[24-Apr-2014 17:19:19 America/Chicago] occupation: 
+[24-Apr-2014 17:19:19 America/Chicago] registration salt: c575691a84e09bda97f0f438a9bd1e7462e0030207780e8ad9157240044b4a207458dcaf1411f7571f288da107d5bd5163fdb249e37c0b0d3b05b0c1cc2ab063\n
+[24-Apr-2014 17:19:19 America/Chicago] registration hashed pw: 2cfad945d3c312bd3dafac7f160599c35df36143974c8fc9ba5ba9e68ba4ae5f7c7599f6db420ac675fb15f06941249a8a40826f672c5ee9c7ae9cfedecb3588\n
+[24-Apr-2014 17:19:19 America/Chicago] registration final hash: a917873284f77bab8d8afa9fb4d22fbb8ff6e127acd47bb7bb55974cff307ccf55f6d4015cedcf077f5b9bbd7b60a8b3227601c9005f5deef3d64894ef73eeac
+[24-Apr-2014 17:19:19 America/Chicago] valid: 1398374359
+[24-Apr-2014 17:19:19 America/Chicago] current: 1398377959
+[24-Apr-2014 17:19:19 America/Chicago] no brute
+[24-Apr-2014 21:29:01 America/Chicago] hashed pw from login form is: 80dc17d411533655e5c7ef8062ec352635d5b564eda310f89d287433d1e5a0f4b8b69989aceb7ec22f9ca13e40d807fc14351dafb5fac2abaddcabf61bf6cca3
+[24-Apr-2014 21:29:01 America/Chicago] User does not exist
+[24-Apr-2014 21:29:01 America/Chicago] valid: 1398389341
+[24-Apr-2014 21:29:01 America/Chicago] current: 1398392941
+[24-Apr-2014 21:29:01 America/Chicago] no brute
